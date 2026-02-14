@@ -25,7 +25,7 @@
                     },
                     {
                         "name": "reimu card 2",
-                        "access_rules": ["4th_market","challenge_market,challenge_logic"],
+                        "access_rules": ["4th_market,sanae_defeat,sakuya_defeat,youmu_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -79,7 +79,7 @@
                     },
                     {
                         "name": "tenshi card 2",
-                        "access_rules": ["5th_market","challenge_market,challenge_logic"],
+                        "access_rules": ["5th_market,tsukasa_defeat,megumu_defeat,clownpiece_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -97,7 +97,7 @@
                     },
                     {
                         "name": "momoyo card",
-                        "access_rules": ["6th_market","challenge_market,challenge_logic"],
+                        "access_rules": ["6th_market,suika_defeat,mamizou_defeat,saki_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -127,7 +127,7 @@
                     },
                     {
                         "name": "nemuno card",
-                        "access_rules": ["1st_market","challenge_market,challenge_logic"],
+                        "access_rules": ["1st_market,mike_defeat,minoriko_defeat,eternity_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -139,7 +139,7 @@
                     },
                     {
                         "name": "urumi card",
-                        "access_rules": ["2nd_market","challenge_market,challenge_logic"],
+                        "access_rules": ["2nd_market,cirno_defeat,wakasagi_defeat,sekibanki_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -151,7 +151,7 @@
                     },
                     {
                         "name": "komachi card",
-                        "access_rules": ["3rd_market","challenge_market,challenge_logic"],
+                        "access_rules": ["3rd_market,ebisu_defeat,kutaka_defeat,narumi_defeat","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
