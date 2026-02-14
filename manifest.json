@@ -1,0 +1,22 @@
+{
+    "name": "Touhou 18.5: 100th Black Market Archipelago",
+    "game_name": "Black Market of Bulletphilia ~ 100th Black Market",
+    "package_version": "0.0.1",
+    "package_uid": "hbm_ap",
+    "author": "Yuureiki",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}

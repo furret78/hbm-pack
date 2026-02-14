@@ -1,0 +1,1210 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "1st market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "mike goutokuji - encounter",
+                        "ref": "1st market/mike goutokuji/encounter"
+                    },
+                    {
+                        "name": "mike goutokuji - defeat",
+                        "ref": "1st market/mike goutokuji/defeat"
+                    },
+                    {
+                        "name": "minoriko aki - encounter",
+                        "ref": "1st market/minoriko aki/encounter"
+                    },
+                    {
+                        "name": "minoriko aki - defeat",
+                        "ref": "1st market/minoriko aki/defeat"
+                    },
+                    {
+                        "name": "eternity larva - encounter",
+                        "ref": "1st market/eternity larva/encounter"
+                    },
+                    {
+                        "name": "eternity larva - defeat",
+                        "ref": "1st market/eternity larva/defeat"
+                    },
+                    {
+                        "name": "nemuno sakata - encounter",
+                        "ref": "1st market/nemuno sakata/encounter"
+                    },
+                    {
+                        "name": "nemuno sakata - defeat",
+                        "ref": "1st market/nemuno sakata/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1668,
+                        "y": 175,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "2nd market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "cirno - encounter",
+                        "ref": "2nd market/cirno/encounter"
+                    },
+                    {
+                        "name": "cirno - defeat",
+                        "ref": "2nd market/cirno/defeat"
+                    },
+                    {
+                        "name": "wakasagihime - encounter",
+                        "ref": "2nd market/wakasagihime/encounter"
+                    },
+                    {
+                        "name": "wakasagihime - defeat",
+                        "ref": "2nd market/wakasagihime/defeat"
+                    },
+                    {
+                        "name": "sekibanki - encounter",
+                        "ref": "2nd market/sekibanki/encounter"
+                    },
+                    {
+                        "name": "sekibanki - defeat",
+                        "ref": "2nd market/sekibanki/defeat"
+                    },
+                    {
+                        "name": "urumi ushizaki - encounter",
+                        "ref": "2nd market/urumi ushizaki/encounter"
+                    },
+                    {
+                        "name": "urumi ushizaki - defeat",
+                        "ref": "2nd market/urumi ushizaki/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2327,
+                        "y": 1603,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "3rd market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "eika ebisu - encounter",
+                        "ref": "3rd market/eika ebisu/encounter"
+                    },
+                    {
+                        "name": "eika ebisu - defeat",
+                        "ref": "3rd market/eika ebisu/defeat"
+                    },
+                    {
+                        "name": "kutaka niwatari - encounter",
+                        "ref": "3rd market/kutaka niwatari/encounter"
+                    },
+                    {
+                        "name": "kutaka niwatari - defeat",
+                        "ref": "3rd market/kutaka niwatari/defeat"
+                    },
+                    {
+                        "name": "narumi yatadera - encounter",
+                        "ref": "3rd market/narumi yatadera/encounter"
+                    },
+                    {
+                        "name": "narumi yatadera - defeat",
+                        "ref": "3rd market/narumi yatadera/defeat"
+                    },
+                    {
+                        "name": "komachi onozuka - encounter",
+                        "ref": "3rd market/komachi onozuka/encounter"
+                    },
+                    {
+                        "name": "komachi onozuka - defeat",
+                        "ref": "3rd market/komachi onozuka/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 409,
+                        "y": 1812,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "4th market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "sanae kochiya - encounter",
+                        "ref": "4th market/sanae kochiya/encounter"
+                    },
+                    {
+                        "name": "sanae kochiya - defeat",
+                        "ref": "4th market/sanae kochiya/defeat"
+                    },
+                    {
+                        "name": "sakuya izayoi - encounter",
+                        "ref": "4th market/sakuya izayoi/encounter"
+                    },
+                    {
+                        "name": "sakuya izayoi - defeat",
+                        "ref": "4th market/sakuya izayoi/defeat"
+                    },
+                    {
+                        "name": "youmu konpaku - encounter",
+                        "ref": "4th market/youmu konpaku/encounter"
+                    },
+                    {
+                        "name": "youmu konpaku - defeat",
+                        "ref": "4th market/youmu konpaku/defeat"
+                    },
+                    {
+                        "name": "reimu hakurei - encounter",
+                        "ref": "4th market/reimu hakurei/encounter"
+                    },
+                    {
+                        "name": "reimu hakurei - defeat",
+                        "ref": "4th market/reimu hakurei/defeat"
+                    },
+                    {
+                        "name": "nitori kawashiro - encounter",
+                        "ref": "4th market/nitori kawashiro/encounter"
+                    },
+                    {
+                        "name": "nitori kawashiro - defeat",
+                        "ref": "4th market/nitori kawashiro/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2154,
+                        "y": 1880,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "5th market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "tsukasa kudamaki - encounter",
+                        "ref": "5th market/tsukasa kudamaki/encounter"
+                    },
+                    {
+                        "name": "tsukasa kudamaki - defeat",
+                        "ref": "5th market/tsukasa kudamaki/defeat"
+                    },
+                    {
+                        "name": "megumu iizunamaru - encounter",
+                        "ref": "5th market/megumu iizunamaru/encounter"
+                    },
+                    {
+                        "name": "megumu iizunamaru - defeat",
+                        "ref": "5th market/megumu iizunamaru/defeat"
+                    },
+                    {
+                        "name": "clownpiece - encounter",
+                        "ref": "5th market/clownpiece/encounter"
+                    },
+                    {
+                        "name": "clownpiece - defeat",
+                        "ref": "5th market/clownpiece/defeat"
+                    },
+                    {
+                        "name": "tenshi hinanawi - encounter",
+                        "ref": "5th market/tenshi hinanawi/encounter"
+                    },
+                    {
+                        "name": "tenshi hinanawi - defeat",
+                        "ref": "5th market/tenshi hinanawi/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2107,
+                        "y": 1384,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "6th market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "suika ibuki - encounter",
+                        "ref": "6th market/suika ibuki/encounter"
+                    },
+                    {
+                        "name": "suika ibuki - defeat",
+                        "ref": "6th market/suika ibuki/defeat"
+                    },
+                    {
+                        "name": "mamizou futatsuiwa - encounter",
+                        "ref": "6th market/mamizou futatsuiwa/encounter"
+                    },
+                    {
+                        "name": "mamizou futatsuiwa - defeat",
+                        "ref": "6th market/mamizou futatsuiwa/defeat"
+                    },
+                    {
+                        "name": "saki kurokoma - encounter",
+                        "ref": "6th market/saki kurokoma/encounter"
+                    },
+                    {
+                        "name": "saki kurokoma - defeat",
+                        "ref": "6th market/saki kurokoma/defeat"
+                    },
+                    {
+                        "name": "momoyo himemushi - encounter",
+                        "ref": "6th market/momoyo himemushi/encounter"
+                    },
+                    {
+                        "name": "momoyo himemushi - defeat",
+                        "ref": "6th market/momoyo himemushi/defeat"
+                    },
+                    {
+                        "name": "takane yamashiro - encounter",
+                        "ref": "6th market/takane yamashiro/encounter"
+                    },
+                    {
+                        "name": "takane yamashiro - defeat",
+                        "ref": "6th market/takane yamashiro/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1394,
+                        "y": 1913,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ability card dex",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "ability card dex - blank card",
+                        "ref": "ability card dex/blank card"
+                    },
+                    {
+                        "name": "ability card dex - nazrin funds card",
+                        "ref": "ability card dex/nazrin funds card"
+                    },
+                    {
+                        "name": "ability card dex - nazrin bullet money card",
+                        "ref": "ability card dex/nazrin bullet money card"
+                    },
+                    {
+                        "name": "ability card dex - life card",
+                        "ref": "ability card dex/life card"
+                    },
+                    {
+                        "name": "ability card dex - ringo card",
+                        "ref": "ability card dex/ringo card"
+                    },
+                    {
+                        "name": "ability card dex - mokou card",
+                        "ref": "ability card dex/mokou card"
+                    },
+                    {
+                        "name": "ability card dex - reimu card 1",
+                        "ref": "ability card dex/reimu card 1"
+                    },
+                    {
+                        "name": "ability card dex - reimu card 2",
+                        "ref": "ability card dex/reimu card 2"
+                    },
+                    {
+                        "name": "ability card dex - marisa card 1",
+                        "ref": "ability card dex/marisa card 1"
+                    },
+                    {
+                        "name": "ability card dex - marisa card 2",
+                        "ref": "ability card dex/marisa card 2"
+                    },
+                    {
+                        "name": "ability card dex - sakuya card 1",
+                        "ref": "ability card dex/sakuya card 1"
+                    },
+                    {
+                        "name": "ability card dex - sakuya card 2",
+                        "ref": "ability card dex/sakuya card 2"
+                    },
+                    {
+                        "name": "ability card dex - sanae card 1",
+                        "ref": "ability card dex/sanae card 1"
+                    },
+                    {
+                        "name": "ability card dex - sanae card 2",
+                        "ref": "ability card dex/sanae card 2"
+                    },
+                    {
+                        "name": "ability card dex - youmu card 1",
+                        "ref": "ability card dex/youmu card 1"
+                    },
+                    {
+                        "name": "ability card dex - youmu card 2",
+                        "ref": "ability card dex/youmu card 2"
+                    },
+                    {
+                        "name": "ability card dex - cirno card",
+                        "ref": "ability card dex/cirno card"
+                    },
+                    {
+                        "name": "ability card dex - okina card",
+                        "ref": "ability card dex/okina card"
+                    },
+                    {
+                        "name": "ability card dex - ufo card",
+                        "ref": "ability card dex/ufo card"
+                    },
+                    {
+                        "name": "ability card dex - nitori card",
+                        "ref": "ability card dex/nitori card"
+                    },
+                    {
+                        "name": "ability card dex - kanako card",
+                        "ref": "ability card dex/kanako card"
+                    },
+                    {
+                        "name": "ability card dex - eirin card",
+                        "ref": "ability card dex/eirin card"
+                    },
+                    {
+                        "name": "ability card dex - tewi card",
+                        "ref": "ability card dex/tewi card"
+                    },
+                    {
+                        "name": "ability card dex - saki card 1",
+                        "ref": "ability card dex/saki card 1"
+                    },
+                    {
+                        "name": "ability card dex - saki card 2",
+                        "ref": "ability card dex/saki card 2"
+                    },
+                    {
+                        "name": "ability card dex - hijiri card",
+                        "ref": "ability card dex/hijiri card"
+                    },
+                    {
+                        "name": "ability card dex - koishi card",
+                        "ref": "ability card dex/koishi card"
+                    },
+                    {
+                        "name": "ability card dex - suwako card",
+                        "ref": "ability card dex/suwako card"
+                    },
+                    {
+                        "name": "ability card dex - aya card",
+                        "ref": "ability card dex/aya card"
+                    },
+                    {
+                        "name": "ability card dex - mayumi card",
+                        "ref": "ability card dex/mayumi card"
+                    },
+                    {
+                        "name": "ability card dex - kaguya card",
+                        "ref": "ability card dex/kaguya card"
+                    },
+                    {
+                        "name": "ability card dex - mamizou card",
+                        "ref": "ability card dex/mamizou card"
+                    },
+                    {
+                        "name": "ability card dex - yuyuko card",
+                        "ref": "ability card dex/yuyuko card"
+                    },
+                    {
+                        "name": "ability card dex - yachie card",
+                        "ref": "ability card dex/yachie card"
+                    },
+                    {
+                        "name": "ability card dex - eiki card",
+                        "ref": "ability card dex/eiki card"
+                    },
+                    {
+                        "name": "ability card dex - jizo card",
+                        "ref": "ability card dex/jizo card"
+                    },
+                    {
+                        "name": "ability card dex - patchouli card",
+                        "ref": "ability card dex/patchouli card"
+                    },
+                    {
+                        "name": "ability card dex - mike card",
+                        "ref": "ability card dex/mike card"
+                    },
+                    {
+                        "name": "ability card dex - takane card",
+                        "ref": "ability card dex/takane card"
+                    },
+                    {
+                        "name": "ability card dex - sannyo card",
+                        "ref": "ability card dex/sannyo card"
+                    },
+                    {
+                        "name": "ability card dex - yukari card",
+                        "ref": "ability card dex/yukari card"
+                    },
+                    {
+                        "name": "ability card dex - mallet card",
+                        "ref": "ability card dex/mallet card"
+                    },
+                    {
+                        "name": "ability card dex - tenshi card 1",
+                        "ref": "ability card dex/tenshi card 1"
+                    },
+                    {
+                        "name": "ability card dex - tenshi card 2",
+                        "ref": "ability card dex/tenshi card 2"
+                    },
+                    {
+                        "name": "ability card dex - moon card",
+                        "ref": "ability card dex/moon card"
+                    },
+                    {
+                        "name": "ability card dex - miko card",
+                        "ref": "ability card dex/miko card"
+                    },
+                    {
+                        "name": "ability card dex - remilia card",
+                        "ref": "ability card dex/remilia card"
+                    },
+                    {
+                        "name": "ability card dex - utsuho card",
+                        "ref": "ability card dex/utsuho card"
+                    },
+                    {
+                        "name": "ability card dex - lily card",
+                        "ref": "ability card dex/lily card"
+                    },
+                    {
+                        "name": "ability card dex - raiko card",
+                        "ref": "ability card dex/raiko card"
+                    },
+                    {
+                        "name": "ability card dex - sumireko card",
+                        "ref": "ability card dex/sumireko card"
+                    },
+                    {
+                        "name": "ability card dex - misumaru card",
+                        "ref": "ability card dex/misumaru card"
+                    },
+                    {
+                        "name": "ability card dex - tsukasa card",
+                        "ref": "ability card dex/tsukasa card"
+                    },
+                    {
+                        "name": "ability card dex - megumu card",
+                        "ref": "ability card dex/megumu card"
+                    },
+                    {
+                        "name": "ability card dex - momoyo card",
+                        "ref": "ability card dex/momoyo card"
+                    },
+                    {
+                        "name": "ability card dex - toramaru card",
+                        "ref": "ability card dex/toramaru card"
+                    },
+                    {
+                        "name": "ability card dex - star sapphire card",
+                        "ref": "ability card dex/star sapphire card"
+                    },
+                    {
+                        "name": "ability card dex - luna child card",
+                        "ref": "ability card dex/luna child card"
+                    },
+                    {
+                        "name": "ability card dex - sunny milk card",
+                        "ref": "ability card dex/sunny milk card"
+                    },
+                    {
+                        "name": "ability card dex - flandre card",
+                        "ref": "ability card dex/flandre card"
+                    },
+                    {
+                        "name": "ability card dex - futo card",
+                        "ref": "ability card dex/futo card"
+                    },
+                    {
+                        "name": "ability card dex - aunn card",
+                        "ref": "ability card dex/aunn card"
+                    },
+                    {
+                        "name": "ability card dex - joon card",
+                        "ref": "ability card dex/joon card"
+                    },
+                    {
+                        "name": "ability card dex - shion card",
+                        "ref": "ability card dex/shion card"
+                    },
+                    {
+                        "name": "ability card dex - keiki card",
+                        "ref": "ability card dex/keiki card"
+                    },
+                    {
+                        "name": "ability card dex - seiran card",
+                        "ref": "ability card dex/seiran card"
+                    },
+                    {
+                        "name": "ability card dex - doremy card",
+                        "ref": "ability card dex/doremy card"
+                    },
+                    {
+                        "name": "ability card dex - junko card",
+                        "ref": "ability card dex/junko card"
+                    },
+                    {
+                        "name": "ability card dex - nitori story card",
+                        "ref": "ability card dex/nitori story card"
+                    },
+                    {
+                        "name": "ability card dex - takane story card",
+                        "ref": "ability card dex/takane story card"
+                    },
+                    {
+                        "name": "ability card dex - minoriko card",
+                        "ref": "ability card dex/minoriko card"
+                    },
+                    {
+                        "name": "ability card dex - eternity card",
+                        "ref": "ability card dex/eternity card"
+                    },
+                    {
+                        "name": "ability card dex - nemuno card",
+                        "ref": "ability card dex/nemuno card"
+                    },
+                    {
+                        "name": "ability card dex - wakasagi card",
+                        "ref": "ability card dex/wakasagi card"
+                    },
+                    {
+                        "name": "ability card dex - urumi card",
+                        "ref": "ability card dex/urumi card"
+                    },
+                    {
+                        "name": "ability card dex - kutaka card",
+                        "ref": "ability card dex/kutaka card"
+                    },
+                    {
+                        "name": "ability card dex - komachi card",
+                        "ref": "ability card dex/komachi card"
+                    },
+                    {
+                        "name": "ability card dex - ebisu card",
+                        "ref": "ability card dex/ebisu card"
+                    },
+                    {
+                        "name": "ability card dex - seija card",
+                        "ref": "ability card dex/seija card"
+                    },
+                    {
+                        "name": "ability card dex - clownpiece card",
+                        "ref": "ability card dex/clownpiece card"
+                    },
+                    {
+                        "name": "ability card dex - suika card",
+                        "ref": "ability card dex/suika card"
+                    },
+                    {
+                        "name": "ability card dex - teacup reimu card",
+                        "ref": "ability card dex/teacup reimu card"
+                    },
+                    {
+                        "name": "ability card dex - teacup marisa card",
+                        "ref": "ability card dex/teacup marisa card"
+                    },
+                    {
+                        "name": "ability card dex - sekibanki card",
+                        "ref": "ability card dex/sekibanki card"
+                    },
+                    {
+                        "name": "ability card dex - alice card",
+                        "ref": "ability card dex/alice card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1831,
+                        "y": 2363,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "challenge market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "mike goutokuji - encounter",
+                        "ref": "challenge market/mike goutokuji/encounter"
+                    },
+                    {
+                        "name": "minoriko aki - encounter",
+                        "ref": "challenge market/minoriko aki/encounter"
+                    },
+                    {
+                        "name": "eternity larva - encounter",
+                        "ref": "challenge market/eternity larva/encounter"
+                    },
+                    {
+                        "name": "nemuno sakata - encounter",
+                        "ref": "challenge market/nemuno sakata/encounter"
+                    },
+                    {
+                        "name": "cirno - encounter",
+                        "ref": "challenge market/cirno/encounter"
+                    },
+                    {
+                        "name": "wakasagihime - encounter",
+                        "ref": "challenge market/wakasagihime/encounter"
+                    },
+                    {
+                        "name": "sekibanki - encounter",
+                        "ref": "challenge market/sekibanki/encounter"
+                    },
+                    {
+                        "name": "urumi ushizaki - encounter",
+                        "ref": "challenge market/urumi ushizaki/encounter"
+                    },
+                    {
+                        "name": "eika ebisu - encounter",
+                        "ref": "challenge market/eika ebisu/encounter"
+                    },
+                    {
+                        "name": "kutaka niwatari - encounter",
+                        "ref": "challenge market/kutaka niwatari/encounter"
+                    },
+                    {
+                        "name": "narumi yatadera - encounter",
+                        "ref": "challenge market/narumi yatadera/encounter"
+                    },
+                    {
+                        "name": "komachi onozuka - encounter",
+                        "ref": "challenge market/komachi onozuka/encounter"
+                    },
+                    {
+                        "name": "sanae kochiya - encounter",
+                        "ref": "challenge market/sanae kochiya/encounter"
+                    },
+                    {
+                        "name": "sakuya izayoi - encounter",
+                        "ref": "challenge market/sakuya izayoi/encounter"
+                    },
+                    {
+                        "name": "youmu konpaku - encounter",
+                        "ref": "challenge market/youmu konpaku/encounter"
+                    },
+                    {
+                        "name": "reimu hakurei - encounter",
+                        "ref": "challenge market/reimu hakurei/encounter"
+                    },
+                    {
+                        "name": "tsukasa kudamaki - encounter",
+                        "ref": "challenge market/tsukasa kudamaki/encounter"
+                    },
+                    {
+                        "name": "megumu iizunamaru - encounter",
+                        "ref": "challenge market/megumu iizunamaru/encounter"
+                    },
+                    {
+                        "name": "clownpiece - encounter",
+                        "ref": "challenge market/clownpiece/encounter"
+                    },
+                    {
+                        "name": "tenshi hinanawi - encounter",
+                        "ref": "challenge market/tenshi hinanawi/encounter"
+                    },
+                    {
+                        "name": "suika ibuki - encounter",
+                        "ref": "challenge market/suika ibuki/encounter"
+                    },
+                    {
+                        "name": "mamizou futatsuiwa - encounter",
+                        "ref": "challenge market/mamizou futatsuiwa/encounter"
+                    },
+                    {
+                        "name": "saki kurokoma - encounter",
+                        "ref": "challenge market/saki kurokoma/encounter"
+                    },
+                    {
+                        "name": "momoyo himemushi - encounter",
+                        "ref": "challenge market/momoyo himemushi/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 575,
+                        "y": 241,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "end of market",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "chimata tenkyuu - encounter",
+                        "ref": "end of market/chimata tenkyuu/encounter"
+                    },
+                    {
+                        "name": "chimata tenkyuu - defeat",
+                        "ref": "end of market/chimata tenkyuu/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 271,
+                        "y": 1748,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "market card reward",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "exclusive - blank card",
+                        "ref": "market card reward/exclusive/blank card"
+                    },
+                    {
+                        "name": "exclusive - reimu card 2",
+                        "ref": "market card reward/exclusive/reimu card 2"
+                    },
+                    {
+                        "name": "exclusive - sakuya card 2",
+                        "ref": "market card reward/exclusive/sakuya card 2"
+                    },
+                    {
+                        "name": "exclusive - sanae card 2",
+                        "ref": "market card reward/exclusive/sanae card 2"
+                    },
+                    {
+                        "name": "exclusive - youmu card 2",
+                        "ref": "market card reward/exclusive/youmu card 2"
+                    },
+                    {
+                        "name": "exclusive - cirno card",
+                        "ref": "market card reward/exclusive/cirno card"
+                    },
+                    {
+                        "name": "exclusive - saki card 2",
+                        "ref": "market card reward/exclusive/saki card 2"
+                    },
+                    {
+                        "name": "exclusive - mamizou card",
+                        "ref": "market card reward/exclusive/mamizou card"
+                    },
+                    {
+                        "name": "exclusive - jizo card",
+                        "ref": "market card reward/exclusive/jizo card"
+                    },
+                    {
+                        "name": "exclusive - mike card",
+                        "ref": "market card reward/exclusive/mike card"
+                    },
+                    {
+                        "name": "exclusive - tenshi card 2",
+                        "ref": "market card reward/exclusive/tenshi card 2"
+                    },
+                    {
+                        "name": "exclusive - tsukasa card",
+                        "ref": "market card reward/exclusive/tsukasa card"
+                    },
+                    {
+                        "name": "exclusive - megumu card",
+                        "ref": "market card reward/exclusive/megumu card"
+                    },
+                    {
+                        "name": "exclusive - momoyo card",
+                        "ref": "market card reward/exclusive/momoyo card"
+                    },
+                    {
+                        "name": "exclusive - nitori story card",
+                        "ref": "market card reward/exclusive/nitori story card"
+                    },
+                    {
+                        "name": "exclusive - takane story card",
+                        "ref": "market card reward/exclusive/takane story card"
+                    },
+                    {
+                        "name": "exclusive - minoriko card",
+                        "ref": "market card reward/exclusive/minoriko card"
+                    },
+                    {
+                        "name": "exclusive - eternity card",
+                        "ref": "market card reward/exclusive/eternity card"
+                    },
+                    {
+                        "name": "exclusive - nemuno card",
+                        "ref": "market card reward/exclusive/nemuno card"
+                    },
+                    {
+                        "name": "exclusive - wakasagi card",
+                        "ref": "market card reward/exclusive/wakasagi card"
+                    },
+                    {
+                        "name": "exclusive - urumi card",
+                        "ref": "market card reward/exclusive/urumi card"
+                    },
+                    {
+                        "name": "exclusive - kutaka card",
+                        "ref": "market card reward/exclusive/kutaka card"
+                    },
+                    {
+                        "name": "exclusive - komachi card",
+                        "ref": "market card reward/exclusive/komachi card"
+                    },
+                    {
+                        "name": "exclusive - ebisu card",
+                        "ref": "market card reward/exclusive/ebisu card"
+                    },
+                    {
+                        "name": "exclusive - suika card",
+                        "ref": "market card reward/exclusive/suika card"
+                    },
+                    {
+                        "name": "exclusive - teacup reimu card",
+                        "ref": "market card reward/exclusive/teacup reimu card"
+                    },
+                    {
+                        "name": "exclusive - teacup marisa card",
+                        "ref": "market card reward/exclusive/teacup marisa card"
+                    },
+                    {
+                        "name": "exclusive - sekibanki card",
+                        "ref": "market card reward/exclusive/sekibanki card"
+                    },
+                    {
+                        "name": "common - life card",
+                        "ref": "market card reward/common/life card"
+                    },
+                    {
+                        "name": "common - ringo card",
+                        "ref": "market card reward/common/ringo card"
+                    },
+                    {
+                        "name": "common - hijiri card",
+                        "ref": "market card reward/common/hijiri card"
+                    },
+                    {
+                        "name": "common - aya card",
+                        "ref": "market card reward/common/aya card"
+                    },
+                    {
+                        "name": "common - patchouli card",
+                        "ref": "market card reward/common/patchouli card"
+                    },
+                    {
+                        "name": "common - flandre card",
+                        "ref": "market card reward/common/flandre card"
+                    },
+                    {
+                        "name": "common - futo card",
+                        "ref": "market card reward/common/futo card"
+                    },
+                    {
+                        "name": "common - aunn card",
+                        "ref": "market card reward/common/aunn card"
+                    },
+                    {
+                        "name": "lategame - mokou card",
+                        "ref": "market card reward/lategame/mokou card"
+                    },
+                    {
+                        "name": "lategame - marisa card 2",
+                        "ref": "market card reward/lategame/marisa card 2"
+                    },
+                    {
+                        "name": "lategame - sanae card 1",
+                        "ref": "market card reward/lategame/sanae card 1"
+                    },
+                    {
+                        "name": "lategame - mayumi card",
+                        "ref": "market card reward/lategame/mayumi card"
+                    },
+                    {
+                        "name": "lategame - yachie card",
+                        "ref": "market card reward/lategame/yachie card"
+                    },
+                    {
+                        "name": "lategame - moon card",
+                        "ref": "market card reward/lategame/moon card"
+                    },
+                    {
+                        "name": "lategame - miko card",
+                        "ref": "market card reward/lategame/miko card"
+                    },
+                    {
+                        "name": "lategame - remilia card",
+                        "ref": "market card reward/lategame/remilia card"
+                    },
+                    {
+                        "name": "lategame - utsuho card",
+                        "ref": "market card reward/lategame/utsuho card"
+                    },
+                    {
+                        "name": "lategame - misumaru card",
+                        "ref": "market card reward/lategame/misumaru card"
+                    },
+                    {
+                        "name": "lategame - joon card",
+                        "ref": "market card reward/lategame/joon card"
+                    },
+                    {
+                        "name": "lategame - shion card",
+                        "ref": "market card reward/lategame/shion card"
+                    },
+                    {
+                        "name": "lategame - junko card",
+                        "ref": "market card reward/lategame/junko card"
+                    },
+                    {
+                        "name": "tutorial - reimu card 1",
+                        "ref": "market card reward/tutorial/reimu card 1"
+                    },
+                    {
+                        "name": "tutorial - marisa card 1",
+                        "ref": "market card reward/tutorial/marisa card 1"
+                    },
+                    {
+                        "name": "tutorial - nitori card",
+                        "ref": "market card reward/tutorial/nitori card"
+                    },
+                    {
+                        "name": "tutorial - kanako card",
+                        "ref": "market card reward/tutorial/kanako card"
+                    },
+                    {
+                        "name": "tutorial - yukari card",
+                        "ref": "market card reward/tutorial/yukari card"
+                    },
+                    {
+                        "name": "stage2 - sakuya card 1",
+                        "ref": "market card reward/stage2/sakuya card 1"
+                    },
+                    {
+                        "name": "stage2 - youmu card 1",
+                        "ref": "market card reward/stage2/youmu card 1"
+                    },
+                    {
+                        "name": "stage2 - suwako card",
+                        "ref": "market card reward/stage2/suwako card"
+                    },
+                    {
+                        "name": "stage2 - kaguya card",
+                        "ref": "market card reward/stage2/kaguya card"
+                    },
+                    {
+                        "name": "stage2 - yuyuko card",
+                        "ref": "market card reward/stage2/yuyuko card"
+                    },
+                    {
+                        "name": "stage2 - takane card",
+                        "ref": "market card reward/stage2/takane card"
+                    },
+                    {
+                        "name": "stage2 - doremy card",
+                        "ref": "market card reward/stage2/doremy card"
+                    },
+                    {
+                        "name": "stage2 - seija card",
+                        "ref": "market card reward/stage2/seija card"
+                    },
+                    {
+                        "name": "stage2 - alice card",
+                        "ref": "market card reward/stage2/alice card"
+                    },
+                    {
+                        "name": "stage3 - okina card",
+                        "ref": "market card reward/stage3/okina card"
+                    },
+                    {
+                        "name": "stage3 - ufo card",
+                        "ref": "market card reward/stage3/ufo card"
+                    },
+                    {
+                        "name": "stage3 - saki card 1",
+                        "ref": "market card reward/stage3/saki card 1"
+                    },
+                    {
+                        "name": "stage3 - eiki card",
+                        "ref": "market card reward/stage3/eiki card"
+                    },
+                    {
+                        "name": "stage3 - sannyo card",
+                        "ref": "market card reward/stage3/sannyo card"
+                    },
+                    {
+                        "name": "stage3 - tenshi card 1",
+                        "ref": "market card reward/stage3/tenshi card 1"
+                    },
+                    {
+                        "name": "stage3 - toramaru card",
+                        "ref": "market card reward/stage3/toramaru card"
+                    },
+                    {
+                        "name": "stage3 - keiki card",
+                        "ref": "market card reward/stage3/keiki card"
+                    },
+                    {
+                        "name": "stage3 - seiran card",
+                        "ref": "market card reward/stage3/seiran card"
+                    },
+                    {
+                        "name": "stage1 - eirin card",
+                        "ref": "market card reward/stage1/eirin card"
+                    },
+                    {
+                        "name": "stage1 - tewi card",
+                        "ref": "market card reward/stage1/tewi card"
+                    },
+                    {
+                        "name": "stage1 - koishi card",
+                        "ref": "market card reward/stage1/koishi card"
+                    },
+                    {
+                        "name": "stage1 - lily card",
+                        "ref": "market card reward/stage1/lily card"
+                    },
+                    {
+                        "name": "stage1 - raiko card",
+                        "ref": "market card reward/stage1/raiko card"
+                    },
+                    {
+                        "name": "stage1 - sumireko card",
+                        "ref": "market card reward/stage1/sumireko card"
+                    },
+                    {
+                        "name": "stage1 - star sapphire card",
+                        "ref": "market card reward/stage1/star sapphire card"
+                    },
+                    {
+                        "name": "stage1 - luna child card",
+                        "ref": "market card reward/stage1/luna child card"
+                    },
+                    {
+                        "name": "stage1 - sunny milk card",
+                        "ref": "market card reward/stage1/sunny milk card"
+                    },
+                    {
+                        "name": "market card reward - clownpiece card",
+                        "ref": "market card reward/clownpiece card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 609,
+                        "y": 255,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "tutorial",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "mike goutokuji - encounter",
+                        "ref": "tutorial/mike goutokuji/encounter"
+                    },
+                    {
+                        "name": "mike goutokuji - defeat",
+                        "ref": "tutorial/mike goutokuji/defeat"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 921,
+                        "y": 1850,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

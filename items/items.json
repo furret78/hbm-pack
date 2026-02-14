@@ -1,0 +1,970 @@
+[
+    {
+        "name": "magic_circle_size",
+        "type": "consumable",
+        "img": "images/items/magic_circle_size.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "magic_circle_size"
+    },
+    {
+        "name": "sanae_card2",
+        "type": "toggle",
+        "img": "images/items/sanae_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sanae_card2"
+    },
+    {
+        "name": "challenge_market",
+        "type": "toggle",
+        "img": "images/items/challenge_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "challenge_market"
+    },
+    {
+        "name": "youmu_card1",
+        "type": "toggle",
+        "img": "images/items/youmu_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "youmu_card1"
+    },
+    {
+        "name": "life",
+        "type": "consumable",
+        "img": "images/items/life.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "life"
+    },
+    {
+        "name": "hijiri_card",
+        "type": "toggle",
+        "img": "images/items/hijiri_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hijiri_card"
+    },
+    {
+        "name": "aunn_card",
+        "type": "toggle",
+        "img": "images/items/aunn_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aunn_card"
+    },
+    {
+        "name": "futo_card",
+        "type": "toggle",
+        "img": "images/items/futo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "futo_card"
+    },
+    {
+        "name": "reimu_card1",
+        "type": "toggle",
+        "img": "images/items/reimu_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reimu_card1"
+    },
+    {
+        "name": "saki_card1",
+        "type": "toggle",
+        "img": "images/items/saki_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saki_card1"
+    },
+    {
+        "name": "invincibility",
+        "type": "consumable",
+        "img": "images/items/invincibility.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "invincibility"
+    },
+    {
+        "name": "yachie_card",
+        "type": "toggle",
+        "img": "images/items/yachie_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yachie_card"
+    },
+    {
+        "name": "yuyuko_card",
+        "type": "toggle",
+        "img": "images/items/yuyuko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yuyuko_card"
+    },
+    {
+        "name": "lily_card",
+        "type": "toggle",
+        "img": "images/items/lily_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lily_card"
+    },
+    {
+        "name": "invincibility_cancel",
+        "type": "consumable",
+        "img": "images/items/invincibility_cancel.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "invincibility_cancel"
+    },
+    {
+        "name": "youmu_card2",
+        "type": "toggle",
+        "img": "images/items/youmu_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "youmu_card2"
+    },
+    {
+        "name": "extreme_move_speed",
+        "type": "consumable",
+        "img": "images/items/extreme_move_speed.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "extreme_move_speed"
+    },
+    {
+        "name": "ebisu_card",
+        "type": "toggle",
+        "img": "images/items/ebisu_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ebisu_card"
+    },
+    {
+        "name": "move_speed",
+        "type": "consumable",
+        "img": "images/items/move_speed.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "move_speed"
+    },
+    {
+        "name": "flandre_card",
+        "type": "toggle",
+        "img": "images/items/flandre_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flandre_card"
+    },
+    {
+        "name": "minoriko_card",
+        "type": "toggle",
+        "img": "images/items/minoriko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minoriko_card"
+    },
+    {
+        "name": "takane_story_card",
+        "type": "toggle",
+        "img": "images/items/takane_story_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "takane_story_card"
+    },
+    {
+        "name": "doremy_card",
+        "type": "toggle",
+        "img": "images/items/doremy_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "doremy_card"
+    },
+    {
+        "name": "yukari_card",
+        "type": "toggle",
+        "img": "images/items/yukari_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yukari_card"
+    },
+    {
+        "name": "sunnymilk_card",
+        "type": "toggle",
+        "img": "images/items/sunnymilk_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sunnymilk_card"
+    },
+    {
+        "name": "okina_card",
+        "type": "toggle",
+        "img": "images/items/okina_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "okina_card"
+    },
+    {
+        "name": "3rd_market",
+        "type": "toggle",
+        "img": "images/items/3rd_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3rd_market"
+    },
+    {
+        "name": "life_card",
+        "type": "toggle",
+        "img": "images/items/life_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "life_card"
+    },
+    {
+        "name": "cirno_card",
+        "type": "toggle",
+        "img": "images/items/cirno_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cirno_card"
+    },
+    {
+        "name": "moon_card",
+        "type": "toggle",
+        "img": "images/items/moon_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moon_card"
+    },
+    {
+        "name": "mokou_card",
+        "type": "toggle",
+        "img": "images/items/mokou_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mokou_card"
+    },
+    {
+        "name": "ufo_card",
+        "type": "toggle",
+        "img": "images/items/ufo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ufo_card"
+    },
+    {
+        "name": "saki_card2",
+        "type": "toggle",
+        "img": "images/items/saki_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saki_card2"
+    },
+    {
+        "name": "magic_circle_graze_range",
+        "type": "consumable",
+        "img": "images/items/magic_circle_graze_range.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "magic_circle_graze_range"
+    },
+    {
+        "name": "marisa_card1",
+        "type": "toggle",
+        "img": "images/items/marisa_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marisa_card1"
+    },
+    {
+        "name": "blank_card",
+        "type": "toggle",
+        "img": "images/items/blank_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blank_card"
+    },
+    {
+        "name": "clownpiece_card",
+        "type": "toggle",
+        "img": "images/items/clownpiece_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clownpiece_card"
+    },
+    {
+        "name": "magic_circle_duration",
+        "type": "consumable",
+        "img": "images/items/magic_circle_duration.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "magic_circle_duration"
+    },
+    {
+        "name": "marisa_card2",
+        "type": "toggle",
+        "img": "images/items/marisa_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marisa_card2"
+    },
+    {
+        "name": "shot_attack",
+        "type": "consumable",
+        "img": "images/items/shot_attack.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "shot_attack"
+    },
+    {
+        "name": "seiran_card",
+        "type": "toggle",
+        "img": "images/items/seiran_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seiran_card"
+    },
+    {
+        "name": "wakasagi_card",
+        "type": "toggle",
+        "img": "images/items/wakasagi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wakasagi_card"
+    },
+    {
+        "name": "mamizou_card",
+        "type": "toggle",
+        "img": "images/items/mamizou_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mamizou_card"
+    },
+    {
+        "name": "minus_bullet_money",
+        "type": "consumable",
+        "img": "images/items/minus_bullet_money.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "minus_bullet_money"
+    },
+    {
+        "name": "suwako_card",
+        "type": "toggle",
+        "img": "images/items/suwako_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suwako_card"
+    },
+    {
+        "name": "ringo_card",
+        "type": "toggle",
+        "img": "images/items/ringo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ringo_card"
+    },
+    {
+        "name": "eiki_card",
+        "type": "toggle",
+        "img": "images/items/eiki_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eiki_card"
+    },
+    {
+        "name": "koishi_card",
+        "type": "toggle",
+        "img": "images/items/koishi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "koishi_card"
+    },
+    {
+        "name": "raiko_card",
+        "type": "toggle",
+        "img": "images/items/raiko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raiko_card"
+    },
+    {
+        "name": "kaguya_card",
+        "type": "toggle",
+        "img": "images/items/kaguya_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kaguya_card"
+    },
+    {
+        "name": "misumaru_card",
+        "type": "toggle",
+        "img": "images/items/misumaru_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "misumaru_card"
+    },
+    {
+        "name": "end_of_market",
+        "type": "toggle",
+        "img": "images/items/end_of_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "end_of_market"
+    },
+    {
+        "name": "keiki_card",
+        "type": "toggle",
+        "img": "images/items/keiki_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "keiki_card"
+    },
+    {
+        "name": "4th_market",
+        "type": "toggle",
+        "img": "images/items/4th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "4th_market"
+    },
+    {
+        "name": "max_movespeed",
+        "type": "consumable",
+        "img": "images/items/max_movespeed.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "max_movespeed"
+    },
+    {
+        "name": "tewi_card",
+        "type": "toggle",
+        "img": "images/items/tewi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tewi_card"
+    },
+    {
+        "name": "minus_equip_cost",
+        "type": "consumable",
+        "img": "images/items/minus_equip_cost.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "minus_equip_cost"
+    },
+    {
+        "name": "aya_card",
+        "type": "toggle",
+        "img": "images/items/aya_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aya_card"
+    },
+    {
+        "name": "jizo_card",
+        "type": "toggle",
+        "img": "images/items/jizo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jizo_card"
+    },
+    {
+        "name": "joon_card",
+        "type": "toggle",
+        "img": "images/items/joon_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "joon_card"
+    },
+    {
+        "name": "minus_funds",
+        "type": "consumable",
+        "img": "images/items/minus_funds.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "minus_funds"
+    },
+    {
+        "name": "takane_card",
+        "type": "toggle",
+        "img": "images/items/takane_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "takane_card"
+    },
+    {
+        "name": "kutaka_card",
+        "type": "toggle",
+        "img": "images/items/kutaka_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kutaka_card"
+    },
+    {
+        "name": "teacup_reimu_card",
+        "type": "toggle",
+        "img": "images/items/teacup_reimu_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teacup_reimu_card"
+    },
+    {
+        "name": "sakuya_card2",
+        "type": "toggle",
+        "img": "images/items/sakuya_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sakuya_card2"
+    },
+    {
+        "name": "sanae_card1",
+        "type": "toggle",
+        "img": "images/items/sanae_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sanae_card1"
+    },
+    {
+        "name": "kanako_card",
+        "type": "toggle",
+        "img": "images/items/kanako_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kanako_card"
+    },
+    {
+        "name": "suika_card",
+        "type": "toggle",
+        "img": "images/items/suika_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suika_card"
+    },
+    {
+        "name": "sumireko_card",
+        "type": "toggle",
+        "img": "images/items/sumireko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sumireko_card"
+    },
+    {
+        "name": "nemuno_card",
+        "type": "toggle",
+        "img": "images/items/nemuno_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nemuno_card"
+    },
+    {
+        "name": "reimu_card2",
+        "type": "toggle",
+        "img": "images/items/reimu_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reimu_card2"
+    },
+    {
+        "name": "tsukasa_card",
+        "type": "toggle",
+        "img": "images/items/tsukasa_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tsukasa_card"
+    },
+    {
+        "name": "mallet_card",
+        "type": "toggle",
+        "img": "images/items/mallet_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mallet_card"
+    },
+    {
+        "name": "urumi_card",
+        "type": "toggle",
+        "img": "images/items/urumi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "urumi_card"
+    },
+    {
+        "name": "funds",
+        "type": "consumable",
+        "img": "images/items/funds.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "funds"
+    },
+    {
+        "name": "junko_card",
+        "type": "toggle",
+        "img": "images/items/junko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "junko_card"
+    },
+    {
+        "name": "megumu_card",
+        "type": "toggle",
+        "img": "images/items/megumu_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "megumu_card"
+    },
+    {
+        "name": "6th_market",
+        "type": "toggle",
+        "img": "images/items/6th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "6th_market"
+    },
+    {
+        "name": "bullet_money",
+        "type": "consumable",
+        "img": "images/items/bullet_money.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "bullet_money"
+    },
+    {
+        "name": "tutorial",
+        "type": "toggle",
+        "img": "images/items/tutorial.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tutorial"
+    },
+    {
+        "name": "remilia_card",
+        "type": "toggle",
+        "img": "images/items/remilia_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "remilia_card"
+    },
+    {
+        "name": "sakuya_card1",
+        "type": "toggle",
+        "img": "images/items/sakuya_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sakuya_card1"
+    },
+    {
+        "name": "toramaru_card",
+        "type": "toggle",
+        "img": "images/items/toramaru_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "toramaru_card"
+    },
+    {
+        "name": "mayumi_card",
+        "type": "toggle",
+        "img": "images/items/mayumi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mayumi_card"
+    },
+    {
+        "name": "shion_card",
+        "type": "toggle",
+        "img": "images/items/shion_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shion_card"
+    },
+    {
+        "name": "seija_card",
+        "type": "toggle",
+        "img": "images/items/seija_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seija_card"
+    },
+    {
+        "name": "nitori_card",
+        "type": "toggle",
+        "img": "images/items/nitori_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nitori_card"
+    },
+    {
+        "name": "mike_card",
+        "type": "toggle",
+        "img": "images/items/mike_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mike_card"
+    },
+    {
+        "name": "momoyo_card",
+        "type": "toggle",
+        "img": "images/items/momoyo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "momoyo_card"
+    },
+    {
+        "name": "miko_card",
+        "type": "toggle",
+        "img": "images/items/miko_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "miko_card"
+    },
+    {
+        "name": "komachi_card",
+        "type": "toggle",
+        "img": "images/items/komachi_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "komachi_card"
+    },
+    {
+        "name": "tenshi_card2",
+        "type": "toggle",
+        "img": "images/items/tenshi_card2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tenshi_card2"
+    },
+    {
+        "name": "sekibanki_card",
+        "type": "toggle",
+        "img": "images/items/sekibanki_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sekibanki_card"
+    },
+    {
+        "name": "utsuho_card",
+        "type": "toggle",
+        "img": "images/items/utsuho_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "utsuho_card"
+    },
+    {
+        "name": "eternity_card",
+        "type": "toggle",
+        "img": "images/items/eternity_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eternity_card"
+    },
+    {
+        "name": "alice_card",
+        "type": "toggle",
+        "img": "images/items/alice_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "alice_card"
+    },
+    {
+        "name": "sannyo_card",
+        "type": "toggle",
+        "img": "images/items/sannyo_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sannyo_card"
+    },
+    {
+        "name": "nitori_story_card",
+        "type": "toggle",
+        "img": "images/items/nitori_story_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nitori_story_card"
+    },
+    {
+        "name": "patchouli_card",
+        "type": "toggle",
+        "img": "images/items/patchouli_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "patchouli_card"
+    },
+    {
+        "name": "magic_circle_attack",
+        "type": "consumable",
+        "img": "images/items/magic_circle_attack.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "magic_circle_attack"
+    },
+    {
+        "name": "eirin_card",
+        "type": "toggle",
+        "img": "images/items/eirin_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eirin_card"
+    },
+    {
+        "name": "teacup_marisa_card",
+        "type": "toggle",
+        "img": "images/items/teacup_marisa_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teacup_marisa_card"
+    },
+    {
+        "name": "1st_market",
+        "type": "toggle",
+        "img": "images/items/1st_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "1st_market"
+    },
+    {
+        "name": "5th_market",
+        "type": "toggle",
+        "img": "images/items/5th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "5th_market"
+    },
+    {
+        "name": "tenshi_card1",
+        "type": "toggle",
+        "img": "images/items/tenshi_card1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tenshi_card1"
+    },
+    {
+        "name": "2nd_market",
+        "type": "toggle",
+        "img": "images/items/2nd_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "2nd_market"
+    },
+    {
+        "name": "lunachild_card",
+        "type": "toggle",
+        "img": "images/items/lunachild_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lunachild_card"
+    },
+    {
+        "name": "starsapphire_card",
+        "type": "toggle",
+        "img": "images/items/starsapphire_card.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "starsapphire_card"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]
