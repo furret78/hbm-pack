@@ -390,17 +390,17 @@
         "codes": "wakasagi_card"
     },
     {
-        "name": "mamizou_card",
+        "name": "Reliable Tanuki Apprentice",
         "type": "toggle",
-        "img": "images/items/mamizou_card.png",
+        "img": "images/items/ability/mamizou_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mamizou_card"
     },
     {
-        "name": "minus_bullet_money",
+        "name": "Bullet Money Loss",
         "type": "consumable",
-        "img": "images/items/minus_bullet_money.png",
+        "img": "images/items/filler/minus_bullet_money.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -412,89 +412,89 @@
         "codes": "minus_bullet_money"
     },
     {
-        "name": "suwako_card",
+        "name": "Bursting Red Frog",
         "type": "toggle",
-        "img": "images/items/suwako_card.png",
+        "img": "images/items/ability/suwako_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "suwako_card"
     },
     {
-        "name": "ringo_card",
+        "name": "Ringo-Brand Dango",
         "type": "toggle",
-        "img": "images/items/ringo_card.png",
+        "img": "images/items/ability/ringo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ringo_card"
     },
     {
-        "name": "eiki_card",
+        "name": "Money Is The Best Lawyer In Hell",
         "type": "toggle",
-        "img": "images/items/eiki_card.png",
+        "img": "images/items/ability/eiki_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "eiki_card"
     },
     {
-        "name": "koishi_card",
+        "name": "Pebble Hat",
         "type": "toggle",
-        "img": "images/items/koishi_card.png",
+        "img": "images/items/ability/koishi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "koishi_card"
     },
     {
-        "name": "raiko_card",
+        "name": "Heavy Bass Drum",
         "type": "toggle",
-        "img": "images/items/raiko_card.png",
+        "img": "images/items/ability/raiko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "raiko_card"
     },
     {
-        "name": "kaguya_card",
+        "name": "Princess Kaguya's Secret Stash",
         "type": "toggle",
-        "img": "images/items/kaguya_card.png",
+        "img": "images/items/ability/kaguya_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kaguya_card"
     },
     {
-        "name": "misumaru_card",
+        "name": "Ancient Magatama",
         "type": "toggle",
-        "img": "images/items/misumaru_card.png",
+        "img": "images/items/ability/misumaru_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "misumaru_card"
     },
     {
-        "name": "end_of_market",
+        "name": "End of Market Unlock",
         "type": "toggle",
-        "img": "images/items/end_of_market.png",
+        "img": "images/items/stage/end_of_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "end_of_market"
     },
     {
-        "name": "keiki_card",
+        "name": "No Problem for a Creator!",
         "type": "toggle",
-        "img": "images/items/keiki_card.png",
+        "img": "images/items/ability/keiki_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "keiki_card"
     },
     {
-        "name": "4th_market",
+        "name": "4th Market Unlock",
         "type": "toggle",
-        "img": "images/items/4th_market.png",
+        "img": "images/items/stage/4th_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "4th_market"
     },
     {
-        "name": "max_movespeed",
+        "name": "Maximum Speed Trap",
         "type": "consumable",
-        "img": "images/items/max_movespeed.png",
+        "img": "images/items/filler/speed_trap.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -506,15 +506,15 @@
         "codes": "max_movespeed"
     },
     {
-        "name": "tewi_card",
+        "name": "Fraudster's Rabbit Foot",
         "type": "toggle",
-        "img": "images/items/tewi_card.png",
+        "img": "images/items/ability/tewi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tewi_card"
     },
     {
-        "name": "minus_equip_cost",
+        "name": "Equip Cost Loss",
         "type": "consumable",
         "img": "images/items/minus_equip_cost.png",
         "min_quantity": 0,
@@ -528,33 +528,33 @@
         "codes": "minus_equip_cost"
     },
     {
-        "name": "aya_card",
+        "name": "Gale Geta",
         "type": "toggle",
-        "img": "images/items/aya_card.png",
+        "img": "images/items/ability/aya_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "aya_card"
     },
     {
-        "name": "jizo_card",
+        "name": "Physical Enhancement Jizo",
         "type": "toggle",
-        "img": "images/items/jizo_card.png",
+        "img": "images/items/ability/jizo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "jizo_card"
     },
     {
-        "name": "joon_card",
+        "name": "Irresistible Feathered Fan",
         "type": "toggle",
-        "img": "images/items/joon_card.png",
+        "img": "images/items/ability/joon_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "joon_card"
     },
     {
-        "name": "minus_funds",
+        "name": "Funds Loss",
         "type": "consumable",
-        "img": "images/items/minus_funds.png",
+        "img": "images/items/filler/minus_funds.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -566,113 +566,113 @@
         "codes": "minus_funds"
     },
     {
-        "name": "takane_card",
+        "name": "Yamawaro Shopping Technique",
         "type": "toggle",
-        "img": "images/items/takane_card.png",
+        "img": "images/items/ability/takane_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "takane_card"
     },
     {
-        "name": "kutaka_card",
+        "name": "Too-Honest Signpost",
         "type": "toggle",
-        "img": "images/items/kutaka_card.png",
+        "img": "images/items/ability/kutaka_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kutaka_card"
     },
     {
-        "name": "teacup_reimu_card",
+        "name": "Teacup Reimu",
         "type": "toggle",
-        "img": "images/items/teacup_reimu_card.png",
+        "img": "images/items/ability/teacup_reimu_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "teacup_reimu_card"
     },
     {
-        "name": "sakuya_card2",
+        "name": "Maid Knife (Ricochet)",
         "type": "toggle",
-        "img": "images/items/sakuya_card2.png",
+        "img": "images/items/ability/sakuya_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sakuya_card2"
     },
     {
-        "name": "sanae_card1",
+        "name": "Safe Return Amulet",
         "type": "toggle",
-        "img": "images/items/sanae_card1.png",
+        "img": "images/items/ability/sanae_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sanae_card1"
     },
     {
-        "name": "kanako_card",
+        "name": "Offerings to the Mountain God",
         "type": "toggle",
-        "img": "images/items/kanako_card.png",
+        "img": "images/items/ability/kanako_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kanako_card"
     },
     {
-        "name": "suika_card",
+        "name": "Drunkenly Whimsical Ibuki Gourd",
         "type": "toggle",
-        "img": "images/items/suika_card.png",
+        "img": "images/items/ability/suika_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "suika_card"
     },
     {
-        "name": "sumireko_card",
+        "name": "Psychokinesis",
         "type": "toggle",
-        "img": "images/items/sumireko_card.png",
+        "img": "images/items/ability/sumireko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sumireko_card"
     },
     {
-        "name": "nemuno_card",
+        "name": "Yamanba's Kitchen Knife",
         "type": "toggle",
-        "img": "images/items/nemuno_card.png",
+        "img": "images/items/ability/nemuno_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "nemuno_card"
     },
     {
-        "name": "reimu_card2",
+        "name": "Yin-Yang Orb (Needle)",
         "type": "toggle",
-        "img": "images/items/reimu_card2.png",
+        "img": "images/items/ability/reimu_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "reimu_card2"
     },
     {
-        "name": "tsukasa_card",
+        "name": "Spirit Power Sample Bottle",
         "type": "toggle",
-        "img": "images/items/tsukasa_card.png",
+        "img": "images/items/ability/tsukasa_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tsukasa_card"
     },
     {
-        "name": "mallet_card",
+        "name": "Miracle Mallet",
         "type": "toggle",
-        "img": "images/items/mallet_card.png",
+        "img": "images/items/ability/mallet_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mallet_card"
     },
     {
-        "name": "urumi_card",
+        "name": "Drenched Giant Snake",
         "type": "toggle",
-        "img": "images/items/urumi_card.png",
+        "img": "images/items/ability/urumi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "urumi_card"
     },
     {
-        "name": "funds",
+        "name": "Funds",
         "type": "consumable",
-        "img": "images/items/funds.png",
+        "img": "images/items/filler/funds.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -684,31 +684,31 @@
         "codes": "funds"
     },
     {
-        "name": "junko_card",
+        "name": "Pristine Self-Confidence",
         "type": "toggle",
-        "img": "images/items/junko_card.png",
+        "img": "images/items/ability/junko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "junko_card"
     },
     {
-        "name": "megumu_card",
+        "name": "Great Tengu's Barley Rice",
         "type": "toggle",
-        "img": "images/items/megumu_card.png",
+        "img": "images/items/ability/megumu_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "megumu_card"
     },
     {
-        "name": "6th_market",
+        "name": "6th Market Unlock",
         "type": "toggle",
-        "img": "images/items/6th_market.png",
+        "img": "images/items/stage/6th_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "6th_market"
     },
     {
-        "name": "bullet_money",
+        "name": "Bullet Money",
         "type": "consumable",
         "img": "images/items/bullet_money.png",
         "min_quantity": 0,
@@ -722,169 +722,169 @@
         "codes": "bullet_money"
     },
     {
-        "name": "tutorial",
+        "name": "Tutorial Unlock",
         "type": "toggle",
-        "img": "images/items/tutorial.png",
+        "img": "images/items/stage/tutorial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tutorial"
     },
     {
-        "name": "remilia_card",
+        "name": "Vampire Fang",
         "type": "toggle",
-        "img": "images/items/remilia_card.png",
+        "img": "images/items/ability/remilia_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "remilia_card"
     },
     {
-        "name": "sakuya_card1",
+        "name": "Maid Knife",
         "type": "toggle",
-        "img": "images/items/sakuya_card1.png",
+        "img": "images/items/ability/sakuya_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sakuya_card1"
     },
     {
-        "name": "toramaru_card",
+        "name": "Offensive Jeweled Pagoda",
         "type": "toggle",
-        "img": "images/items/toramaru_card.png",
+        "img": "images/items/ability/toramaru_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "toramaru_card"
     },
     {
-        "name": "mayumi_card",
+        "name": "Idol Defense Corps",
         "type": "toggle",
-        "img": "images/items/mayumi_card.png",
+        "img": "images/items/ability/mayumi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mayumi_card"
     },
     {
-        "name": "shion_card",
+        "name": "Soot-Covered Uchiwa",
         "type": "toggle",
-        "img": "images/items/shion_card.png",
+        "img": "images/items/ability/shion_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "shion_card"
     },
     {
-        "name": "seija_card",
+        "name": "Nimble Fabric",
         "type": "toggle",
-        "img": "images/items/seija_card.png",
+        "img": "images/items/ability/seija_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "seija_card"
     },
     {
-        "name": "nitori_card",
+        "name": "Miser's Advice",
         "type": "toggle",
-        "img": "images/items/nitori_card.png",
+        "img": "images/items/ability/nitori_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "nitori_card"
     },
     {
-        "name": "mike_card",
+        "name": "Maneki-neko with Good Business Skills",
         "type": "toggle",
-        "img": "images/items/mike_card.png",
+        "img": "images/items/ability/mike_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mike_card"
     },
     {
-        "name": "momoyo_card",
+        "name": "Gluttonous Centipede",
         "type": "toggle",
-        "img": "images/items/momoyo_card.png",
+        "img": "images/items/ability/momoyo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "momoyo_card"
     },
     {
-        "name": "miko_card",
+        "name": "Esteemed Authority",
         "type": "toggle",
-        "img": "images/items/miko_card.png",
+        "img": "images/items/ability/miko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "miko_card"
     },
     {
-        "name": "komachi_card",
+        "name": "Hasty Detour of the Three Crossings",
         "type": "toggle",
-        "img": "images/items/komachi_card.png",
+        "img": "images/items/ability/komachi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "komachi_card"
     },
     {
-        "name": "tenshi_card2",
+        "name": "Keystone Missile",
         "type": "toggle",
-        "img": "images/items/tenshi_card2.png",
+        "img": "images/items/ability/tenshi_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tenshi_card2"
     },
     {
-        "name": "sekibanki_card",
+        "name": "Freewheeling Severed Head",
         "type": "toggle",
-        "img": "images/items/sekibanki_card.png",
+        "img": "images/items/ability/sekibanki_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sekibanki_card"
     },
     {
-        "name": "utsuho_card",
+        "name": "Subterranean Sun",
         "type": "toggle",
-        "img": "images/items/utsuho_card.png",
+        "img": "images/items/ability/utsuho_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "utsuho_card"
     },
     {
-        "name": "eternity_card",
+        "name": "Stimulating Scales",
         "type": "toggle",
-        "img": "images/items/eternity_card.png",
+        "img": "images/items/ability/eternity_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "eternity_card"
     },
     {
-        "name": "alice_card",
+        "name": "Shanghai Doll",
         "type": "toggle",
-        "img": "images/items/alice_card.png",
+        "img": "images/items/ability/alice_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "alice_card"
     },
     {
-        "name": "sannyo_card",
+        "name": "Dragon Pipe",
         "type": "toggle",
-        "img": "images/items/sannyo_card.png",
+        "img": "images/items/ability/sannyo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sannyo_card"
     },
     {
-        "name": "nitori_story_card",
+        "name": "Capitalist's Dilemma",
         "type": "toggle",
-        "img": "images/items/nitori_story_card.png",
+        "img": "images/items/ability/nitori_story_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "nitori_story_card"
     },
     {
-        "name": "patchouli_card",
+        "name": "Magician's Basic Study",
         "type": "toggle",
-        "img": "images/items/patchouli_card.png",
+        "img": "images/items/ability/patchouli_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "patchouli_card"
     },
     {
-        "name": "magic_circle_attack",
+        "name": "+% Magic Circle Attack",
         "type": "consumable",
-        "img": "images/items/magic_circle_attack.png",
+        "img": "images/items/filler/magic_circle.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -896,55 +896,55 @@
         "codes": "magic_circle_attack"
     },
     {
-        "name": "eirin_card",
+        "name": "Life Explosion Elixir",
         "type": "toggle",
-        "img": "images/items/eirin_card.png",
+        "img": "images/items/ability/eirin_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "eirin_card"
     },
     {
-        "name": "teacup_marisa_card",
+        "name": "Teacup Marisa",
         "type": "toggle",
-        "img": "images/items/teacup_marisa_card.png",
+        "img": "images/items/ability/teacup_marisa_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "teacup_marisa_card"
     },
     {
-        "name": "1st_market",
+        "name": "1st Market Unlock",
         "type": "toggle",
-        "img": "images/items/1st_market.png",
+        "img": "images/items/stage/1st_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "1st_market"
     },
     {
-        "name": "5th_market",
+        "name": "5th Market Unlock",
         "type": "toggle",
-        "img": "images/items/5th_market.png",
+        "img": "images/items/stage/5th_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "5th_market"
     },
     {
-        "name": "tenshi_card1",
+        "name": "Keystone of Endurance",
         "type": "toggle",
-        "img": "images/items/tenshi_card1.png",
+        "img": "images/items/ability/tenshi_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tenshi_card1"
     },
     {
-        "name": "2nd_market",
+        "name": "2nd Market Unlock",
         "type": "toggle",
-        "img": "images/items/2nd_market.png",
+        "img": "images/items/stage/2nd_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "2nd_market"
     },
     {
-        "name": "lunachild_card",
+        "name": "Lunatic Silence",
         "type": "toggle",
         "img": "images/items/lunachild_card.png",
         "initial_active_state": false,
@@ -952,7 +952,7 @@
         "codes": "lunachild_card"
     },
     {
-        "name": "starsapphire_card",
+        "name": "Quiet Twinkling",
         "type": "toggle",
         "img": "images/items/starsapphire_card.png",
         "initial_active_state": false,
