@@ -960,11 +960,11 @@
         "codes": "starsapphire_card"
     },
     {
-        "name": "update",
+        "name": "Enable Challenge Market in Logic",
         "type": "toggle",
-        "img": "images/items/update.png",
+        "img": "images/items/stage/challenge_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "update"
+        "codes": "challenge_logic"
     }
 ]

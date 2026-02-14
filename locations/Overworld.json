@@ -60,7 +60,7 @@
                 ]
             },
             {
-                "name": "2nd market",
+                "name": "2nd Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -69,35 +69,35 @@
                 ],
                 "sections": [
                     {
-                        "name": "cirno - encounter",
+                        "name": "Cirno - Encounter",
                         "ref": "2nd market/cirno/encounter"
                     },
                     {
-                        "name": "cirno - defeat",
+                        "name": "Cirno - Defeat",
                         "ref": "2nd market/cirno/defeat"
                     },
                     {
-                        "name": "wakasagihime - encounter",
+                        "name": "Wakasagihime - Encounter",
                         "ref": "2nd market/wakasagihime/encounter"
                     },
                     {
-                        "name": "wakasagihime - defeat",
+                        "name": "Wakasagihime - Defeat",
                         "ref": "2nd market/wakasagihime/defeat"
                     },
                     {
-                        "name": "sekibanki - encounter",
+                        "name": "Sekibanki - Encounter",
                         "ref": "2nd market/sekibanki/encounter"
                     },
                     {
-                        "name": "sekibanki - defeat",
+                        "name": "Sekibanki - Defeat",
                         "ref": "2nd market/sekibanki/defeat"
                     },
                     {
-                        "name": "urumi ushizaki - encounter",
+                        "name": "Urumi Ushizaki - Encounter",
                         "ref": "2nd market/urumi ushizaki/encounter"
                     },
                     {
-                        "name": "urumi ushizaki - defeat",
+                        "name": "Urumi Ushizaki - Defeat",
                         "ref": "2nd market/urumi ushizaki/defeat"
                     }
                 ],
@@ -111,7 +111,7 @@
                 ]
             },
             {
-                "name": "3rd market",
+                "name": "3rd Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -120,35 +120,35 @@
                 ],
                 "sections": [
                     {
-                        "name": "eika ebisu - encounter",
+                        "name": "Eika Ebisu - Encounter",
                         "ref": "3rd market/eika ebisu/encounter"
                     },
                     {
-                        "name": "eika ebisu - defeat",
+                        "name": "Eika Ebisu - Defeat",
                         "ref": "3rd market/eika ebisu/defeat"
                     },
                     {
-                        "name": "kutaka niwatari - encounter",
+                        "name": "Kutaka Niwatari - Encounter",
                         "ref": "3rd market/kutaka niwatari/encounter"
                     },
                     {
-                        "name": "kutaka niwatari - defeat",
+                        "name": "Kutaka Niwatari - Defeat",
                         "ref": "3rd market/kutaka niwatari/defeat"
                     },
                     {
-                        "name": "narumi yatadera - encounter",
+                        "name": "Narumi Yatadera - Encounter",
                         "ref": "3rd market/narumi yatadera/encounter"
                     },
                     {
-                        "name": "narumi yatadera - defeat",
+                        "name": "Narumi Yatadera - Defeat",
                         "ref": "3rd market/narumi yatadera/defeat"
                     },
                     {
-                        "name": "komachi onozuka - encounter",
+                        "name": "Komachi Onozuka - Encounter",
                         "ref": "3rd market/komachi onozuka/encounter"
                     },
                     {
-                        "name": "komachi onozuka - defeat",
+                        "name": "Komachi Onozuka - Defeat",
                         "ref": "3rd market/komachi onozuka/defeat"
                     }
                 ],
@@ -162,7 +162,7 @@
                 ]
             },
             {
-                "name": "4th market",
+                "name": "4th Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -171,43 +171,43 @@
                 ],
                 "sections": [
                     {
-                        "name": "sanae kochiya - encounter",
+                        "name": "Sanae Kochiya - Encounter",
                         "ref": "4th market/sanae kochiya/encounter"
                     },
                     {
-                        "name": "sanae kochiya - defeat",
+                        "name": "Sanae Kochiya - Defeat",
                         "ref": "4th market/sanae kochiya/defeat"
                     },
                     {
-                        "name": "sakuya izayoi - encounter",
+                        "name": "Sakuya Izayoi - Encounter",
                         "ref": "4th market/sakuya izayoi/encounter"
                     },
                     {
-                        "name": "sakuya izayoi - defeat",
+                        "name": "Sakuya Izayoi - Defeat",
                         "ref": "4th market/sakuya izayoi/defeat"
                     },
                     {
-                        "name": "youmu konpaku - encounter",
+                        "name": "Youmu Konpaku - Encounter",
                         "ref": "4th market/youmu konpaku/encounter"
                     },
                     {
-                        "name": "youmu konpaku - defeat",
+                        "name": "Youmu Konpaku - Defeat",
                         "ref": "4th market/youmu konpaku/defeat"
                     },
                     {
-                        "name": "reimu hakurei - encounter",
+                        "name": "Reimu Hakurei - Encounter",
                         "ref": "4th market/reimu hakurei/encounter"
                     },
                     {
-                        "name": "reimu hakurei - defeat",
+                        "name": "Reimu Hakurei - Defeat",
                         "ref": "4th market/reimu hakurei/defeat"
                     },
                     {
-                        "name": "nitori kawashiro - encounter",
+                        "name": "Nitori Kawashiro - Encounter",
                         "ref": "4th market/nitori kawashiro/encounter"
                     },
                     {
-                        "name": "nitori kawashiro - defeat",
+                        "name": "Nitori Kawashiro - Defeat",
                         "ref": "4th market/nitori kawashiro/defeat"
                     }
                 ],
@@ -221,7 +221,7 @@
                 ]
             },
             {
-                "name": "5th market",
+                "name": "5th Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -230,35 +230,35 @@
                 ],
                 "sections": [
                     {
-                        "name": "tsukasa kudamaki - encounter",
+                        "name": "Tsukasa Kudamaki - Encounter",
                         "ref": "5th market/tsukasa kudamaki/encounter"
                     },
                     {
-                        "name": "tsukasa kudamaki - defeat",
+                        "name": "Tsukasa Kudamaki - Defeat",
                         "ref": "5th market/tsukasa kudamaki/defeat"
                     },
                     {
-                        "name": "megumu iizunamaru - encounter",
+                        "name": "Megumu Iizunamaru - Encounter",
                         "ref": "5th market/megumu iizunamaru/encounter"
                     },
                     {
-                        "name": "megumu iizunamaru - defeat",
+                        "name": "Megumu Iizunamaru - Defeat",
                         "ref": "5th market/megumu iizunamaru/defeat"
                     },
                     {
-                        "name": "clownpiece - encounter",
+                        "name": "Clownpiece - Encounter",
                         "ref": "5th market/clownpiece/encounter"
                     },
                     {
-                        "name": "clownpiece - defeat",
+                        "name": "Clownpiece - Defeat",
                         "ref": "5th market/clownpiece/defeat"
                     },
                     {
-                        "name": "tenshi hinanawi - encounter",
+                        "name": "Tenshi Hinanawi - Encounter",
                         "ref": "5th market/tenshi hinanawi/encounter"
                     },
                     {
-                        "name": "tenshi hinanawi - defeat",
+                        "name": "Tenshi Hinanawi - Defeat",
                         "ref": "5th market/tenshi hinanawi/defeat"
                     }
                 ],
@@ -272,7 +272,7 @@
                 ]
             },
             {
-                "name": "6th market",
+                "name": "6th Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -281,43 +281,43 @@
                 ],
                 "sections": [
                     {
-                        "name": "suika ibuki - encounter",
+                        "name": "Suika Ibuki - Encounter",
                         "ref": "6th market/suika ibuki/encounter"
                     },
                     {
-                        "name": "suika ibuki - defeat",
+                        "name": "Suika Ibuki - Defeat",
                         "ref": "6th market/suika ibuki/defeat"
                     },
                     {
-                        "name": "mamizou futatsuiwa - encounter",
+                        "name": "Mamizou Futatsuiwa - Encounter",
                         "ref": "6th market/mamizou futatsuiwa/encounter"
                     },
                     {
-                        "name": "mamizou futatsuiwa - defeat",
+                        "name": "Mamizou Futatsuiwa - Defeat",
                         "ref": "6th market/mamizou futatsuiwa/defeat"
                     },
                     {
-                        "name": "saki kurokoma - encounter",
+                        "name": "Saki Kurokoma - Encounter",
                         "ref": "6th market/saki kurokoma/encounter"
                     },
                     {
-                        "name": "saki kurokoma - defeat",
+                        "name": "Saki Kurokoma - Defeat",
                         "ref": "6th market/saki kurokoma/defeat"
                     },
                     {
-                        "name": "momoyo himemushi - encounter",
+                        "name": "Momoyo Himemushi - Encounter",
                         "ref": "6th market/momoyo himemushi/encounter"
                     },
                     {
-                        "name": "momoyo himemushi - defeat",
+                        "name": "Momoyo Himemushi - Defeat",
                         "ref": "6th market/momoyo himemushi/defeat"
                     },
                     {
-                        "name": "takane yamashiro - encounter",
+                        "name": "Takane Yamashiro - Encounter",
                         "ref": "6th market/takane yamashiro/encounter"
                     },
                     {
-                        "name": "takane yamashiro - defeat",
+                        "name": "Takane Yamashiro - Defeat",
                         "ref": "6th market/takane yamashiro/defeat"
                     }
                 ],
@@ -331,7 +331,7 @@
                 ]
             },
             {
-                "name": "ability card dex",
+                "name": "Ability Card Dex",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -340,343 +340,343 @@
                 ],
                 "sections": [
                     {
-                        "name": "ability card dex - blank card",
+                        "name": "Ability Card Dex - Blank Card",
                         "ref": "ability card dex/blank card"
                     },
                     {
-                        "name": "ability card dex - nazrin funds card",
+                        "name": "Ability Card Dex - Money Comes and Goes On its Own (Funds)",
                         "ref": "ability card dex/nazrin funds card"
                     },
                     {
-                        "name": "ability card dex - nazrin bullet money card",
+                        "name": "Ability Card Dex - Money Comes and Goes On its Own (Bullet Money)",
                         "ref": "ability card dex/nazrin bullet money card"
                     },
                     {
-                        "name": "ability card dex - life card",
+                        "name": "Ability Card Dex - Life Card",
                         "ref": "ability card dex/life card"
                     },
                     {
-                        "name": "ability card dex - ringo card",
+                        "name": "Ability Card Dex - Ringo-Brand Dango",
                         "ref": "ability card dex/ringo card"
                     },
                     {
-                        "name": "ability card dex - mokou card",
+                        "name": "Ability Card Dex - Phoenix's Tail",
                         "ref": "ability card dex/mokou card"
                     },
                     {
-                        "name": "ability card dex - reimu card 1",
+                        "name": "Ability Card Dex - Yin-Yang Orb",
                         "ref": "ability card dex/reimu card 1"
                     },
                     {
-                        "name": "ability card dex - reimu card 2",
+                        "name": "Ability Card Dex - Yin-Yang Orb (Needle)",
                         "ref": "ability card dex/reimu card 2"
                     },
                     {
-                        "name": "ability card dex - marisa card 1",
+                        "name": "Ability Card Dex - Mini-Hakkero",
                         "ref": "ability card dex/marisa card 1"
                     },
                     {
-                        "name": "ability card dex - marisa card 2",
+                        "name": "Ability Card Dex - Mini-Hakkero (Missile)",
                         "ref": "ability card dex/marisa card 2"
                     },
                     {
-                        "name": "ability card dex - sakuya card 1",
+                        "name": "Ability Card Dex - Maid Knife",
                         "ref": "ability card dex/sakuya card 1"
                     },
                     {
-                        "name": "ability card dex - sakuya card 2",
+                        "name": "Ability Card Dex - Maid Knife (Ricochet)",
                         "ref": "ability card dex/sakuya card 2"
                     },
                     {
-                        "name": "ability card dex - sanae card 1",
+                        "name": "Ability Card Dex - Safe Return Amulet",
                         "ref": "ability card dex/sanae card 1"
                     },
                     {
-                        "name": "ability card dex - sanae card 2",
+                        "name": "Ability Card Dex - Shed Snakeskin Amulet",
                         "ref": "ability card dex/sanae card 2"
                     },
                     {
-                        "name": "ability card dex - youmu card 1",
+                        "name": "Ability Card Dex - Half of a Half-Ghost",
                         "ref": "ability card dex/youmu card 1"
                     },
                     {
-                        "name": "ability card dex - youmu card 2",
+                        "name": "Ability Card Dex - Half-Ghost's Spare Part",
                         "ref": "ability card dex/youmu card 2"
                     },
                     {
-                        "name": "ability card dex - cirno card",
+                        "name": "Ability Card Dex - Ice Fairy",
                         "ref": "ability card dex/cirno card"
                     },
                     {
-                        "name": "ability card dex - okina card",
+                        "name": "Ability Card Dex - Back Door",
                         "ref": "ability card dex/okina card"
                     },
                     {
-                        "name": "ability card dex - ufo card",
+                        "name": "Ability Card Dex - Annoying UFO",
                         "ref": "ability card dex/ufo card"
                     },
                     {
-                        "name": "ability card dex - nitori card",
+                        "name": "Ability Card Dex - Miser's Advice",
                         "ref": "ability card dex/nitori card"
                     },
                     {
-                        "name": "ability card dex - kanako card",
+                        "name": "Ability Card Dex - Offerings to the Mountain God",
                         "ref": "ability card dex/kanako card"
                     },
                     {
-                        "name": "ability card dex - eirin card",
+                        "name": "Ability Card Dex - Life Explosion Elixir",
                         "ref": "ability card dex/eirin card"
                     },
                     {
-                        "name": "ability card dex - tewi card",
+                        "name": "Ability Card Dex - Fraudster's Rabbit Foot",
                         "ref": "ability card dex/tewi card"
                     },
                     {
-                        "name": "ability card dex - saki card 1",
+                        "name": "Ability Card Dex - Law of the Survival of the Fittest",
                         "ref": "ability card dex/saki card 1"
                     },
                     {
-                        "name": "ability card dex - saki card 2",
+                        "name": "Ability Card Dex -Indominable Meathead",
                         "ref": "ability card dex/saki card 2"
                     },
                     {
-                        "name": "ability card dex - hijiri card",
+                        "name": "Ability Card Dex - Sutra of Dharmatic Power",
                         "ref": "ability card dex/hijiri card"
                     },
                     {
-                        "name": "ability card dex - koishi card",
+                        "name": "Ability Card Dex - Pebble Hat",
                         "ref": "ability card dex/koishi card"
                     },
                     {
-                        "name": "ability card dex - suwako card",
+                        "name": "Ability Card Dex - Bursting Red Frog",
                         "ref": "ability card dex/suwako card"
                     },
                     {
-                        "name": "ability card dex - aya card",
+                        "name": "Ability Card Dex - Gale Geta",
                         "ref": "ability card dex/aya card"
                     },
                     {
-                        "name": "ability card dex - mayumi card",
+                        "name": "Ability Card Dex - Idle Defense Corps",
                         "ref": "ability card dex/mayumi card"
                     },
                     {
-                        "name": "ability card dex - kaguya card",
+                        "name": "Ability Card Dex - Princess Kaguya's Secret Stash",
                         "ref": "ability card dex/kaguya card"
                     },
                     {
-                        "name": "ability card dex - mamizou card",
+                        "name": "Ability Card Dex - Reliable Tanuki Apprentice",
                         "ref": "ability card dex/mamizou card"
                     },
                     {
-                        "name": "ability card dex - yuyuko card",
+                        "name": "Ability Card Dex - Danmaku Ghost",
                         "ref": "ability card dex/yuyuko card"
                     },
                     {
-                        "name": "ability card dex - yachie card",
+                        "name": "Ability Card Dex - Kiketsu Matriarch's Threat",
                         "ref": "ability card dex/yachie card"
                     },
                     {
-                        "name": "ability card dex - eiki card",
+                        "name": "Ability Card Dex - Money Is The Best Lawyer In Hell",
                         "ref": "ability card dex/eiki card"
                     },
                     {
-                        "name": "ability card dex - jizo card",
+                        "name": "Ability Card Dex - Physical Enhancement Jizo",
                         "ref": "ability card dex/jizo card"
                     },
                     {
-                        "name": "ability card dex - patchouli card",
+                        "name": "Ability Card Dex - Magician's Basic Study",
                         "ref": "ability card dex/patchouli card"
                     },
                     {
-                        "name": "ability card dex - mike card",
+                        "name": "Ability Card Dex - Maneki-neko with Good Business Skills",
                         "ref": "ability card dex/mike card"
                     },
                     {
-                        "name": "ability card dex - takane card",
+                        "name": "Ability Card Dex - Yamawaro Shopping Technique",
                         "ref": "ability card dex/takane card"
                     },
                     {
-                        "name": "ability card dex - sannyo card",
+                        "name": "Ability Card Dex - Dragon Pipe",
                         "ref": "ability card dex/sannyo card"
                     },
                     {
-                        "name": "ability card dex - yukari card",
+                        "name": "Ability Card Dex - Screen Border",
                         "ref": "ability card dex/yukari card"
                     },
                     {
-                        "name": "ability card dex - mallet card",
+                        "name": "Ability Card Dex - Miracle Mallet",
                         "ref": "ability card dex/mallet card"
                     },
                     {
-                        "name": "ability card dex - tenshi card 1",
+                        "name": "Ability Card Dex - Keystone of Endurance",
                         "ref": "ability card dex/tenshi card 1"
                     },
                     {
-                        "name": "ability card dex - tenshi card 2",
+                        "name": "Ability Card Dex - Keystone Missile",
                         "ref": "ability card dex/tenshi card 2"
                     },
                     {
-                        "name": "ability card dex - moon card",
+                        "name": "Ability Card Dex - Moon of Madness",
                         "ref": "ability card dex/moon card"
                     },
                     {
-                        "name": "ability card dex - miko card",
+                        "name": "Ability Card Dex - Esteemed Authority",
                         "ref": "ability card dex/miko card"
                     },
                     {
-                        "name": "ability card dex - remilia card",
+                        "name": "Ability Card Dex - Vampire Fang",
                         "ref": "ability card dex/remilia card"
                     },
                     {
-                        "name": "ability card dex - utsuho card",
+                        "name": "Ability Card Dex - Subterranean Sun",
                         "ref": "ability card dex/utsuho card"
                     },
                     {
-                        "name": "ability card dex - lily card",
+                        "name": "Ability Card Dex - Item Season",
                         "ref": "ability card dex/lily card"
                     },
                     {
-                        "name": "ability card dex - raiko card",
+                        "name": "Ability Card Dex - Heavy Bass Drum",
                         "ref": "ability card dex/raiko card"
                     },
                     {
-                        "name": "ability card dex - sumireko card",
+                        "name": "Ability Card Dex - Psychokinesis",
                         "ref": "ability card dex/sumireko card"
                     },
                     {
-                        "name": "ability card dex - misumaru card",
+                        "name": "Ability Card Dex - Ancient Magatama",
                         "ref": "ability card dex/misumaru card"
                     },
                     {
-                        "name": "ability card dex - tsukasa card",
+                        "name": "Ability Card Dex - Spirit Power Sample Bottle",
                         "ref": "ability card dex/tsukasa card"
                     },
                     {
-                        "name": "ability card dex - megumu card",
+                        "name": "Ability Card Dex - Great Tengu's Barley Rice",
                         "ref": "ability card dex/megumu card"
                     },
                     {
-                        "name": "ability card dex - momoyo card",
+                        "name": "Ability Card Dex - Gluttonous Centipede",
                         "ref": "ability card dex/momoyo card"
                     },
                     {
-                        "name": "ability card dex - toramaru card",
+                        "name": "Ability Card Dex - Offensive Jeweled Pagoda",
                         "ref": "ability card dex/toramaru card"
                     },
                     {
-                        "name": "ability card dex - star sapphire card",
+                        "name": "Ability Card Dex - Quiet Twinkling",
                         "ref": "ability card dex/star sapphire card"
                     },
                     {
-                        "name": "ability card dex - luna child card",
+                        "name": "Ability Card Dex - Lunatic Silence",
                         "ref": "ability card dex/luna child card"
                     },
                     {
-                        "name": "ability card dex - sunny milk card",
+                        "name": "Ability Card Dex - Exuberant Powerlessness",
                         "ref": "ability card dex/sunny milk card"
                     },
                     {
-                        "name": "ability card dex - flandre card",
+                        "name": "Ability Card Dex - Aesthetics of Destruction",
                         "ref": "ability card dex/flandre card"
                     },
                     {
-                        "name": "ability card dex - futo card",
+                        "name": "Ability Card Dex - Dragon's Passage",
                         "ref": "ability card dex/futo card"
                     },
                     {
-                        "name": "ability card dex - aunn card",
+                        "name": "Ability Card Dex - Ferocious Komainu",
                         "ref": "ability card dex/aunn card"
                     },
                     {
-                        "name": "ability card dex - joon card",
+                        "name": "Ability Card Dex - Irresistible Feathered Fan",
                         "ref": "ability card dex/joon card"
                     },
                     {
-                        "name": "ability card dex - shion card",
+                        "name": "Ability Card Dex - Soot-Covered Uchiwa",
                         "ref": "ability card dex/shion card"
                     },
                     {
-                        "name": "ability card dex - keiki card",
+                        "name": "Ability Card Dex - No Problem for a Creator!",
                         "ref": "ability card dex/keiki card"
                     },
                     {
-                        "name": "ability card dex - seiran card",
+                        "name": "Ability Card Dex - The Rabbit That Landed",
                         "ref": "ability card dex/seiran card"
                     },
                     {
-                        "name": "ability card dex - doremy card",
+                        "name": "Ability Card Dex - Sheep You Want to Count",
                         "ref": "ability card dex/doremy card"
                     },
                     {
-                        "name": "ability card dex - junko card",
+                        "name": "Ability Card Dex - Pristine Self-Confidence",
                         "ref": "ability card dex/junko card"
                     },
                     {
-                        "name": "ability card dex - nitori story card",
+                        "name": "Ability Card Dex - Capitalist's Dilemma",
                         "ref": "ability card dex/nitori story card"
                     },
                     {
-                        "name": "ability card dex - takane story card",
+                        "name": "Ability Card Dex - Hundredth Black Market",
                         "ref": "ability card dex/takane story card"
                     },
                     {
-                        "name": "ability card dex - minoriko card",
+                        "name": "Ability Card Dex - Bumper Crop of Life",
                         "ref": "ability card dex/minoriko card"
                     },
                     {
-                        "name": "ability card dex - eternity card",
+                        "name": "Ability Card Dex - Stimulating Scales",
                         "ref": "ability card dex/eternity card"
                     },
                     {
-                        "name": "ability card dex - nemuno card",
+                        "name": "Ability Card Dex - Yamanba's Kitchen Knife",
                         "ref": "ability card dex/nemuno card"
                     },
                     {
-                        "name": "ability card dex - wakasagi card",
+                        "name": "Ability Card Dex - Smelt's Scales",
                         "ref": "ability card dex/wakasagi card"
                     },
                     {
-                        "name": "ability card dex - urumi card",
+                        "name": "Ability Card Dex - Drenched Giant Snake",
                         "ref": "ability card dex/urumi card"
                     },
                     {
-                        "name": "ability card dex - kutaka card",
+                        "name": "Ability Card Dex - Too-Honest Signpost",
                         "ref": "ability card dex/kutaka card"
                     },
                     {
-                        "name": "ability card dex - komachi card",
+                        "name": "Ability Card Dex - Hasty Detour of the Three Crossings",
                         "ref": "ability card dex/komachi card"
                     },
                     {
-                        "name": "ability card dex - ebisu card",
+                        "name": "Ability Card Dex - Laid-Back Invertebrate",
                         "ref": "ability card dex/ebisu card"
                     },
                     {
-                        "name": "ability card dex - seija card",
+                        "name": "Ability Card Dex - Nimble Fabric",
                         "ref": "ability card dex/seija card"
                     },
                     {
-                        "name": "ability card dex - clownpiece card",
+                        "name": "Ability Card Dex - Life-Burning Torch",
                         "ref": "ability card dex/clownpiece card"
                     },
                     {
-                        "name": "ability card dex - suika card",
+                        "name": "Ability Card Dex - Drunkenly Whimsical Ibuki Gourd",
                         "ref": "ability card dex/suika card"
                     },
                     {
-                        "name": "ability card dex - teacup reimu card",
+                        "name": "Ability Card Dex - Teacup Reimu",
                         "ref": "ability card dex/teacup reimu card"
                     },
                     {
-                        "name": "ability card dex - teacup marisa card",
+                        "name": "Ability Card Dex - Teacup Marisa",
                         "ref": "ability card dex/teacup marisa card"
                     },
                     {
-                        "name": "ability card dex - sekibanki card",
+                        "name": "Ability Card Dex - Freewheeling Severed Head",
                         "ref": "ability card dex/sekibanki card"
                     },
                     {
-                        "name": "ability card dex - alice card",
+                        "name": "Ability Card Dex - Shanghai Doll",
                         "ref": "ability card dex/alice card"
                     }
                 ],
@@ -690,7 +690,7 @@
                 ]
             },
             {
-                "name": "challenge market",
+                "name": "Challenge Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -699,99 +699,99 @@
                 ],
                 "sections": [
                     {
-                        "name": "mike goutokuji - encounter",
+                        "name": "Mike Goutokuji - Encounter",
                         "ref": "challenge market/mike goutokuji/encounter"
                     },
                     {
-                        "name": "minoriko aki - encounter",
+                        "name": "Minoriko Aki - Encounter",
                         "ref": "challenge market/minoriko aki/encounter"
                     },
                     {
-                        "name": "eternity larva - encounter",
+                        "name": "Eternity Larva - Encounter",
                         "ref": "challenge market/eternity larva/encounter"
                     },
                     {
-                        "name": "nemuno sakata - encounter",
+                        "name": "Nemuno Sakata - Encounter",
                         "ref": "challenge market/nemuno sakata/encounter"
                     },
                     {
-                        "name": "cirno - encounter",
+                        "name": "Cirno - Encounter",
                         "ref": "challenge market/cirno/encounter"
                     },
                     {
-                        "name": "wakasagihime - encounter",
+                        "name": "Wakasagihime - Encounter",
                         "ref": "challenge market/wakasagihime/encounter"
                     },
                     {
-                        "name": "sekibanki - encounter",
+                        "name": "Sekibanki - Encounter",
                         "ref": "challenge market/sekibanki/encounter"
                     },
                     {
-                        "name": "urumi ushizaki - encounter",
+                        "name": "Urumi Ushizaki - Encounter",
                         "ref": "challenge market/urumi ushizaki/encounter"
                     },
                     {
-                        "name": "eika ebisu - encounter",
+                        "name": "Eika Ebisu - Encounter",
                         "ref": "challenge market/eika ebisu/encounter"
                     },
                     {
-                        "name": "kutaka niwatari - encounter",
+                        "name": "Kutaka Niwatari - Encounter",
                         "ref": "challenge market/kutaka niwatari/encounter"
                     },
                     {
-                        "name": "narumi yatadera - encounter",
+                        "name": "Narumi Yatadera - Encounter",
                         "ref": "challenge market/narumi yatadera/encounter"
                     },
                     {
-                        "name": "komachi onozuka - encounter",
+                        "name": "Komachi Onozuka - Encounter",
                         "ref": "challenge market/komachi onozuka/encounter"
                     },
                     {
-                        "name": "sanae kochiya - encounter",
+                        "name": "Sanae Kochiya - Encounter",
                         "ref": "challenge market/sanae kochiya/encounter"
                     },
                     {
-                        "name": "sakuya izayoi - encounter",
+                        "name": "Sakuya Izayoi - Encounter",
                         "ref": "challenge market/sakuya izayoi/encounter"
                     },
                     {
-                        "name": "youmu konpaku - encounter",
+                        "name": "Youmu Konpaku - Encounter",
                         "ref": "challenge market/youmu konpaku/encounter"
                     },
                     {
-                        "name": "reimu hakurei - encounter",
+                        "name": "Reimu Hakurei - Encounter",
                         "ref": "challenge market/reimu hakurei/encounter"
                     },
                     {
-                        "name": "tsukasa kudamaki - encounter",
+                        "name": "Tsukasa Kudamaki - Encounter",
                         "ref": "challenge market/tsukasa kudamaki/encounter"
                     },
                     {
-                        "name": "megumu iizunamaru - encounter",
+                        "name": "Megumu Iizunamaru - Encounter",
                         "ref": "challenge market/megumu iizunamaru/encounter"
                     },
                     {
-                        "name": "clownpiece - encounter",
+                        "name": "Clownpiece - Encounter",
                         "ref": "challenge market/clownpiece/encounter"
                     },
                     {
-                        "name": "tenshi hinanawi - encounter",
+                        "name": "Tenshi Hinanawi - Encounter",
                         "ref": "challenge market/tenshi hinanawi/encounter"
                     },
                     {
-                        "name": "suika ibuki - encounter",
+                        "name": "Suika Ibuki - Encounter",
                         "ref": "challenge market/suika ibuki/encounter"
                     },
                     {
-                        "name": "mamizou futatsuiwa - encounter",
+                        "name": "Mamizou Futatsuiwa - Encounter",
                         "ref": "challenge market/mamizou futatsuiwa/encounter"
                     },
                     {
-                        "name": "saki kurokoma - encounter",
+                        "name": "Saki Kurokoma - Encounter",
                         "ref": "challenge market/saki kurokoma/encounter"
                     },
                     {
-                        "name": "momoyo himemushi - encounter",
+                        "name": "Momoyo Himemushi - Encounter",
                         "ref": "challenge market/momoyo himemushi/encounter"
                     }
                 ],
@@ -805,7 +805,7 @@
                 ]
             },
             {
-                "name": "end of market",
+                "name": "End of Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -814,11 +814,11 @@
                 ],
                 "sections": [
                     {
-                        "name": "chimata tenkyuu - encounter",
+                        "name": "Chimata Tenkyuu - Encounter",
                         "ref": "end of market/chimata tenkyuu/encounter"
                     },
                     {
-                        "name": "chimata tenkyuu - defeat",
+                        "name": "Chimata Tenkyuu - Defeat",
                         "ref": "end of market/chimata tenkyuu/defeat"
                     }
                 ],
@@ -832,7 +832,7 @@
                 ]
             },
             {
-                "name": "market card reward",
+                "name": "Market Card Reward",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -841,332 +841,332 @@
                 ],
                 "sections": [
                     {
-                        "name": "exclusive - blank card",
+                        "name": "Exclusive Ability Card - Blank Card",
                         "ref": "market card reward/exclusive/blank card"
                     },
                     {
-                        "name": "exclusive - reimu card 2",
+                        "name": "Exclusive Ability Card - Yin-Yang Orb (Needle)",
                         "ref": "market card reward/exclusive/reimu card 2"
                     },
                     {
-                        "name": "exclusive - sakuya card 2",
+                        "name": "Exclusive Ability Card - Maid Knife (Ricochet)",
                         "ref": "market card reward/exclusive/sakuya card 2"
                     },
                     {
-                        "name": "exclusive - sanae card 2",
+                        "name": "Exclusive Ability Card - Shed Snakeskin Amulet",
                         "ref": "market card reward/exclusive/sanae card 2"
                     },
                     {
-                        "name": "exclusive - youmu card 2",
+                        "name": "Exclusive Ability Card - Half-Ghost's Spare Part",
                         "ref": "market card reward/exclusive/youmu card 2"
                     },
                     {
-                        "name": "exclusive - cirno card",
+                        "name": "Exclusive Ability Card - Ice Fairy",
                         "ref": "market card reward/exclusive/cirno card"
                     },
                     {
-                        "name": "exclusive - saki card 2",
+                        "name": "Exclusive Ability Card -Indominable Meathead",
                         "ref": "market card reward/exclusive/saki card 2"
                     },
                     {
-                        "name": "exclusive - mamizou card",
+                        "name": "Exclusive Ability Card - Reliable Tanuki Apprentice",
                         "ref": "market card reward/exclusive/mamizou card"
                     },
                     {
-                        "name": "exclusive - jizo card",
+                        "name": "Exclusive Ability Card - Physical Enhancement Jizo",
                         "ref": "market card reward/exclusive/jizo card"
                     },
                     {
-                        "name": "exclusive - mike card",
+                        "name": "Exclusive Ability Card - Maneki-neko with Good Business Skills",
                         "ref": "market card reward/exclusive/mike card"
                     },
                     {
-                        "name": "exclusive - tenshi card 2",
+                        "name": "Exclusive Ability Card - Keystone Missile",
                         "ref": "market card reward/exclusive/tenshi card 2"
                     },
                     {
-                        "name": "exclusive - tsukasa card",
+                        "name": "Exclusive Ability Card - Spirit Power Sample Bottle",
                         "ref": "market card reward/exclusive/tsukasa card"
                     },
                     {
-                        "name": "exclusive - megumu card",
+                        "name": "Exclusive Ability Card - Great Tengu's Barley Rice",
                         "ref": "market card reward/exclusive/megumu card"
                     },
                     {
-                        "name": "exclusive - momoyo card",
+                        "name": "Exclusive Ability Card - Gluttonous Centipede",
                         "ref": "market card reward/exclusive/momoyo card"
                     },
                     {
-                        "name": "exclusive - nitori story card",
+                        "name": "Exclusive Ability Card - Capitalist's Dilemma",
                         "ref": "market card reward/exclusive/nitori story card"
                     },
                     {
-                        "name": "exclusive - takane story card",
+                        "name": "Exclusive Ability Card - Hundredth Black Market",
                         "ref": "market card reward/exclusive/takane story card"
                     },
                     {
-                        "name": "exclusive - minoriko card",
+                        "name": "Exclusive Ability Card - Bumper Crop of Life",
                         "ref": "market card reward/exclusive/minoriko card"
                     },
                     {
-                        "name": "exclusive - eternity card",
+                        "name": "Exclusive Ability Card - Stimulating Scales",
                         "ref": "market card reward/exclusive/eternity card"
                     },
                     {
-                        "name": "exclusive - nemuno card",
+                        "name": "Exclusive Ability Card - Yamanba's Kitchen Knife",
                         "ref": "market card reward/exclusive/nemuno card"
                     },
                     {
-                        "name": "exclusive - wakasagi card",
+                        "name": "Exclusive Ability Card - Smelt's Scales",
                         "ref": "market card reward/exclusive/wakasagi card"
                     },
                     {
-                        "name": "exclusive - urumi card",
+                        "name": "Exclusive Ability Card - Drenched Giant Snake",
                         "ref": "market card reward/exclusive/urumi card"
                     },
                     {
-                        "name": "exclusive - kutaka card",
+                        "name": "Exclusive Ability Card - Too-Honest Signpost",
                         "ref": "market card reward/exclusive/kutaka card"
                     },
                     {
-                        "name": "exclusive - komachi card",
+                        "name": "Exclusive Ability Card - Hasty Detour of the Three Crossings",
                         "ref": "market card reward/exclusive/komachi card"
                     },
                     {
-                        "name": "exclusive - ebisu card",
+                        "name": "Exclusive Ability Card - Laid-Back Invertebrate",
                         "ref": "market card reward/exclusive/ebisu card"
                     },
                     {
-                        "name": "exclusive - suika card",
+                        "name": "Exclusive Ability Card - Drunkenly Whimsical Ibuki Gourd",
                         "ref": "market card reward/exclusive/suika card"
                     },
                     {
-                        "name": "exclusive - teacup reimu card",
+                        "name": "Exclusive Ability Card - Teacup Reimu",
                         "ref": "market card reward/exclusive/teacup reimu card"
                     },
                     {
-                        "name": "exclusive - teacup marisa card",
+                        "name": "Exclusive Ability Card - Teacup Marisa",
                         "ref": "market card reward/exclusive/teacup marisa card"
                     },
                     {
-                        "name": "exclusive - sekibanki card",
+                        "name": "Exclusive Ability Card - Freewheeling Severed Head",
                         "ref": "market card reward/exclusive/sekibanki card"
                     },
                     {
-                        "name": "common - life card",
+                        "name": "Common Ability Card - Life Card",
                         "ref": "market card reward/common/life card"
                     },
                     {
-                        "name": "common - ringo card",
+                        "name": "Common Ability Card - Ringo-Brand Dango",
                         "ref": "market card reward/common/ringo card"
                     },
                     {
-                        "name": "common - hijiri card",
+                        "name": "Common Ability Card - Sutra of Dharmatic Power",
                         "ref": "market card reward/common/hijiri card"
                     },
                     {
-                        "name": "common - aya card",
+                        "name": "Common Ability Card - Gale Geta",
                         "ref": "market card reward/common/aya card"
                     },
                     {
-                        "name": "common - patchouli card",
+                        "name": "Common Ability Card - Magician's Basic Study",
                         "ref": "market card reward/common/patchouli card"
                     },
                     {
-                        "name": "common - flandre card",
+                        "name": "Common Ability Card - Aesthetics of Destruction",
                         "ref": "market card reward/common/flandre card"
                     },
                     {
-                        "name": "common - futo card",
+                        "name": "Common Ability Card - Dragon's Passage",
                         "ref": "market card reward/common/futo card"
                     },
                     {
-                        "name": "common - aunn card",
+                        "name": "Common Ability Card - Ferocious Komainu",
                         "ref": "market card reward/common/aunn card"
                     },
                     {
-                        "name": "lategame - mokou card",
+                        "name": "Lategame Ability Card - Phoenix's Tail",
                         "ref": "market card reward/lategame/mokou card"
                     },
                     {
-                        "name": "lategame - marisa card 2",
+                        "name": "Lategame Ability Card - Mini-Hakkero (Missile)",
                         "ref": "market card reward/lategame/marisa card 2"
                     },
                     {
-                        "name": "lategame - sanae card 1",
+                        "name": "Lategame Ability Card - Safe Return Amulet",
                         "ref": "market card reward/lategame/sanae card 1"
                     },
                     {
-                        "name": "lategame - mayumi card",
+                        "name": "Lategame Ability Card - Idle Defense Corps",
                         "ref": "market card reward/lategame/mayumi card"
                     },
                     {
-                        "name": "lategame - yachie card",
+                        "name": "Lategame Ability Card - Kiketsu Matriarch's Threat",
                         "ref": "market card reward/lategame/yachie card"
                     },
                     {
-                        "name": "lategame - moon card",
+                        "name": "Lategame Ability Card - Moon of Madness",
                         "ref": "market card reward/lategame/moon card"
                     },
                     {
-                        "name": "lategame - miko card",
+                        "name": "Lategame Ability Card - Esteemed Authority",
                         "ref": "market card reward/lategame/miko card"
                     },
                     {
-                        "name": "lategame - remilia card",
+                        "name": "Lategame Ability Card - Vampire Fang",
                         "ref": "market card reward/lategame/remilia card"
                     },
                     {
-                        "name": "lategame - utsuho card",
+                        "name": "Lategame Ability Card - Subterranean Sun",
                         "ref": "market card reward/lategame/utsuho card"
                     },
                     {
-                        "name": "lategame - misumaru card",
+                        "name": "Lategame Ability Card - Ancient Magatama",
                         "ref": "market card reward/lategame/misumaru card"
                     },
                     {
-                        "name": "lategame - joon card",
+                        "name": "Lategame Ability Card - Irresistible Feathered Fan",
                         "ref": "market card reward/lategame/joon card"
                     },
                     {
-                        "name": "lategame - shion card",
+                        "name": "Lategame Ability Card - Soot-Covered Uchiwa",
                         "ref": "market card reward/lategame/shion card"
                     },
                     {
-                        "name": "lategame - junko card",
+                        "name": "Lategame Ability Card - Pristine Self-Confidence",
                         "ref": "market card reward/lategame/junko card"
                     },
                     {
-                        "name": "tutorial - reimu card 1",
+                        "name": "Tutorial-only Ability Card - Yin-Yang Orb",
                         "ref": "market card reward/tutorial/reimu card 1"
                     },
                     {
-                        "name": "tutorial - marisa card 1",
+                        "name": "Tutorial-only Ability Card - Mini-Hakkero",
                         "ref": "market card reward/tutorial/marisa card 1"
                     },
                     {
-                        "name": "tutorial - nitori card",
+                        "name": "Tutorial-only Ability Card - Miser's Advice",
                         "ref": "market card reward/tutorial/nitori card"
                     },
                     {
-                        "name": "tutorial - kanako card",
+                        "name": "Tutorial-only Ability Card - Offerings to the Mountain God",
                         "ref": "market card reward/tutorial/kanako card"
                     },
                     {
-                        "name": "tutorial - yukari card",
+                        "name": "Tutorial-only Ability Card - Screen Border",
                         "ref": "market card reward/tutorial/yukari card"
                     },
                     {
-                        "name": "stage2 - sakuya card 1",
+                        "name": "Earlygame Ability Card - Maid Knife",
                         "ref": "market card reward/stage2/sakuya card 1"
                     },
                     {
-                        "name": "stage2 - youmu card 1",
+                        "name": "Earlygame Ability Card - Half of a Half-Ghost",
                         "ref": "market card reward/stage2/youmu card 1"
                     },
                     {
-                        "name": "stage2 - suwako card",
+                        "name": "Earlygame Ability Card - Bursting Red Frog",
                         "ref": "market card reward/stage2/suwako card"
                     },
                     {
-                        "name": "stage2 - kaguya card",
+                        "name": "Earlygame Ability Card - Princess Kaguya's Secret Stash",
                         "ref": "market card reward/stage2/kaguya card"
                     },
                     {
-                        "name": "stage2 - yuyuko card",
+                        "name": "Earlygame Ability Card - Danmaku Ghost",
                         "ref": "market card reward/stage2/yuyuko card"
                     },
                     {
-                        "name": "stage2 - takane card",
+                        "name": "Earlygame Ability Card - Yamawaro Shopping Technique",
                         "ref": "market card reward/stage2/takane card"
                     },
                     {
-                        "name": "stage2 - doremy card",
+                        "name": "Earlygame Ability Card - Sheep You Want to Count",
                         "ref": "market card reward/stage2/doremy card"
                     },
                     {
-                        "name": "stage2 - seija card",
+                        "name": "Earlygame Ability Card - Nimble Fabric",
                         "ref": "market card reward/stage2/seija card"
                     },
                     {
-                        "name": "stage2 - alice card",
+                        "name": "Earlygame Ability Card - Shanghai Doll",
                         "ref": "market card reward/stage2/alice card"
                     },
                     {
-                        "name": "stage3 - okina card",
+                        "name": "Midgame Ability Card - Back Door",
                         "ref": "market card reward/stage3/okina card"
                     },
                     {
-                        "name": "stage3 - ufo card",
+                        "name": "Midgame Ability Card - Annoying UFO",
                         "ref": "market card reward/stage3/ufo card"
                     },
                     {
-                        "name": "stage3 - saki card 1",
+                        "name": "Midgame Ability Card - Law of the Survival of the Fittest",
                         "ref": "market card reward/stage3/saki card 1"
                     },
                     {
-                        "name": "stage3 - eiki card",
+                        "name": "Midgame Ability Card - Money Is The Best Lawyer In Hell",
                         "ref": "market card reward/stage3/eiki card"
                     },
                     {
-                        "name": "stage3 - sannyo card",
+                        "name": "Midgame Ability Card - Dragon Pipe",
                         "ref": "market card reward/stage3/sannyo card"
                     },
                     {
-                        "name": "stage3 - tenshi card 1",
+                        "name": "Midgame Ability Card - Keystone of Endurance",
                         "ref": "market card reward/stage3/tenshi card 1"
                     },
                     {
-                        "name": "stage3 - toramaru card",
+                        "name": "Midgame Ability Card - Offensive Jeweled Pagoda",
                         "ref": "market card reward/stage3/toramaru card"
                     },
                     {
-                        "name": "stage3 - keiki card",
+                        "name": "Midgame Ability Card - No Problem for a Creator!",
                         "ref": "market card reward/stage3/keiki card"
                     },
                     {
-                        "name": "stage3 - seiran card",
+                        "name": "Midgame Ability Card - The Rabbit That Landed",
                         "ref": "market card reward/stage3/seiran card"
                     },
                     {
-                        "name": "stage1 - eirin card",
+                        "name": "Very Earlygame Ability Card - Life Explosion Elixir",
                         "ref": "market card reward/stage1/eirin card"
                     },
                     {
-                        "name": "stage1 - tewi card",
+                        "name": "Very Earlygame Ability Card - Fraudster's Rabbit Foot",
                         "ref": "market card reward/stage1/tewi card"
                     },
                     {
-                        "name": "stage1 - koishi card",
+                        "name": "Very Earlygame Ability Card - Pebble Hat",
                         "ref": "market card reward/stage1/koishi card"
                     },
                     {
-                        "name": "stage1 - lily card",
+                        "name": "Very Earlygame Ability Card - Item Season",
                         "ref": "market card reward/stage1/lily card"
                     },
                     {
-                        "name": "stage1 - raiko card",
+                        "name": "Very Earlygame Ability Card - Heavy Bass Drum",
                         "ref": "market card reward/stage1/raiko card"
                     },
                     {
-                        "name": "stage1 - sumireko card",
+                        "name": "Very Earlygame Ability Card - Psychokinesis",
                         "ref": "market card reward/stage1/sumireko card"
                     },
                     {
-                        "name": "stage1 - star sapphire card",
+                        "name": "Very Earlygame Ability Card - Quiet Twinkling",
                         "ref": "market card reward/stage1/star sapphire card"
                     },
                     {
-                        "name": "stage1 - luna child card",
+                        "name": "Very Earlygame Ability Card - Lunatic Silence",
                         "ref": "market card reward/stage1/luna child card"
                     },
                     {
-                        "name": "stage1 - sunny milk card",
+                        "name": "Very Earlygame Ability Card - Exuberant Powerlessness",
                         "ref": "market card reward/stage1/sunny milk card"
                     },
                     {
-                        "name": "market card reward - clownpiece card",
-                        "ref": "market card reward/clownpiece card"
+                        "name": "Lategame Ability Card - Life-Burning Torch",
+                        "ref": "market card reward/exclusive/clownpiece card"
                     }
                 ],
                 "map_locations": [
@@ -1179,7 +1179,7 @@
                 ]
             },
             {
-                "name": "tutorial",
+                "name": "Tutorial",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -1188,11 +1188,11 @@
                 ],
                 "sections": [
                     {
-                        "name": "mike goutokuji - encounter",
+                        "name": "Mike Goutokuji - Encounter",
                         "ref": "tutorial/mike goutokuji/encounter"
                     },
                     {
-                        "name": "mike goutokuji - defeat",
+                        "name": "Mike Goutokuji - Defeat",
                         "ref": "tutorial/mike goutokuji/defeat"
                     }
                 ],

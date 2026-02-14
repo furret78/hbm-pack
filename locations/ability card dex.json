@@ -10,511 +10,511 @@
         "sections": [
             {
                 "name": "blank card",
-                "access_rules": [],
+                "access_rules": ["blank_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "nazrin funds card",
-                "access_rules": [],
+                "access_rules": ["tutorial","1st_market","2nd_market","3rd_market","4th_market","5th_market","6th_market","end_of_market","challenge_logic,challenge_market"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "nazrin bullet money card",
                 "access_rules": [],
-                "visibility_rules": [],
+                "visibility_rules": ["tutorial","1st_market","2nd_market","3rd_market","4th_market","5th_market","6th_market","end_of_market","challenge_market"],
                 "item_count": 1
             },
             {
                 "name": "life card",
-                "access_rules": [],
+                "access_rules": ["life_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "ringo card",
-                "access_rules": [],
+                "access_rules": ["ringo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "mokou card",
-                "access_rules": [],
+                "access_rules": ["mokou_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "reimu card 1",
-                "access_rules": [],
+                "access_rules": ["reimu_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "reimu card 2",
-                "access_rules": [],
+                "access_rules": ["reimu_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "marisa card 1",
-                "access_rules": [],
+                "access_rules": ["marisa_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "marisa card 2",
-                "access_rules": [],
+                "access_rules": ["marisa_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sakuya card 1",
-                "access_rules": [],
+                "access_rules": ["sakuya_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sakuya card 2",
-                "access_rules": [],
+                "access_rules": ["sakuya_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sanae card 1",
-                "access_rules": [],
+                "access_rules": ["sanae_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sanae card 2",
-                "access_rules": [],
+                "access_rules": ["sanae_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "youmu card 1",
-                "access_rules": [],
+                "access_rules": ["youmu_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "youmu card 2",
-                "access_rules": [],
+                "access_rules": ["youmu_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "cirno card",
-                "access_rules": [],
+                "access_rules": ["cirno_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "okina card",
-                "access_rules": [],
+                "access_rules": ["okina_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "ufo card",
-                "access_rules": [],
+                "access_rules": ["ufo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "nitori card",
-                "access_rules": [],
+                "access_rules": ["nitori_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "kanako card",
-                "access_rules": [],
+                "access_rules": ["kanako_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "eirin card",
-                "access_rules": [],
+                "access_rules": ["eirin_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "tewi card",
-                "access_rules": [],
+                "access_rules": ["tewi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "saki card 1",
-                "access_rules": [],
+                "access_rules": ["saki_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "saki card 2",
-                "access_rules": [],
+                "access_rules": ["saki_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "hijiri card",
-                "access_rules": [],
+                "access_rules": ["hijiri_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "koishi card",
-                "access_rules": [],
+                "access_rules": ["koishi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "suwako card",
-                "access_rules": [],
+                "access_rules": ["suwako_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "aya card",
-                "access_rules": [],
+                "access_rules": ["aya_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "mayumi card",
-                "access_rules": [],
+                "access_rules": ["mayumi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "kaguya card",
-                "access_rules": [],
+                "access_rules": ["kaguya_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "mamizou card",
-                "access_rules": [],
+                "access_rules": ["mamizou_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "yuyuko card",
-                "access_rules": [],
+                "access_rules": ["yuyuko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "yachie card",
-                "access_rules": [],
+                "access_rules": ["yachie_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "eiki card",
-                "access_rules": [],
+                "access_rules": ["eiki_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "jizo card",
-                "access_rules": [],
+                "access_rules": ["jizo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "patchouli card",
-                "access_rules": [],
+                "access_rules": ["patchouli_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "mike card",
-                "access_rules": [],
+                "access_rules": ["mike_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "takane card",
-                "access_rules": [],
+                "access_rules": ["takane_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sannyo card",
-                "access_rules": [],
+                "access_rules": ["sannyo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "yukari card",
-                "access_rules": [],
+                "access_rules": ["yukari_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "mallet card",
-                "access_rules": [],
+                "access_rules": ["mallet_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "tenshi card 1",
-                "access_rules": [],
+                "access_rules": ["tenshi_card1"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "tenshi card 2",
-                "access_rules": [],
+                "access_rules": ["tenshi_card2"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "moon card",
-                "access_rules": [],
+                "access_rules": ["moon_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "miko card",
-                "access_rules": [],
+                "access_rules": ["miko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "remilia card",
-                "access_rules": [],
+                "access_rules": ["remilia_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "utsuho card",
-                "access_rules": [],
+                "access_rules": ["utsuho_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "lily card",
-                "access_rules": [],
+                "access_rules": ["lily_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "raiko card",
-                "access_rules": [],
+                "access_rules": ["raiko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sumireko card",
-                "access_rules": [],
+                "access_rules": ["sumireko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "misumaru card",
-                "access_rules": [],
+                "access_rules": ["misumaru_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "tsukasa card",
-                "access_rules": [],
+                "access_rules": ["tsukasa_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "megumu card",
-                "access_rules": [],
+                "access_rules": ["megumu_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "momoyo card",
-                "access_rules": [],
+                "access_rules": ["momoyo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "toramaru card",
-                "access_rules": [],
+                "access_rules": ["toramaru_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "star sapphire card",
-                "access_rules": [],
+                "access_rules": ["starsapphire_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "luna child card",
-                "access_rules": [],
+                "access_rules": ["lunachild_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sunny milk card",
-                "access_rules": [],
+                "access_rules": ["sunnymilk_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "flandre card",
-                "access_rules": [],
+                "access_rules": ["flandre_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "futo card",
-                "access_rules": [],
+                "access_rules": ["futo_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "aunn card",
-                "access_rules": [],
+                "access_rules": ["aunn_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "joon card",
-                "access_rules": [],
+                "access_rules": ["joon_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "shion card",
-                "access_rules": [],
+                "access_rules": ["shion_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "keiki card",
-                "access_rules": [],
+                "access_rules": ["keiki_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "seiran card",
-                "access_rules": [],
+                "access_rules": ["seiran_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "doremy card",
-                "access_rules": [],
+                "access_rules": ["doremy_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "junko card",
-                "access_rules": [],
+                "access_rules": ["junko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "nitori story card",
-                "access_rules": [],
+                "access_rules": ["nitori_story_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "takane story card",
-                "access_rules": [],
+                "access_rules": ["takane_story_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "minoriko card",
-                "access_rules": [],
+                "access_rules": ["minoriko_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "eternity card",
-                "access_rules": [],
+                "access_rules": ["eternity_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "nemuno card",
-                "access_rules": [],
+                "access_rules": ["nemuno_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "wakasagi card",
-                "access_rules": [],
+                "access_rules": ["wakasagi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "urumi card",
-                "access_rules": [],
+                "access_rules": ["urumi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "kutaka card",
-                "access_rules": [],
+                "access_rules": ["kutaka_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "komachi card",
-                "access_rules": [],
+                "access_rules": ["komachi_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "ebisu card",
-                "access_rules": [],
+                "access_rules": ["ebisu_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "seija card",
-                "access_rules": [],
+                "access_rules": ["seija_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "clownpiece card",
-                "access_rules": [],
+                "access_rules": ["clownpiece_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "suika card",
-                "access_rules": [],
+                "access_rules": ["suika_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "teacup reimu card",
-                "access_rules": [],
+                "access_rules": ["teacup_reimu_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "teacup marisa card",
-                "access_rules": [],
+                "access_rules": ["teacup_marisa_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "sekibanki card",
-                "access_rules": [],
+                "access_rules": ["sekibanki_card"],
                 "visibility_rules": [],
                 "item_count": 1
             },
             {
                 "name": "alice card",
-                "access_rules": [],
+                "access_rules": ["alice_card"],
                 "visibility_rules": [],
                 "item_count": 1
             }

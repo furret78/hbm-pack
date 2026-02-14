@@ -19,27 +19,35 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "magic_circle_size",
-                                "sanae_card2",
-                                "challenge_market",
-                                "youmu_card1",
-                                "life",
-                                "hijiri_card",
-                                "aunn_card",
-                                "futo_card",
+                                "challenge_logic",
+                                "tutorial",
+                                "1st_market",
+                                "2nd_market",
+                                "3rd_market",
+                                "4th_market",
+                                "5th_market",
+                                "6th_market",
+                                "end_of_market",
+                                "challenge_market"
+                            ],
+                            [
+                                "blank_card",
+                                "life_card",
+                                "ringo_card",
                                 "reimu_card1",
-                                "saki_card1",
-                                "invincibility"
+                                "reimu_card2",
+                                "marisa_card1",
+                                "marisa_card2",
+                                "sanae_card1",
+                                "sanae_card2",
+                                "youmu_card1",
+                                "youmu_card2"
                             ],
                             [
                                 "yachie_card",
                                 "yuyuko_card",
                                 "lily_card",
-                                "invincibility_cancel",
-                                "youmu_card2",
-                                "extreme_move_speed",
                                 "ebisu_card",
-                                "move_speed",
                                 "flandre_card",
                                 "minoriko_card",
                                 "takane_story_card"
@@ -49,7 +57,6 @@
                                 "yukari_card",
                                 "sunnymilk_card",
                                 "okina_card",
-                                "3rd_market",
                                 "life_card",
                                 "cirno_card",
                                 "moon_card",
@@ -58,17 +65,15 @@
                                 "saki_card2"
                             ],
                             [
-                                "magic_circle_graze_range",
-                                "marisa_card1",
                                 "blank_card",
                                 "clownpiece_card",
-                                "magic_circle_duration",
-                                "marisa_card2",
-                                "shot_attack",
                                 "seiran_card",
                                 "wakasagi_card",
                                 "mamizou_card",
-                                "minus_bullet_money"
+                                "hijiri_card",
+                                "aunn_card",
+                                "futo_card",
+                                "saki_card1"
                             ],
                             [
                                 "suwako_card",
@@ -78,43 +83,30 @@
                                 "raiko_card",
                                 "kaguya_card",
                                 "misumaru_card",
-                                "end_of_market",
-                                "keiki_card",
-                                "4th_market",
-                                "max_movespeed"
+                                "keiki_card"
                             ],
                             [
                                 "tewi_card",
-                                "minus_equip_cost",
                                 "aya_card",
                                 "jizo_card",
                                 "joon_card",
                                 "minus_funds",
                                 "takane_card",
-                                "kutaka_card",
-                                "teacup_reimu_card",
-                                "sakuya_card2",
-                                "sanae_card1"
+                                "kutaka_card"
                             ],
                             [
                                 "kanako_card",
                                 "suika_card",
                                 "sumireko_card",
                                 "nemuno_card",
-                                "reimu_card2",
                                 "tsukasa_card",
                                 "mallet_card",
                                 "urumi_card",
-                                "funds",
                                 "junko_card",
                                 "megumu_card"
                             ],
                             [
-                                "6th_market",
-                                "bullet_money",
-                                "tutorial",
                                 "remilia_card",
-                                "sakuya_card1",
                                 "toramaru_card",
                                 "mayumi_card",
                                 "shion_card",
@@ -130,22 +122,17 @@
                                 "sekibanki_card",
                                 "utsuho_card",
                                 "eternity_card",
-                                "alice_card",
+                                "alice_card"
+                            ],
+                            [
+                                "eirin_card",
+                                "teacup_marisa_card",
+                                "tenshi_card1",
+                                "lunachild_card",
+                                "starsapphire_card",
                                 "sannyo_card",
                                 "nitori_story_card",
                                 "patchouli_card"
-                            ],
-                            [
-                                "magic_circle_attack",
-                                "eirin_card",
-                                "teacup_marisa_card",
-                                "1st_market",
-                                "5th_market",
-                                "tenshi_card1",
-                                "2nd_market",
-                                "lunachild_card",
-                                "starsapphire_card",
-                                "update"
                             ]
                         ]
                     }
@@ -173,27 +160,35 @@
                         "item_width": 36,
                         "rows": [
                             [
-                                "magic_circle_size",
-                                "sanae_card2",
-                                "challenge_market",
-                                "youmu_card1",
-                                "life",
-                                "hijiri_card",
-                                "aunn_card",
-                                "futo_card",
+                                "challenge_logic",
+                                "tutorial",
+                                "1st_market",
+                                "2nd_market",
+                                "3rd_market",
+                                "4th_market",
+                                "5th_market",
+                                "6th_market",
+                                "end_of_market",
+                                "challenge_market"
+                            ],
+                            [
+                                "blank_card",
+                                "life_card",
+                                "ringo_card",
                                 "reimu_card1",
-                                "saki_card1",
-                                "invincibility"
+                                "reimu_card2",
+                                "marisa_card1",
+                                "marisa_card2",
+                                "sanae_card1",
+                                "sanae_card2",
+                                "youmu_card1",
+                                "youmu_card2"
                             ],
                             [
                                 "yachie_card",
                                 "yuyuko_card",
                                 "lily_card",
-                                "invincibility_cancel",
-                                "youmu_card2",
-                                "extreme_move_speed",
                                 "ebisu_card",
-                                "move_speed",
                                 "flandre_card",
                                 "minoriko_card",
                                 "takane_story_card"
@@ -203,7 +198,6 @@
                                 "yukari_card",
                                 "sunnymilk_card",
                                 "okina_card",
-                                "3rd_market",
                                 "life_card",
                                 "cirno_card",
                                 "moon_card",
@@ -212,17 +206,15 @@
                                 "saki_card2"
                             ],
                             [
-                                "magic_circle_graze_range",
-                                "marisa_card1",
                                 "blank_card",
                                 "clownpiece_card",
-                                "magic_circle_duration",
-                                "marisa_card2",
-                                "shot_attack",
                                 "seiran_card",
                                 "wakasagi_card",
                                 "mamizou_card",
-                                "minus_bullet_money"
+                                "hijiri_card",
+                                "aunn_card",
+                                "futo_card",
+                                "saki_card1"
                             ],
                             [
                                 "suwako_card",
@@ -232,43 +224,30 @@
                                 "raiko_card",
                                 "kaguya_card",
                                 "misumaru_card",
-                                "end_of_market",
-                                "keiki_card",
-                                "4th_market",
-                                "max_movespeed"
+                                "keiki_card"
                             ],
                             [
                                 "tewi_card",
-                                "minus_equip_cost",
                                 "aya_card",
                                 "jizo_card",
                                 "joon_card",
                                 "minus_funds",
                                 "takane_card",
-                                "kutaka_card",
-                                "teacup_reimu_card",
-                                "sakuya_card2",
-                                "sanae_card1"
+                                "kutaka_card"
                             ],
                             [
                                 "kanako_card",
                                 "suika_card",
                                 "sumireko_card",
                                 "nemuno_card",
-                                "reimu_card2",
                                 "tsukasa_card",
                                 "mallet_card",
                                 "urumi_card",
-                                "funds",
                                 "junko_card",
                                 "megumu_card"
                             ],
                             [
-                                "6th_market",
-                                "bullet_money",
-                                "tutorial",
                                 "remilia_card",
-                                "sakuya_card1",
                                 "toramaru_card",
                                 "mayumi_card",
                                 "shion_card",
@@ -284,22 +263,17 @@
                                 "sekibanki_card",
                                 "utsuho_card",
                                 "eternity_card",
-                                "alice_card",
+                                "alice_card"
+                            ],
+                            [
+                                "eirin_card",
+                                "teacup_marisa_card",
+                                "tenshi_card1",
+                                "lunachild_card",
+                                "starsapphire_card",
                                 "sannyo_card",
                                 "nitori_story_card",
                                 "patchouli_card"
-                            ],
-                            [
-                                "magic_circle_attack",
-                                "eirin_card",
-                                "teacup_marisa_card",
-                                "1st_market",
-                                "5th_market",
-                                "tenshi_card1",
-                                "2nd_market",
-                                "lunachild_card",
-                                "starsapphire_card",
-                                "update"
                             ]
                         ]
                     }

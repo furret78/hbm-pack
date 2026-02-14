@@ -19,169 +19,187 @@
                 "sections": [
                     {
                         "name": "blank card",
-                        "access_rules": [],
+                        "access_rules": ["end_of_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "reimu card 2",
-                        "access_rules": [],
+                        "access_rules": ["4th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "sakuya card 2",
-                        "access_rules": [],
+                        "access_rules": ["4th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "sanae card 2",
-                        "access_rules": [],
+                        "access_rules": ["4th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "youmu card 2",
-                        "access_rules": [],
+                        "access_rules": ["4th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "cirno card",
-                        "access_rules": [],
+                        "access_rules": ["2nd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "saki card 2",
-                        "access_rules": [],
+                        "access_rules": ["6th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "mamizou card",
-                        "access_rules": [],
+                        "access_rules": ["6th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "jizo card",
-                        "access_rules": [],
+                        "access_rules": ["3rd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "mike card",
-                        "access_rules": [],
+                        "access_rules": ["1st_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "tenshi card 2",
-                        "access_rules": [],
+                        "access_rules": ["5th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "tsukasa card",
-                        "access_rules": [],
+                        "access_rules": ["5th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "megumu card",
-                        "access_rules": [],
+                        "access_rules": ["5th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "momoyo card",
-                        "access_rules": [],
+                        "access_rules": ["6th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "nitori story card",
-                        "access_rules": [],
+                        "access_rules": ["4th_market,blank_card","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "takane story card",
-                        "access_rules": [],
+                        "access_rules": ["6th_market,nitory_story_card","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "minoriko card",
-                        "access_rules": [],
+                        "access_rules": ["1st_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "eternity card",
-                        "access_rules": [],
+                        "access_rules": ["1st_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "nemuno card",
-                        "access_rules": [],
+                        "access_rules": ["1st_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "wakasagi card",
-                        "access_rules": [],
+                        "access_rules": ["2nd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "urumi card",
-                        "access_rules": [],
+                        "access_rules": ["2nd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "kutaka card",
-                        "access_rules": [],
+                        "access_rules": ["3rd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "komachi card",
-                        "access_rules": [],
+                        "access_rules": ["3rd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "ebisu card",
-                        "access_rules": [],
+                        "access_rules": ["3rd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "suika card",
-                        "access_rules": [],
+                        "access_rules": ["6th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "teacup reimu card",
-                        "access_rules": [],
+                        "access_rules": ["end_of_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "teacup marisa card",
-                        "access_rules": [],
+                        "access_rules": ["end_of_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
                     {
                         "name": "sekibanki card",
-                        "access_rules": [],
+                        "access_rules": ["2nd_market","end_of_market","challenge_market,challenge_logic"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "doremy card",
+                        "access_rules": ["2nd_market","3rd_market","4th_market","5th_market","6th_market","challenge_market,challenge_logic"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "lily card",
+                        "access_rules": ["1st_market","2nd_market","3rd_market","4th_market","5th_market","6th_market","challenge_market,challenge_logic"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "clownpiece card",
+                        "access_rules": ["5th_market","challenge_logic,challenge_market"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -201,7 +219,10 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "1st_market","2nd_market",
+                    "3rd_market","4th_market",
+                    "5th_market","6th_market",
+                    "end_of_market","challenge_market,challenge_logic"
                 ],
                 "sections": [
                     {
@@ -268,7 +289,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "4th_market","5th_market","6th_market","challenge_market,challenge_logic"
                 ],
                 "sections": [
                     {
@@ -365,7 +386,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "tutorial"
                 ],
                 "sections": [
                     {
@@ -414,7 +435,8 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "2nd_market","3rd_market","4th_market","6th_market",
+                    "challenge_market,challenge_logic"
                 ],
                 "sections": [
                     {
@@ -454,12 +476,6 @@
                         "item_count": 1
                     },
                     {
-                        "name": "doremy card",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
                         "name": "seija card",
                         "access_rules": [],
                         "visibility_rules": [],
@@ -487,7 +503,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "3rd_market","4th_market","6th_market","challenge_market,challenge_logic"
                 ],
                 "sections": [
                     {
@@ -560,7 +576,7 @@
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "1st_market","2nd_market","3rd_market","4th_market","6th_market","challenge_market,challenge_logic"
                 ],
                 "sections": [
                     {
@@ -577,12 +593,6 @@
                     },
                     {
                         "name": "koishi card",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "lily card",
                         "access_rules": [],
                         "visibility_rules": [],
                         "item_count": 1
@@ -626,14 +636,6 @@
                         "size": 6
                     }
                 ]
-            }
-        ],
-        "sections": [
-            {
-                "name": "clownpiece card",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
             }
         ],
         "map_locations": [
