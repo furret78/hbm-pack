@@ -9,7 +9,7 @@
         ],
         "children": [
             {
-                "name": "1st market",
+                "name": "1st Market",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -18,35 +18,35 @@
                 ],
                 "sections": [
                     {
-                        "name": "mike goutokuji - encounter",
+                        "name": "Mike Goutokuji - Encounter",
                         "ref": "1st market/mike goutokuji/encounter"
                     },
                     {
-                        "name": "mike goutokuji - defeat",
+                        "name": "Mike Goutokuji - Defeat",
                         "ref": "1st market/mike goutokuji/defeat"
                     },
                     {
-                        "name": "minoriko aki - encounter",
+                        "name": "Minoriko Aki - Encounter",
                         "ref": "1st market/minoriko aki/encounter"
                     },
                     {
-                        "name": "minoriko aki - defeat",
+                        "name": "Minoriko Aki - Defeat",
                         "ref": "1st market/minoriko aki/defeat"
                     },
                     {
-                        "name": "eternity larva - encounter",
+                        "name": "Eternity Larva - Encounter",
                         "ref": "1st market/eternity larva/encounter"
                     },
                     {
-                        "name": "eternity larva - defeat",
+                        "name": "Eternity Larva - Defeat",
                         "ref": "1st market/eternity larva/defeat"
                     },
                     {
-                        "name": "nemuno sakata - encounter",
+                        "name": "Nemuno Sakata - Encounter",
                         "ref": "1st market/nemuno sakata/encounter"
                     },
                     {
-                        "name": "nemuno sakata - defeat",
+                        "name": "Nemuno Sakata - Defeat",
                         "ref": "1st market/nemuno sakata/defeat"
                     }
                 ],

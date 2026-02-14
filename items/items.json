@@ -1,8 +1,8 @@
 [
     {
-        "name": "magic_circle_size",
+        "name": "+% Magic Circle Size",
         "type": "consumable",
-        "img": "images/items/magic_circle_size.png",
+        "img": "images/items/filler/magic_circle.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -14,33 +14,33 @@
         "codes": "magic_circle_size"
     },
     {
-        "name": "sanae_card2",
+        "name": "Shed Snakeskin Amulet",
         "type": "toggle",
-        "img": "images/items/sanae_card2.png",
+        "img": "images/items/ability/sanae_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sanae_card2"
     },
     {
-        "name": "challenge_market",
+        "name": "Challenge Market Unlock",
         "type": "toggle",
-        "img": "images/items/challenge_market.png",
+        "img": "images/items/stage/challenge_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "challenge_market"
     },
     {
-        "name": "youmu_card1",
+        "name": "Half of a Half-Ghost",
         "type": "toggle",
-        "img": "images/items/youmu_card1.png",
+        "img": "images/items/ability/youmu_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "youmu_card1"
     },
     {
-        "name": "life",
+        "name": "Extra Life",
         "type": "consumable",
-        "img": "images/items/life.png",
+        "img": "images/items/filler/life.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -52,49 +52,49 @@
         "codes": "life"
     },
     {
-        "name": "hijiri_card",
+        "name": "Sutra of Dharmatic Power",
         "type": "toggle",
-        "img": "images/items/hijiri_card.png",
+        "img": "images/items/ability/hijiri_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "hijiri_card"
     },
     {
-        "name": "aunn_card",
+        "name": "Ferocious Komainu",
         "type": "toggle",
-        "img": "images/items/aunn_card.png",
+        "img": "images/items/ability/aunn_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "aunn_card"
     },
     {
-        "name": "futo_card",
+        "name": "Dragon's Passage",
         "type": "toggle",
-        "img": "images/items/futo_card.png",
+        "img": "images/items/ability/futo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "futo_card"
     },
     {
-        "name": "reimu_card1",
+        "name": "Yin-Yang Orb",
         "type": "toggle",
-        "img": "images/items/reimu_card1.png",
+        "img": "images/items/ability/reimu_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "reimu_card1"
     },
     {
-        "name": "saki_card1",
+        "name": "Law of the Survival of the Fittest",
         "type": "toggle",
-        "img": "images/items/saki_card1.png",
+        "img": "images/items/ability/saki_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "saki_card1"
     },
     {
-        "name": "invincibility",
+        "name": "Temporary Invincibility",
         "type": "consumable",
-        "img": "images/items/invincibility.png",
+        "img": "images/items/filler/invincibility.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -106,33 +106,33 @@
         "codes": "invincibility"
     },
     {
-        "name": "yachie_card",
+        "name": "Kiketsu Matriarch's Threat",
         "type": "toggle",
-        "img": "images/items/yachie_card.png",
+        "img": "images/items/ability/yachie_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "yachie_card"
     },
     {
-        "name": "yuyuko_card",
+        "name": "Danmaku Ghost",
         "type": "toggle",
-        "img": "images/items/yuyuko_card.png",
+        "img": "images/items/ability/yuyuko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "yuyuko_card"
     },
     {
-        "name": "lily_card",
+        "name": "Item Season",
         "type": "toggle",
-        "img": "images/items/lily_card.png",
+        "img": "images/items/ability/lily_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "lily_card"
     },
     {
-        "name": "invincibility_cancel",
+        "name": "Invincibility Cancel Trap",
         "type": "consumable",
-        "img": "images/items/invincibility_cancel.png",
+        "img": "images/items/filler/invincibility_cancel.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -144,17 +144,17 @@
         "codes": "invincibility_cancel"
     },
     {
-        "name": "youmu_card2",
+        "name": "Half-Ghost's Spare Part",
         "type": "toggle",
-        "img": "images/items/youmu_card2.png",
+        "img": "images/items/ability/youmu_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "youmu_card2"
     },
     {
-        "name": "extreme_move_speed",
+        "name": "Extreme Speed Trap",
         "type": "consumable",
-        "img": "images/items/extreme_move_speed.png",
+        "img": "images/items/filler/speed_trap.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -166,17 +166,17 @@
         "codes": "extreme_move_speed"
     },
     {
-        "name": "ebisu_card",
+        "name": "Laid-Back Invertebrate",
         "type": "toggle",
-        "img": "images/items/ebisu_card.png",
+        "img": "images/items/ability/ebisu_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ebisu_card"
     },
     {
-        "name": "move_speed",
+        "name": "Movement Speed Bonus",
         "type": "consumable",
-        "img": "images/items/move_speed.png",
+        "img": "images/items/filler/move_speed.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -188,121 +188,121 @@
         "codes": "move_speed"
     },
     {
-        "name": "flandre_card",
+        "name": "Aesthetics of Destruction",
         "type": "toggle",
-        "img": "images/items/flandre_card.png",
+        "img": "images/items/ability/flandre_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "flandre_card"
     },
     {
-        "name": "minoriko_card",
+        "name": "Bumper Crop of Life",
         "type": "toggle",
-        "img": "images/items/minoriko_card.png",
+        "img": "images/items/ability/minoriko_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "minoriko_card"
     },
     {
-        "name": "takane_story_card",
+        "name": "Hundredth Black Market",
         "type": "toggle",
-        "img": "images/items/takane_story_card.png",
+        "img": "images/items/ability/takane_story_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "takane_story_card"
     },
     {
-        "name": "doremy_card",
+        "name": "Sheep You Want to Count",
         "type": "toggle",
-        "img": "images/items/doremy_card.png",
+        "img": "images/items/ability/doremy_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "doremy_card"
     },
     {
-        "name": "yukari_card",
+        "name": "Screen Border",
         "type": "toggle",
-        "img": "images/items/yukari_card.png",
+        "img": "images/items/ability/yukari_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "yukari_card"
     },
     {
-        "name": "sunnymilk_card",
+        "name": "Exuberant Powerlessness",
         "type": "toggle",
-        "img": "images/items/sunnymilk_card.png",
+        "img": "images/items/ability/sunnymilk_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sunnymilk_card"
     },
     {
-        "name": "okina_card",
+        "name": "Back Door",
         "type": "toggle",
-        "img": "images/items/okina_card.png",
+        "img": "images/items/ability/okina_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "okina_card"
     },
     {
-        "name": "3rd_market",
+        "name": "3rd Market Unlock",
         "type": "toggle",
-        "img": "images/items/3rd_market.png",
+        "img": "images/items/stage/3rd_market.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "3rd_market"
     },
     {
-        "name": "life_card",
+        "name": "Life Card",
         "type": "toggle",
-        "img": "images/items/life_card.png",
+        "img": "images/items/ability/life_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "life_card"
     },
     {
-        "name": "cirno_card",
+        "name": "Ice Fairy",
         "type": "toggle",
-        "img": "images/items/cirno_card.png",
+        "img": "images/items/ability/cirno_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "cirno_card"
     },
     {
-        "name": "moon_card",
+        "name": "Moon of Madness",
         "type": "toggle",
-        "img": "images/items/moon_card.png",
+        "img": "images/items/ability/moon_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "moon_card"
     },
     {
-        "name": "mokou_card",
+        "name": "Phoenix's Tail",
         "type": "toggle",
-        "img": "images/items/mokou_card.png",
+        "img": "images/items/ability/mokou_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mokou_card"
     },
     {
-        "name": "ufo_card",
+        "name": "Annoying UFO",
         "type": "toggle",
-        "img": "images/items/ufo_card.png",
+        "img": "images/items/ability/ufo_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ufo_card"
     },
     {
-        "name": "saki_card2",
+        "name": "Indominable Meathead",
         "type": "toggle",
-        "img": "images/items/saki_card2.png",
+        "img": "images/items/ability/saki_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "saki_card2"
     },
     {
-        "name": "magic_circle_graze_range",
+        "name": "+% Magic Circle Graze Range",
         "type": "consumable",
-        "img": "images/items/magic_circle_graze_range.png",
+        "img": "images/items/filler/magic_circle.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -314,33 +314,33 @@
         "codes": "magic_circle_graze_range"
     },
     {
-        "name": "marisa_card1",
+        "name": "Mini-Hakkero",
         "type": "toggle",
-        "img": "images/items/marisa_card1.png",
+        "img": "images/items/ability/marisa_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "marisa_card1"
     },
     {
-        "name": "blank_card",
+        "name": "Blank Card",
         "type": "toggle",
-        "img": "images/items/blank_card.png",
+        "img": "images/items/ability/blank_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blank_card"
     },
     {
-        "name": "clownpiece_card",
+        "name": "Life-Burning Torch",
         "type": "toggle",
-        "img": "images/items/clownpiece_card.png",
+        "img": "images/items/ability/clownpiece_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "clownpiece_card"
     },
     {
-        "name": "magic_circle_duration",
+        "name": "+% Magic Circle Duration",
         "type": "consumable",
-        "img": "images/items/magic_circle_duration.png",
+        "img": "images/items/filler/magic_circle.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -352,17 +352,17 @@
         "codes": "magic_circle_duration"
     },
     {
-        "name": "marisa_card2",
+        "name": "Mini-Hakkero (Missile)",
         "type": "toggle",
-        "img": "images/items/marisa_card2.png",
+        "img": "images/items/ability/marisa_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "marisa_card2"
     },
     {
-        "name": "shot_attack",
+        "name": "+% Shot Attack Strength",
         "type": "consumable",
-        "img": "images/items/shot_attack.png",
+        "img": "images/items/filler/shot_attack.png",
         "min_quantity": 0,
         "max_quantity": 10,
         "increment": 1,
@@ -374,17 +374,17 @@
         "codes": "shot_attack"
     },
     {
-        "name": "seiran_card",
+        "name": "The Rabbit That Landed",
         "type": "toggle",
-        "img": "images/items/seiran_card.png",
+        "img": "images/items/ability/seiran_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "seiran_card"
     },
     {
-        "name": "wakasagi_card",
+        "name": "Smelt's Scales",
         "type": "toggle",
-        "img": "images/items/wakasagi_card.png",
+        "img": "images/items/ability/wakasagi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "wakasagi_card"
