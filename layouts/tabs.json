@@ -3,11 +3,12 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "ability card dex",
+                "title": "Overview",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "ability card dex"
+                        "1st market map",
+                        "1st market"
                     ]
                 }
             }
@@ -17,11 +18,12 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "ability card dex",
+                "title": "Overview",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "ability card dex"
+                        "1st market map",
+                        "1st market"
                     ]
                 }
             }

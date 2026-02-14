@@ -1,25 +1,28 @@
 {
     "shared_item_grid_horizontal": {
         "type": "array",
-        "orientation": "vertical",
+        "orientation": "horizontal",
         "margin": "0,0",
         "content": [
             {
                 "type": "array",
-                "orientation": "horizontal",
+                "orientation": "vertical",
                 "margin": "0,0",
                 "content": [
+                    {
+                        "type": "text",
+                        "text": "Unlocked Stages"
+                    },
                     {
                         "type": "itemgrid",
                         "item_margin": "2, 2",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 64,
+                        "item_width": 64,
                         "rows": [
                             [
-                                "challenge_logic",
                                 "tutorial",
                                 "1st_market",
                                 "2nd_market",
@@ -28,111 +31,154 @@
                                 "5th_market",
                                 "6th_market",
                                 "end_of_market",
-                                "challenge_market"
-                            ],
+                                "challenge_market",
+                                "challenge_logic"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Bosses Defeated"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "mike_tutorial",
+                                "chimata_defeat",
+                                "nitori_defeat",
+                                "takane_defeat",
+                                "mike_defeat",
+                                "minoriko_defeat",
+                                "eternity_defeat",
+                                "nemuno_defeat",
+                                "cirno_defeat",
+                                "wakasagi_defeat",
+                                "sekibanki_defeat",
+                                "urumi_defeat",
+                                "ebisu_defeat",
+                                "kutaka_defeat",
+                                "narumi_defeat",
+                                "komachi_defeat",
+                                "sanae_defeat",
+                                "sakuya_defeat",
+                                "youmu_defeat",
+                                "reimu_defeat",
+                                "tsukasa_defeat",
+                                "megumu_defeat",
+                                "clownpiece_defeat",
+                                "tenshi_defeat",
+                                "suika_defeat",
+                                "mamizou_defeat",
+                                "saki_defeat",
+                                "momoyo_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Ability Cards (Card Market)"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
                             [
                                 "blank_card",
-                                "life_card",
-                                "ringo_card",
+                                "nitori_story_card",
+                                "takane_story_card",
                                 "reimu_card1",
-                                "reimu_card2",
                                 "marisa_card1",
-                                "marisa_card2",
-                                "sanae_card1",
-                                "sanae_card2",
-                                "youmu_card1",
-                                "youmu_card2"
-                            ],
-                            [
-                                "yachie_card",
-                                "yuyuko_card",
-                                "lily_card",
-                                "ebisu_card",
-                                "flandre_card",
-                                "minoriko_card",
-                                "takane_story_card"
-                            ],
-                            [
-                                "doremy_card",
                                 "yukari_card",
-                                "sunnymilk_card",
-                                "okina_card",
+                                "nitori_card",
+                                "kanako_card",
+                                "flandre_card",
+                                "futo_card",
+                                "aya_card",
                                 "life_card",
-                                "cirno_card",
-                                "moon_card",
-                                "mokou_card",
-                                "ufo_card",
-                                "saki_card2"
-                            ],
-                            [
-                                "blank_card",
-                                "clownpiece_card",
-                                "seiran_card",
-                                "wakasagi_card",
-                                "mamizou_card",
+                                "patchouli_card",
+                                "ringo_card",
                                 "hijiri_card",
                                 "aunn_card",
-                                "futo_card",
-                                "saki_card1"
-                            ],
-                            [
-                                "suwako_card",
-                                "ringo_card",
-                                "eiki_card",
+                                "lily_card",
                                 "koishi_card",
-                                "raiko_card",
-                                "kaguya_card",
-                                "misumaru_card",
-                                "keiki_card"
-                            ],
-                            [
-                                "tewi_card",
-                                "aya_card",
-                                "jizo_card",
-                                "joon_card",
-                                "minus_funds",
-                                "takane_card",
-                                "kutaka_card"
-                            ],
-                            [
-                                "kanako_card",
-                                "suika_card",
-                                "sumireko_card",
-                                "nemuno_card",
-                                "tsukasa_card",
-                                "mallet_card",
-                                "urumi_card",
-                                "junko_card",
-                                "megumu_card"
-                            ],
-                            [
-                                "remilia_card",
-                                "toramaru_card",
-                                "mayumi_card",
-                                "shion_card",
-                                "seija_card",
-                                "nitori_card",
-                                "mike_card"
-                            ],
-                            [
-                                "momoyo_card",
-                                "miko_card",
-                                "komachi_card",
-                                "tenshi_card2",
-                                "sekibanki_card",
-                                "utsuho_card",
-                                "eternity_card",
-                                "alice_card"
-                            ],
-                            [
-                                "eirin_card",
-                                "teacup_marisa_card",
-                                "tenshi_card1",
-                                "lunachild_card",
                                 "starsapphire_card",
+                                "lunachild_card",
+                                "sunnymilk_card",
+                                "tewi_card",
+                                "raiko_card",
+                                "eirin_card",
+                                "sumireko_card",
+                                "doremy_card",
+                                "takane_card",
+                                "suwako_card",
+                                "yuyuko_card",
+                                "youmu_card1",
+                                "kaguya_card",
+                                "seija_card",
+                                "sakuya_card1",
+                                "alice_card",
+                                "ufo_card",
+                                "okina_card",
                                 "sannyo_card",
-                                "nitori_story_card",
-                                "patchouli_card"
+                                "tenshi_card1",
+                                "saki_card1",
+                                "eiki_card",
+                                "keiki_card",
+                                "toramaru_card"
+                            ],
+                            [
+                                "seiran_card",
+                                "misumaru_card",
+                                "miko_card",
+                                "mayumi_card",
+                                "joon_card",
+                                "shion_card",
+                                "junko_card",
+                                "yachie_card",
+                                "marisa_card2",
+                                "moon_card",
+                                "mokou_card",
+                                "sanae_card1",
+                                "utsuho_card",
+                                "remilia_card",
+                                "mike_card",
+                                "minoriko_card",
+                                "eternity_card",
+                                "nemuno_card",
+                                "cirno_card",
+                                "wakasagi_card",
+                                "sekibanki_card",
+                                "urumi_card",
+                                "ebisu_card",
+                                "kutaka_card",
+                                "jizo_card",
+                                "komachi_card",
+                                "sanae_card2",
+                                "sakuya_card2",
+                                "youmu_card2",
+                                "reimu_card2",
+                                "tsukasa_card",
+                                "megumu_card",
+                                "clownpiece_card",
+                                "tenshi_card2",
+                                "suika_card",
+                                "mamizou_card",
+                                "saki_card2",
+                                "momoyo_card",
+                                "teacup_reimu_card",
+                                "teacup_marisa_card"
                             ]
                         ]
                     }
@@ -151,129 +197,199 @@
                 "margin": "0,0",
                 "content": [
                     {
+                        "type": "text",
+                        "text": "Stages Unlocked"
+                    },
+                    {
                         "type": "itemgrid",
                         "item_margin": "2, 2",
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 64,
+                        "item_width": 64,
                         "rows": [
                             [
-                                "challenge_logic",
                                 "tutorial",
                                 "1st_market",
                                 "2nd_market",
                                 "3rd_market",
-                                "4th_market",
+                                "4th_market"
+                            ],
+                            [
                                 "5th_market",
                                 "6th_market",
                                 "end_of_market",
-                                "challenge_market"
+                                "challenge_market",
+                                "challenge_logic"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Bosses Defeated"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "mike_tutorial",
+                                "chimata_defeat",
+                                "nitori_defeat",
+                                "takane_defeat"
                             ],
+                            [
+                                "mike_defeat",
+                                "minoriko_defeat",
+                                "eternity_defeat",
+                                "nemuno_defeat",
+                                "cirno_defeat",
+                                "wakasagi_defeat",
+                                "sekibanki_defeat",
+                                "urumi_defeat"
+                            ],
+                            [
+                                "ebisu_defeat",
+                                "kutaka_defeat",
+                                "narumi_defeat",
+                                "komachi_defeat",
+                                "sanae_defeat",
+                                "sakuya_defeat",
+                                "youmu_defeat",
+                                "reimu_defeat"
+                            ],
+                            [
+                                "tsukasa_defeat",
+                                "megumu_defeat",
+                                "clownpiece_defeat",
+                                "tenshi_defeat",
+                                "suika_defeat",
+                                "mamizou_defeat",
+                                "saki_defeat",
+                                "momoyo_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Ability Cards (Card Market)"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
                             [
                                 "blank_card",
-                                "life_card",
-                                "ringo_card",
+                                "nitori_story_card",
+                                "takane_story_card",
                                 "reimu_card1",
-                                "reimu_card2",
                                 "marisa_card1",
-                                "marisa_card2",
-                                "sanae_card1",
-                                "sanae_card2",
-                                "youmu_card1",
-                                "youmu_card2"
+                                "yukari_card",
+                                "nitori_card",
+                                "kanako_card"
                             ],
                             [
-                                "yachie_card",
-                                "yuyuko_card",
-                                "lily_card",
-                                "ebisu_card",
                                 "flandre_card",
-                                "minoriko_card",
-                                "takane_story_card"
+                                "futo_card",
+                                "aya_card",
+                                "life_card",
+                                "patchouli_card",
+                                "ringo_card",
+                                "hijiri_card",
+                                "aunn_card",
+                                "lily_card"
+                            ],
+                            [
+                                "koishi_card",
+                                "starsapphire_card",
+                                "lunachild_card",
+                                "sunnymilk_card",
+                                "tewi_card",
+                                "raiko_card",
+                                "eirin_card",
+                                "sumireko_card"
                             ],
                             [
                                 "doremy_card",
-                                "yukari_card",
-                                "sunnymilk_card",
-                                "okina_card",
-                                "life_card",
-                                "cirno_card",
-                                "moon_card",
-                                "mokou_card",
-                                "ufo_card",
-                                "saki_card2"
-                            ],
-                            [
-                                "blank_card",
-                                "clownpiece_card",
-                                "seiran_card",
-                                "wakasagi_card",
-                                "mamizou_card",
-                                "hijiri_card",
-                                "aunn_card",
-                                "futo_card",
-                                "saki_card1"
-                            ],
-                            [
-                                "suwako_card",
-                                "ringo_card",
-                                "eiki_card",
-                                "koishi_card",
-                                "raiko_card",
-                                "kaguya_card",
-                                "misumaru_card",
-                                "keiki_card"
-                            ],
-                            [
-                                "tewi_card",
-                                "aya_card",
-                                "jizo_card",
-                                "joon_card",
-                                "minus_funds",
                                 "takane_card",
-                                "kutaka_card"
-                            ],
-                            [
-                                "kanako_card",
-                                "suika_card",
-                                "sumireko_card",
-                                "nemuno_card",
-                                "tsukasa_card",
-                                "mallet_card",
-                                "urumi_card",
-                                "junko_card",
-                                "megumu_card"
-                            ],
-                            [
-                                "remilia_card",
-                                "toramaru_card",
-                                "mayumi_card",
-                                "shion_card",
+                                "suwako_card",
+                                "yuyuko_card",
+                                "youmu_card1",
+                                "kaguya_card",
                                 "seija_card",
-                                "nitori_card",
-                                "mike_card"
-                            ],
-                            [
-                                "momoyo_card",
-                                "miko_card",
-                                "komachi_card",
-                                "tenshi_card2",
-                                "sekibanki_card",
-                                "utsuho_card",
-                                "eternity_card",
+                                "sakuya_card1",
                                 "alice_card"
                             ],
                             [
-                                "eirin_card",
-                                "teacup_marisa_card",
-                                "tenshi_card1",
-                                "lunachild_card",
-                                "starsapphire_card",
+                                "ufo_card",
+                                "okina_card",
                                 "sannyo_card",
-                                "nitori_story_card",
-                                "patchouli_card"
+                                "tenshi_card1",
+                                "saki_card1",
+                                "eiki_card",
+                                "keiki_card",
+                                "toramaru_card",
+                                "seiran_card"
+                            ],
+                            [
+                                "misumaru_card",
+                                "miko_card",
+                                "mayumi_card",
+                                "joon_card",
+                                "shion_card",
+                                "junko_card",
+                                "yachie_card",
+                                "marisa_card2"
+                            ],
+                            [
+                                "moon_card",
+                                "mokou_card",
+                                "sanae_card1",
+                                "utsuho_card",
+                                "remilia_card",
+                                "teacup_reimu_card",
+                                "teacup_marisa_card"
+                            ],
+                            [
+                                "mike_card",
+                                "minoriko_card",
+                                "eternity_card",
+                                "nemuno_card",
+                                "cirno_card",
+                                "wakasagi_card",
+                                "sekibanki_card",
+                                "urumi_card"
+                            ],
+                            [
+                                "ebisu_card",
+                                "kutaka_card",
+                                "jizo_card",
+                                "komachi_card",
+                                "sanae_card2",
+                                "sakuya_card2",
+                                "youmu_card2",
+                                "reimu_card2"
+                            ],
+                            [
+                                "tsukasa_card",
+                                "megumu_card",
+                                "clownpiece_card",
+                                "tenshi_card2",
+                                "suika_card",
+                                "mamizou_card",
+                                "saki_card2",
+                                "momoyo_card"
                             ]
                         ]
                     }

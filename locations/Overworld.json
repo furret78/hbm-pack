@@ -52,7 +52,7 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Overworld",
+                        "map": "visible menu",
                         "x": 1668,
                         "y": 175,
                         "size": 6

@@ -8,8 +8,8 @@
 -- ScriptHost:AddWatchForCode("ow_dungeon details handler", "ow_dungeon_details", owDungeonDetails)
 
 
-black_market_of_bulletphilia_~_100th_black_market_location = {}
-black_market_of_bulletphilia_~_100th_black_market_location.__index = black_market_of_bulletphilia_~_100th_black_market_location
+hbm_location = {}
+hbm_location.__index = hbm_location
 
 accessLVL= {
     [0] = "none",
@@ -80,8 +80,8 @@ end
 
 -- creates a lua object for the given name. it acts as a representation of a overworld region or indoor location and
 -- tracks its connected objects via the exit-table
-function black_market_of_bulletphilia_~_100th_black_market_location.new(name)
-    local self = setmetatable({}, black_market_of_bulletphilia_~_100th_black_market_location)
+function hbm_location.new(name)
+    local self = setmetatable({}, hbm_location)
     if name then
         NAMED_LOCATIONS[name] = self
         self.name = name
@@ -112,14 +112,14 @@ local function always()
 end
 
 -- marks a 1-way connections between 2 "locations/regions" in the source "locations" exit-table with rules if provided
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_one_way(exit, rule)
+function hbm_location:connect_one_way(exit, rule)
     if type(exit) == "string" then
         local existing = NAMED_LOCATIONS[exit]
         if existing then
             print("Warning: " .. exit .. " defined multiple times")  -- not sure if it's worth fixing in data or simply allowing this
             exit = existing
         else
-            exit = black_market_of_bulletphilia_~_100th_black_market_location.new(exit)
+            exit = hbm_location.new(exit)
         end
     end
     if rule == nil then
@@ -129,14 +129,14 @@ function black_market_of_bulletphilia_~_100th_black_market_location:connect_one_
 end
 
 -- marks a 2-way connection between 2 locations. acts as a shortcut for 2 connect_one_way-calls 
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_two_ways(exit, rule)
+function hbm_location:connect_two_ways(exit, rule)
     self:connect_one_way(exit, rule)
     exit:connect_one_way(self, rule)
 end
 
 -- creates a 1-way connection from a region/location to another one via a 1-way connector like a ledge, hole,
 -- self-closing door, 1-way teleport, ...
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_one_way_entrance(name, exit, rule)
+function hbm_location:connect_one_way_entrance(name, exit, rule)
     if rule == nil then
         rule = always
     end
@@ -145,7 +145,7 @@ end
 
 -- creates a connection between 2 locations that is traversable in both ways using the same rules both ways
 -- acts as a shortcut for 2 connect_one_way_entrance-calls
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_two_ways_entrance(name, exit, rule)
+function hbm_location:connect_two_ways_entrance(name, exit, rule)
     if exit == nil then -- for ER
         return
     end
@@ -155,7 +155,7 @@ end
 
 -- creates a connection between 2 locations that is traversable in both ways but each connection follow different rules.
 -- acts as a shortcut for 2 connect_one_way_entrance-calls
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_two_ways_entrance_door_stuck(name, exit, rule1, rule2)
+function hbm_location:connect_two_ways_entrance_door_stuck(name, exit, rule1, rule2)
     self:connect_one_way_entrance(name, exit, rule1)
     exit:connect_one_way_entrance(name, self, rule2)
 end
@@ -163,13 +163,13 @@ end
 -- technically redundant but well
 -- creates a connection between 2 locations that is traversable in both ways but each connection follow different rules.
 -- acts as a shortcut for 2 connect_one_way-calls
-function black_market_of_bulletphilia_~_100th_black_market_location:connect_two_ways_stuck(exit, rule1, rule2)
+function hbm_location:connect_two_ways_stuck(exit, rule1, rule2)
     self:connect_one_way(exit, rule1)
     exit:connect_one_way(self, rule2)
 end
 
 -- checks for the accessibility of a region/location given its own exit requirements
-function black_market_of_bulletphilia_~_100th_black_market_location:accessibility()
+function hbm_location:accessibility()
     -- only executed when run from a rules within a connection
     if currentLocation ~= nil and currentParent ~= nil then
         if indirectConnections[currentLocation] == nil then
@@ -187,7 +187,7 @@ function black_market_of_bulletphilia_~_100th_black_market_location:accessibilit
 end
 
 -- 
-function black_market_of_bulletphilia_~_100th_black_market_location:discover(accessibility, keys)
+function hbm_location:discover(accessibility, keys)
     -- checks if given Accessbibility is higer then last stored one
     -- prevents walking in circles
     
@@ -247,7 +247,7 @@ function black_market_of_bulletphilia_~_100th_black_market_location:discover(acc
     end
 end
 
-entry_point = black_market_of_bulletphilia_~_100th_black_market_location.new("entry_point")
+entry_point = hbm_location.new("entry_point")
 
 -- 
 function StateChanged()

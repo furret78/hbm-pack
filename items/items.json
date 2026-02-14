@@ -1189,6 +1189,6 @@
         "img": "images/items/boss/chimata.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "tenkyuu_defeat"
+        "codes": "chimata_defeat"
     }
 ]

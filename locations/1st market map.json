@@ -1,0 +1,40 @@
+[
+    {
+        "name": "1st market map",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "1st_market"
+        ],
+        "children": [
+            {
+                "name": "Mike Goutokuji",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "1st market/mike goutokuji/encounter"
+                    },
+                    {
+                        "name": "Defeat",
+                        "ref": "1st market/mike goutokuji/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "1st market map",
+                        "x": 141,
+                        "y": 76,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

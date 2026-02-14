@@ -27,15 +27,16 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 1,
+                        "hosted_item": "mike_defeat"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "1st market",
-                        "x": 1453,
-                        "y": 571,
-                        "size": 6
+                        "x": 141,
+                        "y": 76,
+                        "size": 30
                     }
                 ]
             },
@@ -58,15 +59,16 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 1,
+                        "hosted_item": "minoriko_defeat"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "1st market",
-                        "x": 464,
-                        "y": 1098,
-                        "size": 6
+                        "x": 141,
+                        "y": 217,
+                        "size": 30
                     }
                 ]
             },
@@ -89,15 +91,16 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 1,
+                        "hosted_item": "eternity_defeat"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "1st market",
-                        "x": 1210,
-                        "y": 2130,
-                        "size": 6
+                        "x": 406,
+                        "y": 76,
+                        "size": 30
                     }
                 ]
             },
@@ -120,15 +123,16 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
-                        "item_count": 1
+                        "item_count": 1,
+                        "hosted_item": "nemuno_defeat"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "1st market",
-                        "x": 2136,
-                        "y": 1383,
-                        "size": 6
+                        "x": 406,
+                        "y": 217,
+                        "size": 30
                     }
                 ]
             }
