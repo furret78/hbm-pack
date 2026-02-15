@@ -1,13 +1,15 @@
 [
     {
-        "name": "1st market map",
+        "name": "5th market map",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
         ],
         "children": [
             {
-                "name": "Mike Goutokuji",
+                "name": "Tsukasa Kudamaki",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -15,17 +17,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/mike goutokuji/encounter"
+                        "ref": "5th market/tsukasa kudamaki/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/mike goutokuji/defeat"
+                        "ref": "5th market/tsukasa kudamaki/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 141,
+                        "map": "5th market map",
+                        "x": 161,
                         "y": 76,
                         "size": 30
                     }
@@ -39,21 +41,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Maneki-neko with Good Business Skills",
-                        "ref": "market card reward/exclusive/mike card"
+                        "name": "Spirit Power Sample Bottle",
+                        "ref": "market card reward/exclusive/tsukasa card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 181,
+                        "map": "5th market map",
+                        "x": 201,
                         "y": 76,
                         "size": 30
                     }
                 ]
             },
             {
-                "name": "Minoriko Aki",
+                "name": "Megumu Iizunamaru",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -61,17 +63,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/minoriko aki/encounter"
+                        "ref": "5th market/megumu iizunamaru/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/minoriko aki/defeat"
+                        "ref": "5th market/megumu iizunamaru/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 141,
+                        "map": "5th market map",
+                        "x": 161,
                         "y": 217,
                         "size": 30
                     }
@@ -85,21 +87,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Bumper Crop of Life",
-                        "ref": "market card reward/exclusive/minoriko card"
+                        "name": "Great Tengu's Barley Rice",
+                        "ref": "market card reward/exclusive/megumu card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 181,
+                        "map": "5th market map",
+                        "x": 201,
                         "y": 217,
                         "size": 30
                     }
                 ]
             },
             {
-                "name": "Eternity Larva",
+                "name": "Clownpiece",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -107,17 +109,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/eternity larva/encounter"
+                        "ref": "5th market/clownpiece/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/eternity larva/defeat"
+                        "ref": "5th market/clownpiece/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 406,
+                        "map": "5th market map",
+                        "x": 426,
                         "y": 76,
                         "size": 30
                     }
@@ -131,21 +133,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Stimulating Scales",
-                        "ref": "market card reward/exclusive/eternity card"
+                        "name": "Life-Burning Torch",
+                        "ref": "market card reward/exclusive/clownpiece card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 446,
+                        "map": "5th market map",
+                        "x": 466,
                         "y": 76,
                         "size": 30
                     }
                 ]
             },
             {
-                "name": "Nemuno Sakata",
+                "name": "Tenshi Hinanawi",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -153,17 +155,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/nemuno sakata/encounter"
+                        "ref": "5th market/tenshi hinanawi/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/nemuno sakata/defeat"
+                        "ref": "5th market/tenshi hinanawi/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 406,
+                        "map": "5th market map",
+                        "x": 426,
                         "y": 217,
                         "size": 30
                     }
@@ -177,14 +179,14 @@
                 ],
                 "sections": [
                     {
-                        "name": "Yamanba's Kitchen Knife",
-                        "ref": "market card reward/exclusive/nemuno card"
+                        "name": "Keystone Missile",
+                        "ref": "market card reward/exclusive/tenshi card 2"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 446,
+                        "map": "5th market map",
+                        "x": 466,
                         "y": 217,
                         "size": 30
                     }

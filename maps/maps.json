@@ -1,18 +1,6 @@
 [
     {
-        "name": "visible menu",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/ability_card_dex.png"
-    },
-    {
         "name": "ability card dex map",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/ability_card_dex.png"
-    },
-    {
-        "name": "market card reward map",
         "location_size": 6,
         "location_border_thickness": 1,
         "img": "images/maps/ability_card_dex.png"
@@ -20,61 +8,55 @@
     {
         "name": "1st market map",
         "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/stage1.jpg"
-    },
-    {
-        "name": "1st market",
-        "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage1.jpg"
     },
     {
         "name": "2nd market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage2.jpg"
     },
     {
         "name": "3rd market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage3.jpg"
     },
     {
         "name": "4th market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage4.jpg"
     },
     {
         "name": "5th market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage5.jpg"
     },
     {
         "name": "6th market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/stage6.jpg"
     },
     {
         "name": "end of market map",
         "location_size": 6,
-        "location_border_thickness": 1,
+        "location_border_thickness": 3,
         "img": "images/maps/chimata.jpg"
     },
     {
         "name": "challenge market map",
         "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/challenge.jpg"
+        "location_border_thickness": 3,
+        "img": "images/maps/challenge.png"
     },
     {
-        "name": "tutorial map",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/tutorial.jpg"
+        "name": "story market map",
+        "location_size": 1,
+        "location_border_thickness": 3,
+        "img": "images/maps/story.png"
     }
 ]

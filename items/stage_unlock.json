@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Challenge Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/challenge_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "challenge_market"
+    },
+    {
+        "name": "3rd Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/3rd_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "3rd_market"
+    },
+    {
+        "name": "End of Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/end_of_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "end_of_market"
+    },
+    {
+        "name": "4th Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/4th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "4th_market"
+    },
+    {
+        "name": "6th Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/6th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "6th_market"
+    },
+    {
+        "name": "Tutorial Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/tutorial.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tutorial"
+    },
+    {
+        "name": "1st Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/1st_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "1st_market"
+    },
+    {
+        "name": "5th Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/5th_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "5th_market"
+    },
+    {
+        "name": "Enable Challenge Market in Logic",
+        "type": "toggle",
+        "img": "images/items/stage/challenge_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "challenge_logic"
+    }
+]

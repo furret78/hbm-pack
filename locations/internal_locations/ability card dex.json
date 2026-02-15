@@ -515,14 +515,6 @@
                 "visibility_rules": [],
                 "item_count": 1
             }
-        ],
-        "map_locations": [
-            {
-                "map": "ability card dex",
-                "x": 453,
-                "y": 2311,
-                "size": 6
-            }
         ]
     }
 ]

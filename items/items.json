@@ -1,19 +1,5 @@
 [
     {
-        "name": "+% Magic Circle Size",
-        "type": "consumable",
-        "img": "images/items/filler/magic_circle.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "magic_circle_size"
-    },
-    {
         "name": "Shed Snakeskin Amulet",
         "type": "toggle",
         "img": "images/items/ability/sanae_card2.png",
@@ -22,34 +8,12 @@
         "codes": "sanae_card2"
     },
     {
-        "name": "Challenge Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/challenge_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "challenge_market"
-    },
-    {
         "name": "Half of a Half-Ghost",
         "type": "toggle",
         "img": "images/items/ability/youmu_card1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "youmu_card1"
-    },
-    {
-        "name": "Extra Life",
-        "type": "consumable",
-        "img": "images/items/filler/life.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "life"
     },
     {
         "name": "Sutra of Dharmatic Power",
@@ -92,20 +56,6 @@
         "codes": "saki_card1"
     },
     {
-        "name": "Temporary Invincibility",
-        "type": "consumable",
-        "img": "images/items/filler/invincibility.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "invincibility"
-    },
-    {
         "name": "Kiketsu Matriarch's Threat",
         "type": "toggle",
         "img": "images/items/ability/yachie_card.png",
@@ -130,20 +80,6 @@
         "codes": "lily_card"
     },
     {
-        "name": "Invincibility Cancel Trap",
-        "type": "consumable",
-        "img": "images/items/filler/invincibility_cancel.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "invincibility_cancel"
-    },
-    {
         "name": "Half-Ghost's Spare Part",
         "type": "toggle",
         "img": "images/items/ability/youmu_card2.png",
@@ -152,40 +88,12 @@
         "codes": "youmu_card2"
     },
     {
-        "name": "Extreme Speed Trap",
-        "type": "consumable",
-        "img": "images/items/filler/speed_trap.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "extreme_move_speed"
-    },
-    {
         "name": "Laid-Back Invertebrate",
         "type": "toggle",
         "img": "images/items/ability/ebisu_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ebisu_card"
-    },
-    {
-        "name": "Movement Speed Bonus",
-        "type": "consumable",
-        "img": "images/items/filler/move_speed.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "move_speed"
     },
     {
         "name": "Aesthetics of Destruction",
@@ -244,14 +152,6 @@
         "codes": "okina_card"
     },
     {
-        "name": "3rd Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/3rd_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "3rd_market"
-    },
-    {
         "name": "Life Card",
         "type": "toggle",
         "img": "images/items/ability/life_card.png",
@@ -300,20 +200,6 @@
         "codes": "saki_card2"
     },
     {
-        "name": "+% Magic Circle Graze Range",
-        "type": "consumable",
-        "img": "images/items/filler/magic_circle.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "magic_circle_graze_range"
-    },
-    {
         "name": "Mini-Hakkero",
         "type": "toggle",
         "img": "images/items/ability/marisa_card1.png",
@@ -338,40 +224,12 @@
         "codes": "clownpiece_card"
     },
     {
-        "name": "+% Magic Circle Duration",
-        "type": "consumable",
-        "img": "images/items/filler/magic_circle.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "magic_circle_duration"
-    },
-    {
         "name": "Mini-Hakkero (Missile)",
         "type": "toggle",
         "img": "images/items/ability/marisa_card2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "marisa_card2"
-    },
-    {
-        "name": "+% Shot Attack Strength",
-        "type": "consumable",
-        "img": "images/items/filler/shot_attack.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "shot_attack"
     },
     {
         "name": "The Rabbit That Landed",
@@ -468,14 +326,6 @@
         "codes": "misumaru_card"
     },
     {
-        "name": "End of Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/end_of_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "end_of_market"
-    },
-    {
         "name": "No Problem for a Creator!",
         "type": "toggle",
         "img": "images/items/ability/keiki_card.png",
@@ -484,48 +334,12 @@
         "codes": "keiki_card"
     },
     {
-        "name": "4th Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/4th_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "4th_market"
-    },
-    {
-        "name": "Maximum Speed Trap",
-        "type": "consumable",
-        "img": "images/items/filler/speed_trap.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "max_movespeed"
-    },
-    {
         "name": "Fraudster's Rabbit Foot",
         "type": "toggle",
         "img": "images/items/ability/tewi_card.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "tewi_card"
-    },
-    {
-        "name": "Equip Cost Loss",
-        "type": "consumable",
-        "img": "images/items/filler/minus_equip_cost.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "minus_equip_cost"
     },
     {
         "name": "Gale Geta",
@@ -550,20 +364,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "joon_card"
-    },
-    {
-        "name": "Funds Loss",
-        "type": "consumable",
-        "img": "images/items/filler/minus_funds.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "minus_funds"
     },
     {
         "name": "Yamawaro Shopping Technique",
@@ -670,20 +470,6 @@
         "codes": "urumi_card"
     },
     {
-        "name": "Funds",
-        "type": "consumable",
-        "img": "images/items/filler/funds.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "funds"
-    },
-    {
         "name": "Pristine Self-Confidence",
         "type": "toggle",
         "img": "images/items/ability/junko_card.png",
@@ -698,36 +484,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "megumu_card"
-    },
-    {
-        "name": "6th Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/6th_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "6th_market"
-    },
-    {
-        "name": "Bullet Money",
-        "type": "consumable",
-        "img": "images/items/filler/bullet_money.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "bullet_money"
-    },
-    {
-        "name": "Tutorial Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/tutorial.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tutorial"
     },
     {
         "name": "Vampire Fang",
@@ -882,20 +638,6 @@
         "codes": "patchouli_card"
     },
     {
-        "name": "+% Magic Circle Attack",
-        "type": "consumable",
-        "img": "images/items/filler/magic_circle.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "magic_circle_attack"
-    },
-    {
         "name": "Life Explosion Elixir",
         "type": "toggle",
         "img": "images/items/ability/eirin_card.png",
@@ -910,22 +652,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "teacup_marisa_card"
-    },
-    {
-        "name": "1st Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/1st_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "1st_market"
-    },
-    {
-        "name": "5th Market Unlock",
-        "type": "toggle",
-        "img": "images/items/stage/5th_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "5th_market"
     },
     {
         "name": "Keystone of Endurance",
@@ -958,237 +684,5 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "starsapphire_card"
-    },
-    {
-        "name": "Enable Challenge Market in Logic",
-        "type": "toggle",
-        "img": "images/items/stage/challenge_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "challenge_logic"
-    },
-    {
-        "name": "Mike Goutokuji Defeated (Tutorial)",
-        "type": "toggle",
-        "img": "images/items/boss/mike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mike_tutorial"
-    },
-    {
-        "name": "Mike Goutokuji Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/mike.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mike_defeat"
-    },
-    {
-        "name": "Minoriko Aki Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/minoriko.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "minoriko_defeat"
-    },
-    {
-        "name": "Eternity Larva Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/eternity.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "eternity_defeat"
-    },
-    {
-        "name": "Nemuno Sakata Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/nemuno.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nemuno_defeat"
-    },
-    {
-        "name": "Cirno Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/cirno.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cirno_defeat"
-    },
-    {
-        "name": "Wakasagihime Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/wakasagi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wakasagi_defeat"
-    },
-    {
-        "name": "Urumi Ushizaki Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/urumi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "urumi_defeat"
-    },
-    {
-        "name": "Sekibanki Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/sekibanki.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sekibanki_defeat"
-    },
-    {
-        "name": "Eika Ebisu Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/ebisu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ebisu_defeat"
-    },
-    {
-        "name": "Kutaka Niwatari Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/kutaka.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kutaka_defeat"
-    },
-    {
-        "name": "Narumi Yatadera Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/narumi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "narumi_defeat"
-    },
-    {
-        "name": "Komachi Onozuka Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/komachi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "komachi_defeat"
-    },
-    {
-        "name": "Sanae Kochiya Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/sanae.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sanae_defeat"
-    },
-    {
-        "name": "Sakuya Izayoi Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/sakuya.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sakuya_defeat"
-    },
-    {
-        "name": "Youmu Konpaku Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/youmu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "youmu_defeat"
-    },
-    {
-        "name": "Reimu Hakurei Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/reimu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "reimu_defeat"
-    },
-    {
-        "name": "Nitori Kawashiro Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/nitori.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nitori_defeat"
-    },
-    {
-        "name": "Tsukasa Kudamaki Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/tsukasa.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tsukasa_defeat"
-    },
-    {
-        "name": "Megumu Iizunamaru Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/megumu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "megumu_defeat"
-    },
-    {
-        "name": "Clownpiece Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/clown.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "clownpiece_defeat"
-    },
-    {
-        "name": "Tenshi Hinanawi Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/tenshi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tenshi_defeat"
-    },
-    {
-        "name": "Suika Ibuki Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/suika.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "suika_defeat"
-    },
-    {
-        "name": "Mamizou Futatsuiwa Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/mamizou.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mamizou_defeat"
-    },
-    {
-        "name": "Saki Kurokoma Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/saki.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "saki_defeat"
-    },
-    {
-        "name": "Momoyo Himemushi Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/momoyo.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "momoyo_defeat"
-    },
-    {
-        "name": "Takane Yamashiro Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/takane.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "takane_defeat"
-    },
-    {
-        "name": "Chimata Tenkyuu Defeated",
-        "type": "toggle",
-        "img": "images/items/boss/chimata.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chimata_defeat"
     }
 ]

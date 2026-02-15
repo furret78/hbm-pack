@@ -1,13 +1,15 @@
 [
     {
-        "name": "1st market map",
+        "name": "2nd market map",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
         ],
         "children": [
             {
-                "name": "Mike Goutokuji",
+                "name": "Cirno",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -15,17 +17,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/mike goutokuji/encounter"
+                        "ref": "2nd market/cirno/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/mike goutokuji/defeat"
+                        "ref": "2nd market/cirno/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 141,
+                        "map": "2nd market map",
+                        "x": 161,
                         "y": 76,
                         "size": 30
                     }
@@ -39,21 +41,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Maneki-neko with Good Business Skills",
-                        "ref": "market card reward/exclusive/mike card"
+                        "name": "Ice Fairy",
+                        "ref": "market card reward/exclusive/cirno card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 181,
+                        "map": "2nd market map",
+                        "x": 201,
                         "y": 76,
                         "size": 30
                     }
                 ]
             },
             {
-                "name": "Minoriko Aki",
+                "name": "Wakasagihime",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -61,17 +63,17 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/minoriko aki/encounter"
+                        "ref": "2nd market/wakasagihime/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/minoriko aki/defeat"
+                        "ref": "2nd market/wakasagihime/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 141,
+                        "map": "2nd market map",
+                        "x": 161,
                         "y": 217,
                         "size": 30
                     }
@@ -85,21 +87,21 @@
                 ],
                 "sections": [
                     {
-                        "name": "Bumper Crop of Life",
-                        "ref": "market card reward/exclusive/minoriko card"
+                        "name": "Smelt's Scales",
+                        "ref": "market card reward/exclusive/wakasagi card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
-                        "x": 181,
+                        "map": "2nd market map",
+                        "x": 201,
                         "y": 217,
                         "size": 30
                     }
                 ]
             },
             {
-                "name": "Eternity Larva",
+                "name": "Sekibanki",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -107,16 +109,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/eternity larva/encounter"
+                        "ref": "2nd market/sekibanki/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/eternity larva/defeat"
+                        "ref": "2nd market/sekibanki/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "2nd market map",
                         "x": 406,
                         "y": 76,
                         "size": 30
@@ -131,13 +133,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Stimulating Scales",
-                        "ref": "market card reward/exclusive/eternity card"
+                        "name": "Freewheeling Severed Head",
+                        "ref": "market card reward/exclusive/sekibanki card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "2nd market map",
                         "x": 446,
                         "y": 76,
                         "size": 30
@@ -145,7 +147,7 @@
                 ]
             },
             {
-                "name": "Nemuno Sakata",
+                "name": "Urumi Ushizaki",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -153,16 +155,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/nemuno sakata/encounter"
+                        "ref": "2nd market/urumi ushizaki/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/nemuno sakata/defeat"
+                        "ref": "2nd market/urumi ushizaki/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "2nd market map",
                         "x": 406,
                         "y": 217,
                         "size": 30
@@ -177,13 +179,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Yamanba's Kitchen Knife",
-                        "ref": "market card reward/exclusive/nemuno card"
+                        "name": "Drenched Giant Snake",
+                        "ref": "market card reward/exclusive/urumi card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "2nd market map",
                         "x": 446,
                         "y": 217,
                         "size": 30

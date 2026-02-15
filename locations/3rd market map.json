@@ -1,13 +1,15 @@
 [
     {
-        "name": "1st market map",
+        "name": "3rd market map",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
             " "
         ],
         "children": [
             {
-                "name": "Mike Goutokuji",
+                "name": "Eika Ebisu",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -15,16 +17,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/mike goutokuji/encounter"
+                        "ref": "3rd market/eika ebisu/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/mike goutokuji/defeat"
+                        "ref": "3rd market/eika ebisu/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 141,
                         "y": 76,
                         "size": 30
@@ -39,13 +41,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Maneki-neko with Good Business Skills",
-                        "ref": "market card reward/exclusive/mike card"
+                        "name": "Laid-Back Invertebrate",
+                        "ref": "market card reward/exclusive/ebisu card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 181,
                         "y": 76,
                         "size": 30
@@ -53,7 +55,7 @@
                 ]
             },
             {
-                "name": "Minoriko Aki",
+                "name": "Kutaka Niwatari",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -61,16 +63,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/minoriko aki/encounter"
+                        "ref": "3rd market/kutaka niwatari/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/minoriko aki/defeat"
+                        "ref": "3rd market/kutaka niwatari/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 141,
                         "y": 217,
                         "size": 30
@@ -85,13 +87,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Bumper Crop of Life",
-                        "ref": "market card reward/exclusive/minoriko card"
+                        "name": "Too-Honest Signpost",
+                        "ref": "market card reward/exclusive/kutaka card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 181,
                         "y": 217,
                         "size": 30
@@ -99,7 +101,7 @@
                 ]
             },
             {
-                "name": "Eternity Larva",
+                "name": "Naurmi Yatadera",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -107,16 +109,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/eternity larva/encounter"
+                        "ref": "3rd market/narumi yatadera/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/eternity larva/defeat"
+                        "ref": "3rd market/narumi yatadera/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 406,
                         "y": 76,
                         "size": 30
@@ -131,13 +133,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Stimulating Scales",
-                        "ref": "market card reward/exclusive/eternity card"
+                        "name": "Physical Enhancement Jizo",
+                        "ref": "market card reward/exclusive/jizo card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 446,
                         "y": 76,
                         "size": 30
@@ -145,7 +147,7 @@
                 ]
             },
             {
-                "name": "Nemuno Sakata",
+                "name": "Komachi Onozuka",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -153,16 +155,16 @@
                 "sections": [
                     {
                         "name": "Encounter",
-                        "ref": "1st market/nemuno sakata/encounter"
+                        "ref": "3rd market/komachi onozuka/encounter"
                     },
                     {
                         "name": "Defeat",
-                        "ref": "1st market/nemuno sakata/defeat"
+                        "ref": "3rd market/komachi onozuka/defeat"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 406,
                         "y": 217,
                         "size": 30
@@ -177,13 +179,13 @@
                 ],
                 "sections": [
                     {
-                        "name": "Yamanba's Kitchen Knife",
-                        "ref": "market card reward/exclusive/nemuno card"
+                        "name": "Hasty Detour of the Three Crossings",
+                        "ref": "market card reward/exclusive/komachi card"
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "1st market map",
+                        "map": "3rd market map",
                         "x": 446,
                         "y": 217,
                         "size": 30

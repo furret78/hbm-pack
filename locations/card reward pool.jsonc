@@ -1,0 +1,447 @@
+// Market Card Rewards that DO NOT include most Exclusive cards.
+// Sekibanki somehow shows up in End of Market.
+[
+    {
+        "name": "card reward pool",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                // Common version used in all stages.
+                "name": "Common Market Card Rewards",
+                "sections": [
+                    {
+                        "name": "Aesthetics of Destruction",
+                        "ref": "market card reward/common/flandre card"
+                    },
+                    {
+                        "name": "Dragon's Passage",
+                        "ref": "market card reward/common/futo card"
+                    },
+                    {
+                        "name": "Gale Geta",
+                        "ref": "market card reward/common/aya card"
+                    },
+                    {
+                        "name": "Life Card",
+                        "ref": "market card reward/common/life card"
+                    },
+                    {
+                        "name": "Magician's Basic Study",
+                        "ref": "market card reward/common/patchouli card"
+                    },
+                    {
+                        "name": "Ringo-Brand Dango",
+                        "ref": "market card reward/common/ringo card"
+                    },
+                    {
+                        "name": "Sutra of Dharmatic Power",
+                        "ref": "market card reward/common/hijiri card"
+                    },
+                    {
+                        "name": "Ferocious Komainu",
+                        "ref": "market card reward/common/aunn card"
+                    },
+                    {
+                        "name": "Item Season",
+                        "ref": "market card reward/exclusive/lily card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "1st market map",
+                        "x": 90,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "2nd market map",
+                        "x": 60,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "3rd market map",
+                        "x": 50,
+                        "y": 329,
+                        "size": 50
+                    },
+                    {
+                        "map": "4th market map",
+                        "x": 70,
+                        "y": 463,
+                        "size": 50
+                    },
+                    {
+                        "map": "5th market map",
+                        "x": 70,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "6th market map",
+                        "x": 70,
+                        "y": 478,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Common version that excludes Lily White's card "Item Season",
+                // and includes Sekibanki's "Freewheeling Severed Head".
+                // Only in End of Market.
+                "name": "Common Market Card Rewards",
+                "sections": [
+                    {
+                        "name": "Aesthetics of Destruction",
+                        "ref": "market card reward/common/flandre card"
+                    },
+                    {
+                        "name": "Dragon's Passage",
+                        "ref": "market card reward/common/futo card"
+                    },
+                    {
+                        "name": "Gale Geta",
+                        "ref": "market card reward/common/aya card"
+                    },
+                    {
+                        "name": "Life Card",
+                        "ref": "market card reward/common/life card"
+                    },
+                    {
+                        "name": "Magician's Basic Study",
+                        "ref": "market card reward/common/patchouli card"
+                    },
+                    {
+                        "name": "Ringo-Brand Dango",
+                        "ref": "market card reward/common/ringo card"
+                    },
+                    {
+                        "name": "Sutra of Dharmatic Power",
+                        "ref": "market card reward/common/hijiri card"
+                    },
+                    {
+                        "name": "Ferocious Komainu",
+                        "ref": "market card reward/common/aunn card"
+                    },
+                    {
+                        "name": "Freewheeling Severed Head",
+                        "ref": "market card reward/exclusive/sekibanki card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "story market map",
+                        "x": 478,
+                        "y": 185,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Very earlygame cards that shows up everywhere except 5th Market and End of Market.
+                "name": "Very Earlygame Market Card Rewards",
+                "sections": [
+                    {
+                        "name": "Pebble Hat",
+                        "ref": "market card reward/stage1/koishi card"
+                    },
+                    {
+                        "name": "Quiet Twinkling",
+                        "ref": "market card reward/stage1/star sapphire card"
+                    },
+                    {
+                        "name": "Lunatic Silence",
+                        "ref": "market card reward/stage1/luna child card"
+                    },
+                    {
+                        "name": "Exuberant Powerlessness",
+                        "ref": "market card reward/stage1/sunny milk card"
+                    },
+                    {
+                        "name": "Fraudster's Rabbit Foot",
+                        "ref": "market card reward/stage1/tewi card"
+                    },
+                    {
+                        "name": "Heavy Bass Drum",
+                        "ref": "market card reward/stage1/raiko card"
+                    },
+                    {
+                        "name": "Life Explosion Elixir",
+                        "ref": "market card reward/stage1/eirin card"
+                    },
+                    {
+                        "name": "Psychokinesis",
+                        "ref": "market card reward/stage1/sumireko card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "1st market map",
+                        "x": 478,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "2nd market map",
+                        "x": 131,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "3rd market map",
+                        "x": 121,
+                        "y": 329,
+                        "size": 50
+                    },
+                    {
+                        "map": "4th market map",
+                        "x": 190,
+                        "y": 463,
+                        "size": 50
+                    },
+                    {
+                        "map": "6th market map",
+                        "x": 190,
+                        "y": 478,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Earlygame cards that shows up from 2nd Market onwards,
+                // except 5th Market and End of Market.
+                "name": "Earlygame Market Card Rewards",
+                "sections": [
+                    {
+                        "name": "Yamawaro Shopping Technique",
+                        "ref": "market card reward/stage2/takane card"
+                    },
+                    {
+                        "name": "Bursting Red Frog",
+                        "ref": "market card reward/stage2/suwako card"
+                    },
+                    {
+                        "name": "Danmaku Ghost",
+                        "ref": "market card reward/stage2/yuyuko card"
+                    },
+                    {
+                        "name": "Half of a Half-Ghost",
+                        "ref": "market card reward/stage2/youmu card 1"
+                    },
+                    {
+                        "name": "Princess Kaguya's Secret Stash",
+                        "ref": "market card reward/stage2/kaguya card"
+                    },
+                    {
+                        "name": "Nimble Fabric",
+                        "ref": "market card reward/stage2/seija card"
+                    },
+                    {
+                        "name": "Maid Knife",
+                        "ref": "market card reward/stage2/sakuya card 1"
+                    },
+                    {
+                        "name": "Shanghai Doll",
+                        "ref": "market card reward/stage2/alice card"
+                    },
+                    {
+                        "name": "Sheep You Want to Count",
+                        "ref": "market card reward/exclusive/doremy card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "2nd market map",
+                        "x": 487,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "3rd market map",
+                        "x": 462,
+                        "y": 329,
+                        "size": 50
+                    },
+                    {
+                        "map": "4th market map",
+                        "x": 310,
+                        "y": 463,
+                        "size": 50
+                    },
+                    {
+                        "map": "6th market map",
+                        "x": 310,
+                        "y": 478,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Earlygame cards: Sheep You Want to Count.
+                // Variant made specifically for 5th Market
+                "name": "Earlygame Market Card Reward",
+                "sections": [
+                    {
+                        "name": "Sheep You Want to Count",
+                        "ref": "market card reward/exclusive/doremy card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "5th market map",
+                        "x": 152,
+                        "y": 349,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Midgame Market Card Rewards.
+                // Shows up from 3rd Market onwards.
+                // Does not appear in 5th Market or End of Market.
+                "name": "Midgame Market Card Reward",
+                "sections": [
+                    {
+                        "name": "Annoying UFO",
+                        "ref": "market card reward/stage3/ufo card"
+                    },
+                    {
+                        "name": "Back Door",
+                        "ref": "market card reward/stage3/okina card"
+                    },
+                    {
+                        "name": "Dragon Pipe",
+                        "ref": "market card reward/stage3/sannyo card"
+                    },
+                    {
+                        "name": "Keystone of Endurance",
+                        "ref": "market card reward/stage3/tenshi card 1"
+                    },
+                    {
+                        "name": "Law of the Survival of the Fittest",
+                        "ref": "market card reward/stage3/saki card 1"
+                    },
+                    {
+                        "name": "Money Is The Best Lawyer In Hell",
+                        "ref": "market card reward/stage3/eiki card"
+                    },
+                    {
+                        "name": "No Problem for a Creator!",
+                        "ref": "market card reward/stage3/keiki card"
+                    },
+                    {
+                        "name": "Offensive Jeweled Pagoda",
+                        "ref": "market card reward/stage3/toramaru card"
+                    },
+                    {
+                        "name": "The Rabbit That Landed",
+                        "ref": "market card reward/stage3/seiran card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "3rd market map",
+                        "x": 533,
+                        "y": 329,
+                        "size": 50
+                    },
+                    {
+                        "map": "4th market map",
+                        "x": 420,
+                        "y": 463,
+                        "size": 50
+                    },
+                    {
+                        "map": "6th market map",
+                        "x": 420,
+                        "y": 478,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                // Lategame Market Card Rewards.
+                // Shows up from 4th Market onwards.
+                // Does not appear in End of Market.
+                "name": "Lategame Market Card Reward",
+                "sections": [
+                    {
+                        "name": "Ancient Magatama",
+                        "ref": "market card reward/lategame/misumaru card"
+                    },
+                    {
+                        "name": "Esteemed Authority",
+                        "ref": "market card reward/lategame/miko card"
+                    },
+                    {
+                        "name": "Idol Defense Corps",
+                        "ref": "market card reward/lategame/mayumi card"
+                    },
+                    {
+                        "name": "Irresistible Feathered Fan",
+                        "ref": "market card reward/lategame/joon card"
+                    },
+                    {
+                        "name": "Soot-covered Uchiwa",
+                        "ref": "market card reward/lategame/shion card"
+                    },
+                    {
+                        "name": "Pristine Self-Confidence",
+                        "ref": "market card reward/lategame/junko card"
+                    },
+                    {
+                        "name": "Kiketsu Matriarch's Threat",
+                        "ref": "market card reward/lategame/yachie card"
+                    },
+                    {
+                        "name": "Mini-Hakkero (Missile)",
+                        "ref": "market card reward/lategame/marisa card 2"
+                    },
+                    {
+                        "name": "Moon of Madness",
+                        "ref": "market card reward/lategame/moon card"
+                    },
+                    {
+                        "name": "Phoenix's Tail",
+                        "ref": "market card reward/lategame/mokou card"
+                    },
+                    {
+                        "name": "Safe Return Amulet",
+                        "ref": "market card reward/lategame/sanae card 1"
+                    },
+                    {
+                        "name": "Subterranean Sun",
+                        "ref": "market card reward/lategame/utsuho card"
+                    },
+                    {
+                        "name": "Vampire Fang",
+                        "ref": "market card reward/lategame/remilia card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "4th market map",
+                        "x": 520,
+                        "y": 463,
+                        "size": 50
+                    },
+                    {
+                        "map": "5th market map",
+                        "x": 487,
+                        "y": 349,
+                        "size": 50
+                    },
+                    {
+                        "map": "6th market map",
+                        "x": 520,
+                        "y": 478,
+                        "size": 50
+                    }
+                ]
+            }
+        ]
+    }
+]

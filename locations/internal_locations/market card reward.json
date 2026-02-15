@@ -10,8 +10,6 @@
         "children": [
             {
                 "name": "exclusive",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -203,20 +201,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 41,
-                        "y": 757,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "common",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "1st_market","2nd_market",
@@ -273,20 +261,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 1386,
-                        "y": 2219,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "lategame",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "4th_market","5th_market","6th_market","challenge_market,challenge_logic"
@@ -370,20 +348,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 1743,
-                        "y": 2268,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "tutorial",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "tutorial"
@@ -419,20 +387,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 1880,
-                        "y": 194,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "stage2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "2nd_market","3rd_market","4th_market","6th_market",
@@ -487,20 +445,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 675,
-                        "y": 643,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "stage3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "3rd_market","4th_market","6th_market","challenge_market,challenge_logic"
@@ -560,20 +508,10 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 1825,
-                        "y": 1572,
-                        "size": 6
-                    }
                 ]
             },
             {
                 "name": "stage1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "1st_market","2nd_market","3rd_market","4th_market","6th_market","challenge_market,challenge_logic"
@@ -627,23 +565,7 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "market card reward",
-                        "x": 34,
-                        "y": 635,
-                        "size": 6
-                    }
                 ]
-            }
-        ],
-        "map_locations": [
-            {
-                "map": "market card reward",
-                "x": 1703,
-                "y": 724,
-                "size": 6
             }
         ]
     }

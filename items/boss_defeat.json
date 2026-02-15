@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Mike Goutokuji Defeated (Tutorial)",
+        "type": "toggle",
+        "img": "images/items/boss/mike_t.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mike_tutorial"
+    },
+    {
+        "name": "Mike Goutokuji Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/mike.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mike_defeat"
+    },
+    {
+        "name": "Minoriko Aki Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/minoriko.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minoriko_defeat"
+    },
+    {
+        "name": "Eternity Larva Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/eternity.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eternity_defeat"
+    },
+    {
+        "name": "Nemuno Sakata Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/nemuno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nemuno_defeat"
+    },
+    {
+        "name": "Cirno Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/cirno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cirno_defeat"
+    },
+    {
+        "name": "Wakasagihime Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/wakasagi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wakasagi_defeat"
+    },
+    {
+        "name": "Urumi Ushizaki Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/urumi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "urumi_defeat"
+    },
+    {
+        "name": "Sekibanki Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/sekibanki.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sekibanki_defeat"
+    },
+    {
+        "name": "Eika Ebisu Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/ebisu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ebisu_defeat"
+    },
+    {
+        "name": "Kutaka Niwatari Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/kutaka.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kutaka_defeat"
+    },
+    {
+        "name": "Narumi Yatadera Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/narumi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "narumi_defeat"
+    },
+    {
+        "name": "Komachi Onozuka Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/komachi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "komachi_defeat"
+    },
+    {
+        "name": "Sanae Kochiya Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/sanae.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sanae_defeat"
+    },
+    {
+        "name": "Sakuya Izayoi Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/sakuya.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sakuya_defeat"
+    },
+    {
+        "name": "Youmu Konpaku Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/youmu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "youmu_defeat"
+    },
+    {
+        "name": "Reimu Hakurei Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/reimu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reimu_defeat"
+    },
+    {
+        "name": "Nitori Kawashiro Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/nitori.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nitori_defeat"
+    },
+    {
+        "name": "Tsukasa Kudamaki Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/tsukasa.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tsukasa_defeat"
+    },
+    {
+        "name": "Megumu Iizunamaru Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/megumu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "megumu_defeat"
+    },
+    {
+        "name": "Clownpiece Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/clown.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "clownpiece_defeat"
+    },
+    {
+        "name": "Tenshi Hinanawi Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/tenshi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tenshi_defeat"
+    },
+    {
+        "name": "Suika Ibuki Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/suika.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "suika_defeat"
+    },
+    {
+        "name": "Mamizou Futatsuiwa Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/mamizou.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mamizou_defeat"
+    },
+    {
+        "name": "Saki Kurokoma Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/saki.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saki_defeat"
+    },
+    {
+        "name": "Momoyo Himemushi Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/momoyo.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "momoyo_defeat"
+    },
+    {
+        "name": "Takane Yamashiro Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/takane.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "takane_defeat"
+    },
+    {
+        "name": "Chimata Tenkyuu Defeated",
+        "type": "toggle",
+        "img": "images/items/boss/chimata.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chimata_defeat"
+    }
+]

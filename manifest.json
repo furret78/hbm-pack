@@ -6,13 +6,7 @@
     "author": "Yuureiki",
     "variants": {
         "Map Tracker": {
-            "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        },
-        "Items Only": {
-            "display_name": "Items Only",
+            "display_name": "Tracker",
             "flags": [
                 "ap"
             ]
