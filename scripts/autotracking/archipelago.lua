@@ -179,7 +179,7 @@ function onClear(slot_data)
     
     ScriptHost:RemoveWatchForCode("StateChanged")
     ScriptHost:RemoveOnLocationSectionHandler("location_section_change_handler")
-    --SLOT_DATA = slot_data
+    SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do
@@ -228,9 +228,9 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
+    --if Tracker:FindObjectForCode("autofill_settings").Active == true then
+    --    autoFill(slot_data)
+    --end
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -412,11 +412,11 @@ end
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
 -- Archipelago:AddClearHandler("clear handler", onClearHandler)
--- Archipelago:AddItemHandler("item handler", onItem)
--- Archipelago:AddLocationHandler("location handler", onLocation)
+---Archipelago:AddItemHandler("item handler", onItem)
+--Archipelago:AddLocationHandler("location handler", onLocation)
 
--- Archipelago:AddSetReplyHandler("notify handler", onNotify)
--- Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
+--Archipelago:AddSetReplyHandler("notify handler", onNotify)
+--Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
 
 
 

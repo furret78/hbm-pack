@@ -1,9 +1,9 @@
+-- Import internal stuff
 Tracker:AddLocations("locations/internal_locations/all markets.json")
 Tracker:AddLocations("locations/internal_locations/ability card dex.json")
 Tracker:AddLocations("locations/internal_locations/challenge market.json")
 Tracker:AddLocations("locations/internal_locations/market card reward.json")
-Tracker:AddLocations("locations/internal_locations/tutorial.json")
-
+-- Import the proper map data with correct names
 Tracker:AddLocations("locations/1st market map.json")
 Tracker:AddLocations("locations/2nd market map.json")
 Tracker:AddLocations("locations/3rd market map.json")
@@ -12,5 +12,4 @@ Tracker:AddLocations("locations/5th market map.json")
 Tracker:AddLocations("locations/6th market map.json")
 Tracker:AddLocations("locations/story market map.json")
 Tracker:AddLocations("locations/challenge market map.json")
-
 Tracker:AddLocations("locations/card reward pool.jsonc")
