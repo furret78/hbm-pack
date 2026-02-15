@@ -25,6 +25,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "mike_defeat"
                     }
@@ -47,6 +48,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "minoriko_defeat"
                     }
@@ -69,6 +71,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "eternity_defeat"
                     }
@@ -91,6 +94,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "nemuno_defeat"
                     }
@@ -124,6 +128,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "cirno_defeat"
                     }
@@ -146,6 +151,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "wakasagi_defeat"
                     }
@@ -168,6 +174,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "sekibanki_defeat"
                     }
@@ -190,6 +197,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "urumi_defeat"
                     }
@@ -223,6 +231,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "ebisu_defeat"
                     }
@@ -245,6 +254,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "kutaka_defeat"
                     }
@@ -267,6 +277,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "narumi_defeat"
                     }
@@ -289,6 +300,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "komachi_defeat"
                     }
@@ -322,6 +334,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "sanae_defeat"
                     }
@@ -344,6 +357,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "sakuya_defeat"
                     }
@@ -366,6 +380,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "youmu_defeat"
                     }
@@ -388,6 +403,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "reimu_defeat"
                     }
@@ -410,6 +426,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "nitori_defeat"
                     }
@@ -443,6 +460,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "tsukasa_defeat"
                     }
@@ -465,6 +483,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "megumu_defeat"
                     }
@@ -487,6 +506,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "clownpiece_defeat"
                     }
@@ -509,6 +529,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "tenshi_defeat"
                     }
@@ -542,6 +563,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "suika_defeat"
                     }
@@ -564,6 +586,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "mamizou_defeat"
                     }
@@ -586,6 +609,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "saki_defeat"
                     }
@@ -608,6 +632,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "momoyo_defeat"
                     }
@@ -630,6 +655,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "takane_defeat"
                     }
@@ -663,6 +689,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "chimata_defeat"
                     }
@@ -696,6 +723,7 @@
                         "name": "defeat",
                         "access_rules": [],
                         "visibility_rules": [],
+                        "clear_as_group": true,
                         "item_count": 1,
                         "hosted_item": "mike_tutorial"
                     }
