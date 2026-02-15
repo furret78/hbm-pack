@@ -3,6 +3,15 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Story Stages",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "story market map"
+                    ]
+                }
+            },
+            {
                 "title": "Stage 1-3",
                 "content": {
                     "type": "map",
@@ -23,15 +32,6 @@
                         "6th market map"
                     ]
                 }
-            },
-            {
-                "title": "Story Stages",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "story market map"
-                    ]
-                }
             }
         ]
     },
@@ -39,7 +39,16 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Stage 1 + 2",
+                "title": "Story",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "story market map"
+                    ]
+                }
+            },
+            {
+                "title": "1 + 2",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -59,7 +68,7 @@
                 }
             },
             {
-                "title": "Stage 3 + 4",
+                "title": "3 + 4",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -79,7 +88,7 @@
                 }
             },
             {
-                "title": "Stage 5 + 6",
+                "title": "5 + 6",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -95,15 +104,6 @@
                                 "6th market map"
                             ]
                         }
-                    ]
-                }
-            },
-            {
-                "title": "Story Stages",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "story market map"
                     ]
                 }
             }

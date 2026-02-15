@@ -33,22 +33,6 @@
                                     "key": "tabbed_maps_vertical"
                                 }
                             ]
-                        },
-                        {
-                            "type": "dock",
-                            "dock": "top",
-                            "content": [
-                                {
-                                    "type": "group",
-                                    "header": "Pinned Locations",
-                                    "content": {
-                                        "style": "wrap",
-                                        "type": "recentpins",
-                                        "orientation": "vertical",
-                                        "compact": true
-                                    }
-                                }
-                            ]
                         }
                     ]
                 }
@@ -65,6 +49,7 @@
                 {
                     "type": "dock",
                     "dock": "bottom",
+                    "h_alignment": "stretch",
                     "content": [
                         {
                             "type": "group",
@@ -91,22 +76,6 @@
                                     "key": "tabbed_maps_horizontal"
                                 }
                             ]   
-                        },
-                        {
-                            "type": "dock",
-                            "dock": "right",
-                            "content": [
-                                {
-                                    "type": "group",
-                                    "header": "Pinned Locations",
-                                    "content": {
-                                        "style": "wrap",
-                                        "type": "recentpins",
-                                        "orientation": "vertical",
-                                        "compact": true
-                                    }
-                                }
-                            ]
                         }
                     ]
                 }

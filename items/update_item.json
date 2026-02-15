@@ -6,5 +6,19 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "update"
+    },
+    {
+        "name": "Enable Challenge Market in Logic",
+        "type": "toggle",
+        "img": "images/settings/challenge.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "challenge_logic"
+    },
+    {
+        "name": "autofill_settings",
+        "type": "static",
+        "overlay_align": "right",
+        "codes": "autofill_settings"
     }
 ]

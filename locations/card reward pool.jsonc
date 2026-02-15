@@ -302,7 +302,7 @@
                 // Midgame Market Card Rewards.
                 // Shows up from 3rd Market onwards.
                 // Does not appear in 5th Market or End of Market.
-                "name": "Midgame Market Card Reward",
+                "name": "Midgame Market Card Rewards",
                 "sections": [
                     {
                         "name": "Annoying UFO",
@@ -366,7 +366,7 @@
                 // Lategame Market Card Rewards.
                 // Shows up from 4th Market onwards.
                 // Does not appear in End of Market.
-                "name": "Lategame Market Card Reward",
+                "name": "Lategame Market Card Rewards",
                 "sections": [
                     {
                         "name": "Ancient Magatama",

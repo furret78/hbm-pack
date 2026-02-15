@@ -6,6 +6,3 @@ Archipelago:AddLocationHandler("location handler", onLocation)
 
 Archipelago:AddSetReplyHandler("notify handler", onNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
-
-
-        

@@ -26,11 +26,6 @@ if Highlight then
     }
 end
 
-Troll_Lookup = {
-    ["solarcell"] = true,
-    ["earthor"] = true,
-}
-
 function dump_table(o, depth)
     if depth == nil then
         depth = 0
@@ -121,12 +116,6 @@ function preOnClear()
     PLAYER_ID = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
     if Archipelago.PlayerNumber > -1 then
-        for key, _ in pairs(Troll_Lookup) do
-            if string.find((Archipelago:GetPlayerAlias(PLAYER_ID)).lower(), key, 1, true) ~= nil then
-                TROLL_PLAYER = true
-                break
-            end
-        end
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
         end
@@ -228,9 +217,9 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    --if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --    autoFill(slot_data)
-    --end
+    if Tracker:FindObjectForCode("autofill_settings").Active == true then
+        autoFill(slot_data)
+    end
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -306,7 +295,7 @@ function onLocation(location_id, location_name)
 
     for _, location in pairs(location_array) do
         local location_obj = Tracker:FindObjectForCode(location)
-        -- print(location, location_obj)
+        print(location, location_obj)
         if location_obj then
             if location:sub(1, 1) == "@" then
                 location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
@@ -320,39 +309,29 @@ function onLocation(location_id, location_name)
     MANUAL_CHECKED = true
 end
 
--- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to 
--- your own settings
--- function autoFill()
---     if SLOT_DATA == nil  then
---         print("its fucked")
---         return
---     end
---     -- print(dump_table(SLOT_DATA))
+function autoFill()
+    if SLOT_DATA == nil then
+        print("Slot data is invalid.")
+        return
+    end
 
---     mapToggle={[0]=0,[1]=1,[2]=1,[3]=1,[4]=1}
---     mapToggleReverse={[0]=1,[1]=0,[2]=0,[3]=0,[4]=0}
---     mapTripleReverse={[0]=2,[1]=1,[2]=0}
+    print(dump_table(SLOT_DATA))
 
---     slotCodes = {
---         map_name = {code="", mapping=mapToggle...}
---     }
---     -- print(dump_table(SLOT_DATA))
---     -- print(Tracker:FindObjectForCode("autofill_settings").Active)
---     if Tracker:FindObjectForCode("autofill_settings").Active == true then
---         for settings_name , settings_value in pairs(SLOT_DATA) do
---             -- print(k, v)
---             if slotCodes[settings_name] then
---                 item = Tracker:FindObjectForCode(slotCodes[settings_name].code)
---                 if item.Type == "toggle" then
---                     item.Active = slotCodes[settings_name].mapping[settings_value]
---                 else 
---                     -- print(k,v,Tracker:FindObjectForCode(slotCodes[k].code).CurrentStage, slotCodes[k].mapping[v])
---                     item.CurrentStage = slotCodes[settings_name].mapping[settings_value]
---                 end
---             end
---         end
---     end
--- end
+    if Tracker:FindObjectForCode("autofill_settings").Active == true then
+        for settings_name, settings_value in pairs(SLOT_DATA) do
+            if (Tracker:FindObjectForCode("challenge_logic") and settings_name == "disable_challenge_logic") then
+                local challenge_logic_item = Tracker:FindObjectForCode("challenge_logic")
+                if settings_value == 0 then
+                    print("Challenge logic is enabled.")
+                    challenge_logic_item.Active = true
+                else
+                    print("Challenge logic is OFF.")
+                    challenge_logic_item.Active = false
+                end
+            end
+        end
+    end
+end
 
 function onNotify(key, value, old_value)
     print("onNotify", key, value, old_value)
@@ -411,12 +390,6 @@ end
 
 
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
--- Archipelago:AddClearHandler("clear handler", onClearHandler)
----Archipelago:AddItemHandler("item handler", onItem)
---Archipelago:AddLocationHandler("location handler", onLocation)
-
---Archipelago:AddSetReplyHandler("notify handler", onNotify)
---Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
 
 
 

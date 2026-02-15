@@ -62,13 +62,5 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "5th_market"
-    },
-    {
-        "name": "Enable Challenge Market in Logic",
-        "type": "toggle",
-        "img": "images/items/stage/challenge_market.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "challenge_logic"
     }
 ]
