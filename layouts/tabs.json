@@ -32,6 +32,17 @@
                         "6th market map"
                     ]
                 }
+            },
+            {
+                "title": "Challenge Market",
+                "content": [
+                    {
+                        "type": "map",
+                        "maps": [
+                            "challenge market map"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -39,7 +50,7 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Stages + Bosses",
+                "title": "Stages & Bosses",
                 "content": {
                     "type": "layout",
                     "key": "shared_boss_grid_horizontal"
@@ -125,6 +136,17 @@
                         }
                     ]
                 }
+            },
+            {
+                "title": "Challenge",
+                "content": [
+                    {
+                        "type": "map",
+                        "maps": [
+                            "challenge market map"
+                        ]
+                    }
+                ]
             }
         ]
     },

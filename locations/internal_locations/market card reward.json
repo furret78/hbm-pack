@@ -107,7 +107,7 @@
                     },
                     {
                         "name": "takane story card",
-                        "access_rules": ["6th_market,nitory_story_card","challenge_market,challenge_logic"],
+                        "access_rules": ["6th_market,nitori_story_card","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
