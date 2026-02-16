@@ -161,7 +161,7 @@
                 "name": "sekibanki",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "cirno_defeat,wakasagi_defeat,urumi_defeat"
                 ],
                 "sections": [
                     {
@@ -184,7 +184,7 @@
                 "name": "urumi ushizaki",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "cirno_defeat,wakasagi_defeat,sekibanki_defeat"
+                    " "
                 ],
                 "sections": [
                     {

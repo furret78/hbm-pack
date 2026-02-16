@@ -137,7 +137,7 @@
                     },
                     {
                         "name": "urumi card",
-                        "access_rules": ["2nd_market,cirno_defeat,wakasagi_defeat,sekibanki_defeat","challenge_market,challenge_logic"],
+                        "access_rules": ["2nd_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -179,7 +179,7 @@
                     },
                     {
                         "name": "sekibanki card",
-                        "access_rules": ["2nd_market","end_of_market","challenge_market,challenge_logic"],
+                        "access_rules": ["2nd_market,cirno_defeat,wakasagi_defeat,urumi_defeat","end_of_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     },

@@ -315,7 +315,17 @@ function autoFill()
         return
     end
 
-    print(dump_table(SLOT_DATA))
+    local MarketToObj = {
+        [0] = 100,
+        [1] = 101,
+        [2] = 102,
+        [3] = 103,
+        [4] = 104,
+        [5] = 105,
+        [6] = 106,
+        [7] = 107,
+        [8] = 108
+    }
 
     if Tracker:FindObjectForCode("autofill_settings").Active == true then
         for settings_name, settings_value in pairs(SLOT_DATA) do
@@ -327,6 +337,18 @@ function autoFill()
                 else
                     print("Challenge logic is OFF.")
                     challenge_logic_item.Active = false
+                end
+            end
+            if settings_name == "starting_market" then
+                if MarketToObj[settings_value] then
+                    local item = ITEM_MAPPING[MarketToObj[settings_value]]
+                    for _, item_pair in pairs(item) do
+                        item_code = item_pair[1]
+                        local start_stage_item = Tracker:FindObjectForCode(item_code)
+                        if start_stage_item.Type == "toggle" then
+                            start_stage_item.Active = true
+                        end
+                    end
                 end
             end
         end
