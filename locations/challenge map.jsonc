@@ -1,0 +1,499 @@
+[
+    {
+        "name": "challenge market map",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            // Wave 1
+            {
+                "name": "Mike Goutokuji",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/mike goutokuji/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 177
+                    }
+                ]
+            },
+            {
+                "name": "Minoriko Aki",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/minoriko aki/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 177
+                    }
+                ]
+            },
+            {
+                "name": "Eternity Larva",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/eternity larva/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 177
+                    }
+                ]
+            },
+            {
+                "name": "Nemuno Sakata",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/nemuno sakata/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 177
+                    }
+                ]
+            },
+            // Wave 4
+            {
+                "name": "Cirno",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/cirno/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Wakasagihime",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/wakasagihime/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Sekibanki",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/sekibanki/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Urumi Ushizaki",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/urumi ushizaki/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 246
+                    }
+                ]
+            },
+            // Wave 6
+            {
+                "name": "Eika Ebisu",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/eika ebisu/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Kutaka Niwatari",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/kutaka niwatari/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Narumi Yatadera",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/narumi yatadera/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Komachi Onozuka",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/komachi onozuka/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 320
+                    }
+                ]
+            },
+            // Wave 8
+            {
+                "name": "Sanae Kochiya",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/sanae kochiya/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 389
+                    }
+                ]
+            },
+            {
+                "name": "Sakuya Izayoi",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/sakuya izayoi/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 389
+                    }
+                ]
+            },
+            {
+                "name": "Youmu Konpaku",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/youmu konpaku/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 389
+                    }
+                ]
+            },
+            {
+                "name": "Reimu Hakurei",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/reimu hakurei/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 389
+                    }
+                ]
+            },
+            // Wave 10
+            {
+                "name": "Tsukasa Kudamaki",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/tsukasa kudamaki/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "Megumu Iizunamaru",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/megumu iizunamaru/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "Clownpiece",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/clownpiece/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "Tenshi Hinanawi",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/tenshi hinanawi/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 460
+                    }
+                ]
+            },
+            // Wave 12
+            {
+                "name": "Suika Ibuki",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/suika ibuki/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 75,
+                        "y": 531
+                    }
+                ]
+            },
+            {
+                "name": "Mamizou Futatsuiwa",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/mamizou futatsuiwa/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 176,
+                        "y": 531
+                    }
+                ]
+            },
+            {
+                "name": "Saki Kurokoma",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/saki kurokoma/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 280,
+                        "y": 531
+                    }
+                ]
+            },
+            {
+                "name": "Momoyo Himemushi",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Encounter",
+                        "ref": "challenge market/momoyo himemushi/encounter"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 387,
+                        "y": 531
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -85,6 +85,12 @@
                         "x": 70,
                         "y": 478,
                         "size": 50
+                    },
+                    {
+                        "map": "challenge market map",
+                        "x": 320,
+                        "y": 31,
+                        "size": 25
                     }
                 ]
             },
@@ -92,7 +98,7 @@
                 // Common version that excludes Lily White's card "Item Season",
                 // and includes Sekibanki's "Freewheeling Severed Head".
                 // Only in End of Market.
-                "name": "Common Market Card Rewards",
+                "name": "Market Card Rewards",
                 "sections": [
                     {
                         "name": "Aesthetics of Destruction",
@@ -207,6 +213,12 @@
                         "x": 190,
                         "y": 478,
                         "size": 50
+                    },
+                    {
+                        "map": "challenge market map",
+                        "x": 373,
+                        "y": 31,
+                        "size": 25
                     }
                 ]
             },
@@ -276,6 +288,12 @@
                         "x": 310,
                         "y": 478,
                         "size": 50
+                    },
+                    {
+                        "map": "challenge market map",
+                        "x": 320,
+                        "y": 70,
+                        "size": 25
                     }
                 ]
             },
@@ -359,6 +377,12 @@
                         "x": 420,
                         "y": 478,
                         "size": 50
+                    },
+                    {
+                        "map": "challenge market map",
+                        "x": 373,
+                        "y": 70,
+                        "size": 25
                     }
                 ]
             },
@@ -439,6 +463,135 @@
                         "x": 520,
                         "y": 478,
                         "size": 50
+                    },
+                    {
+                        "map": "challenge market map",
+                        "x": 320,
+                        "y": 109,
+                        "size": 25
+                    }
+                ]
+            },
+            {
+                // Boss Market Card Rewards.
+                // Only in Challenge Market.
+                "name": "Boss Market Card Rewards",
+                "sections": [
+                    {
+                        "name": "Blank Card",
+                        "ref": "market card reward/exclusive/blank card"
+                    },
+                    {
+                        "name": "Capitalist's Dilemma",
+                        "ref": "market card reward/exclusive/nitori story card"
+                    },
+                    {
+                        "name": "Hundredth Black Market",
+                        "ref": "market card reward/exclusive/takane story card"
+                    },
+                    {
+                        "name": "Maneki-neko with Good Business Skills",
+                        "ref": "market card reward/exclusive/mike card"
+                    },
+                    {
+                        "name": "Bumper Crop of Life",
+                        "ref": "market card reward/exclusive/minoriko card"
+                    },
+                    {
+                        "name": "Stimulating Scales",
+                        "ref": "market card reward/exclusive/eternity card"
+                    },
+                    {
+                        "name": "Yamanba's Kitchen Knife",
+                        "ref": "market card reward/exclusive/nemuno card"
+                    },
+                    {
+                        "name": "Ice Fairy",
+                        "ref": "market card reward/exclusive/cirno card"
+                    },
+                    {
+                        "name": "Smelt's Scales",
+                        "ref": "market card reward/exclusive/wakasagi card"
+                    },
+                    {
+                        "name": "Freewheeling Severed Head",
+                        "ref": "market card reward/exclusive/sekibanki card"
+                    },
+                    {
+                        "name": "Drenched Giant Snake",
+                        "ref": "market card reward/exclusive/urumi card"
+                    },
+                    {
+                        "name": "Laid-Back Invertebrate",
+                        "ref": "market card reward/exclusive/ebisu card"
+                    },
+                    {
+                        "name": "Too-Honest Signpost",
+                        "ref": "market card reward/exclusive/kutaka card"
+                    },
+                    {
+                        "name": "Physical Enhancement Jizo",
+                        "ref": "market card reward/exclusive/jizo card"
+                    },
+                    {
+                        "name": "Hasty Detour of the Three Crossings",
+                        "ref": "market card reward/exclusive/komachi card"
+                    },
+                    {
+                        "name": "Shed Snakeskin Amulet",
+                        "ref": "market card reward/exclusive/sanae card 2"
+                    },
+                    {
+                        "name": "Maid Knife (Ricochet)",
+                        "ref": "market card reward/exclusive/sakuya card 2"
+                    },
+                    {
+                        "name": "Half-Ghost's Spare Part",
+                        "ref": "market card reward/exclusive/youmu card 2"
+                    },
+                    {
+                        "name": "Yin-Yang Orb (Needle)",
+                        "ref": "market card reward/exclusive/reimu card 2"
+                    },
+                    {
+                        "name": "Spirit Power Sample Bottle",
+                        "ref": "market card reward/exclusive/tsukasa card"
+                    },
+                    {
+                        "name": "Great Tengu's Barley Rice",
+                        "ref": "market card reward/exclusive/megumu card"
+                    },
+                    {
+                        "name": "Life-Burning Torch",
+                        "ref": "market card reward/exclusive/clownpiece card"
+                    },
+                    {
+                        "name": "Keystone Missile",
+                        "ref": "market card reward/exclusive/tenshi card 2"
+                    },
+                    {
+                        "name": "Drunkenly Whimsical Ibuki Gourd",
+                        "ref": "market card reward/exclusive/suika card"
+                    },
+                    {
+                        "name": "Reliable Tanuki Apprentice",
+                        "ref": "market card reward/exclusive/mamizou card"
+                    },
+                    {
+                        "name": "Indominable Meathead",
+                        "ref": "market card reward/exclusive/saki card 2"
+                    },
+                    {
+                        "name": "Gluttonous Centipede",
+                        "ref": "market card reward/exclusive/momoyo card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "challenge market map",
+                        "x": 373,
+                        "y": 109,
+                        "size": 25
                     }
                 ]
             }

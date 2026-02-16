@@ -197,7 +197,7 @@
                     },
                     {
                         "name": "clownpiece card",
-                        "access_rules": ["5th_market","challenge_logic,challenge_market"],
+                        "access_rules": ["5th_market","challenge_market,challenge_logic"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
