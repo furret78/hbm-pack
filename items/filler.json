@@ -208,5 +208,19 @@
         "overlay_font_size": 14,
         "overlay_background": "#000000",
         "codes": "magic_circle_attack"
+    },
+    {
+        "name": "Bullet Money Loss",
+        "type": "consumable",
+        "img": "images/items/filler/minus_bullet_money.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "minus_bullet_money"
     }
 ]

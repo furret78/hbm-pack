@@ -1,5 +1,5 @@
 {
-    "shared_item_grid_horizontal": {
+    "shared_boss_grid_horizontal": {
         "type": "array",
         "orientation": "horizontal",
         "margin": "0,0",
@@ -80,10 +80,24 @@
                                 "momoyo_defeat"
                             ]
                         ]
-                    },
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
                     {
                         "type": "text",
-                        "text": "Ability Cards (Card Market)"
+                        "text": "Permanent Card Market"
                     },
                     {
                         "type": "itemgrid",
@@ -181,12 +195,817 @@
                                 "teacup_marisa_card"
                             ]
                         ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Ability Card Dex"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_blank_card",
+                                "unlock_nitori_story_card",
+                                "unlock_takane_story_card",
+                                "unlock_reimu_card1",
+                                "unlock_marisa_card1",
+                                "unlock_yukari_card",
+                                "unlock_nitori_card",
+                                "unlock_kanako_card",
+                                "unlock_flandre_card",
+                                "unlock_futo_card",
+                                "unlock_aya_card",
+                                "unlock_life_card",
+                                "unlock_patchouli_card",
+                                "unlock_ringo_card",
+                                "unlock_hijiri_card",
+                                "unlock_aunn_card",
+                                "unlock_lily_card",
+                                "unlock_koishi_card",
+                                "unlock_starsapphire_card",
+                                "unlock_lunachild_card",
+                                "unlock_sunnymilk_card",
+                                "unlock_tewi_card",
+                                "unlock_raiko_card",
+                                "unlock_eirin_card",
+                                "unlock_sumireko_card",
+                                "unlock_doremy_card",
+                                "unlock_takane_card",
+                                "unlock_suwako_card",
+                                "unlock_yuyuko_card",
+                                "unlock_youmu_card1",
+                                "unlock_kaguya_card",
+                                "unlock_seija_card",
+                                "unlock_sakuya_card1",
+                                "unlock_alice_card",
+                                "unlock_ufo_card",
+                                "unlock_okina_card",
+                                "unlock_sannyo_card",
+                                "unlock_tenshi_card1",
+                                "unlock_saki_card1",
+                                "unlock_eiki_card",
+                                "unlock_keiki_card",
+                                "unlock_toramaru_card"
+                            ],
+                            [
+                                "unlock_seiran_card",
+                                "unlock_misumaru_card",
+                                "unlock_miko_card",
+                                "unlock_mayumi_card",
+                                "unlock_joon_card",
+                                "unlock_shion_card",
+                                "unlock_junko_card",
+                                "unlock_yachie_card",
+                                "unlock_marisa_card2",
+                                "unlock_moon_card",
+                                "unlock_mokou_card",
+                                "unlock_sanae_card1",
+                                "unlock_utsuho_card",
+                                "unlock_remilia_card",
+                                "unlock_mike_card",
+                                "unlock_minoriko_card",
+                                "unlock_eternity_card",
+                                "unlock_nemuno_card",
+                                "unlock_cirno_card",
+                                "unlock_wakasagi_card",
+                                "unlock_sekibanki_card",
+                                "unlock_urumi_card",
+                                "unlock_ebisu_card",
+                                "unlock_kutaka_card",
+                                "unlock_jizo_card",
+                                "unlock_komachi_card",
+                                "unlock_sanae_card2",
+                                "unlock_sakuya_card2",
+                                "unlock_youmu_card2",
+                                "unlock_reimu_card2",
+                                "unlock_tsukasa_card",
+                                "unlock_megumu_card",
+                                "unlock_clownpiece_card",
+                                "unlock_tenshi_card2",
+                                "unlock_suika_card",
+                                "unlock_mamizou_card",
+                                "unlock_saki_card2",
+                                "unlock_momoyo_card",
+                                "unlock_teacup_reimu_card",
+                                "unlock_teacup_marisa_card",
+                                "unlock_nazrin_card1",
+                                "unlock_nazrin_card2"
+                            ]
+                        ]
                     }
                 ]
             }
         ]
     },
-    "shared_item_grid_vertical": {
+    "shared_boss_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Stages Unlocked"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 64,
+                        "item_width": 64,
+                        "rows": [
+                            [
+                                "tutorial",
+                                "1st_market",
+                                "2nd_market",
+                                "3rd_market",
+                                "4th_market"
+                            ],
+                            [
+                                "5th_market",
+                                "6th_market",
+                                "end_of_market",
+                                "challenge_market",
+                                "challenge_logic"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Bosses Defeated"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tutorial - First Black Market Deal"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "mike_tutorial"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "1st Market - Secret Heaven Cliff"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "mike_defeat",
+                                "minoriko_defeat",
+                                "eternity_defeat",
+                                "nemuno_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "2nd Market - Misty Lake"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "center",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "cirno_defeat",
+                                "wakasagi_defeat",
+                                "sekibanki_defeat",
+                                "urumi_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "3rd Market - Sai no Kawara"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "ebisu_defeat",
+                                "kutaka_defeat",
+                                "narumi_defeat",
+                                "komachi_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "4th Market - Moriya Shrine (Dark Fair)"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "sanae_defeat",
+                                "sakuya_defeat",
+                                "youmu_defeat",
+                                "reimu_defeat",
+                                "nitori_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "5th Market - Youkai Mountain"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "tsukasa_defeat",
+                                "megumu_defeat",
+                                "clownpiece_defeat",
+                                "tenshi_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "6th Market - Rainbow Dragon Cave"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "suika_defeat",
+                                "mamizou_defeat",
+                                "saki_defeat",
+                                "momoyo_defeat",
+                                "takane_defeat"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "End of Market - Lunar Rainbow Market"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "chimata_defeat"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "card_shop_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Permanent Card Market"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Story Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "blank_card",
+                                "nitori_story_card",
+                                "takane_story_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tutorial-exclusive Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "reimu_card1",
+                                "marisa_card1",
+                                "yukari_card",
+                                "nitori_card",
+                                "kanako_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Common Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "flandre_card",
+                                "futo_card",
+                                "aya_card",
+                                "life_card",
+                                "patchouli_card",
+                                "ringo_card",
+                                "hijiri_card",
+                                "aunn_card",
+                                "lily_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Very Earlygame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "koishi_card",
+                                "starsapphire_card",
+                                "lunachild_card",
+                                "sunnymilk_card",
+                                "tewi_card",
+                                "raiko_card",
+                                "eirin_card",
+                                "sumireko_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Earlygame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "doremy_card",
+                                "takane_card",
+                                "suwako_card",
+                                "yuyuko_card",
+                                "youmu_card1",
+                                "kaguya_card",
+                                "seija_card",
+                                "sakuya_card1",
+                                "alice_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Midgame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "ufo_card",
+                                "okina_card",
+                                "sannyo_card",
+                                "tenshi_card1",
+                                "saki_card1",
+                                "eiki_card",
+                                "keiki_card",
+                                "toramaru_card",
+                                "seiran_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Lategame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "misumaru_card",
+                                "miko_card",
+                                "mayumi_card",
+                                "joon_card",
+                                "shion_card",
+                                "junko_card",
+                                "yachie_card",
+                                "marisa_card2",
+                                "moon_card"
+                            ],
+                            [
+                                "mokou_card",
+                                "sanae_card1",
+                                "utsuho_card",
+                                "remilia_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Exclusive Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "mike_card",
+                                "minoriko_card",
+                                "eternity_card",
+                                "nemuno_card",
+                                "cirno_card",
+                                "wakasagi_card",
+                                "sekibanki_card",
+                                "urumi_card"
+                            ],
+                            [
+                                "ebisu_card",
+                                "kutaka_card",
+                                "jizo_card",
+                                "komachi_card",
+                                "sanae_card2",
+                                "sakuya_card2",
+                                "youmu_card2",
+                                "reimu_card2"
+                            ],
+                            [
+                                "tsukasa_card",
+                                "megumu_card",
+                                "clownpiece_card",
+                                "tenshi_card2",
+                                "suika_card",
+                                "mamizou_card",
+                                "saki_card2",
+                                "momoyo_card"
+                            ],
+                            [
+                                "teacup_reimu_card",
+                                "teacup_marisa_card"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "card_dex_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Ability Card Dex"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Story Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_blank_card",
+                                "unlock_nitori_story_card",
+                                "unlock_takane_story_card",
+                                "unlock_nazrin_card1",
+                                "unlock_nazrin_card2"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tutorial-exclusive Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_reimu_card1",
+                                "unlock_marisa_card1",
+                                "unlock_yukari_card",
+                                "unlock_nitori_card",
+                                "unlock_kanako_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Common Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_flandre_card",
+                                "unlock_futo_card",
+                                "unlock_aya_card",
+                                "unlock_life_card",
+                                "unlock_patchouli_card",
+                                "unlock_ringo_card",
+                                "unlock_hijiri_card",
+                                "unlock_aunn_card",
+                                "unlock_lily_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Very Earlygame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_koishi_card",
+                                "unlock_starsapphire_card",
+                                "unlock_lunachild_card",
+                                "unlock_sunnymilk_card",
+                                "unlock_tewi_card",
+                                "unlock_raiko_card",
+                                "unlock_eirin_card",
+                                "unlock_sumireko_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Earlygame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_doremy_card",
+                                "unlock_takane_card",
+                                "unlock_suwako_card",
+                                "unlock_yuyuko_card",
+                                "unlock_youmu_card1",
+                                "unlock_kaguya_card",
+                                "unlock_seija_card",
+                                "unlock_sakuya_card1",
+                                "unlock_alice_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Midgame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_ufo_card",
+                                "unlock_okina_card",
+                                "unlock_sannyo_card",
+                                "unlock_tenshi_card1",
+                                "unlock_saki_card1",
+                                "unlock_eiki_card",
+                                "unlock_keiki_card",
+                                "unlock_toramaru_card",
+                                "unlock_seiran_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Lategame Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_misumaru_card",
+                                "unlock_miko_card",
+                                "unlock_mayumi_card",
+                                "unlock_joon_card",
+                                "unlock_shion_card",
+                                "unlock_junko_card",
+                                "unlock_yachie_card",
+                                "unlock_marisa_card2",
+                                "unlock_moon_card"
+                            ],
+                            [
+                                "unlock_mokou_card",
+                                "unlock_sanae_card1",
+                                "unlock_utsuho_card",
+                                "unlock_remilia_card"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "text": "Exclusive Cards"
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 32,
+                        "item_width": 32,
+                        "rows": [
+                            [
+                                "unlock_mike_card",
+                                "unlock_minoriko_card",
+                                "unlock_eternity_card",
+                                "unlock_nemuno_card",
+                                "unlock_cirno_card",
+                                "unlock_wakasagi_card",
+                                "unlock_sekibanki_card",
+                                "unlock_urumi_card"
+                            ],
+                            [
+                                "unlock_ebisu_card",
+                                "unlock_kutaka_card",
+                                "unlock_jizo_card",
+                                "unlock_komachi_card",
+                                "unlock_sanae_card2",
+                                "unlock_sakuya_card2",
+                                "unlock_youmu_card2",
+                                "unlock_reimu_card2"
+                            ],
+                            [
+                                "unlock_tsukasa_card",
+                                "unlock_megumu_card",
+                                "unlock_clownpiece_card",
+                                "unlock_tenshi_card2",
+                                "unlock_suika_card",
+                                "unlock_mamizou_card",
+                                "unlock_saki_card2",
+                                "unlock_momoyo_card"
+                            ],
+                            [
+                                
+                                "unlock_teacup_reimu_card",
+                                "unlock_teacup_marisa_card"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "broadcast_item_grid": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
@@ -278,7 +1097,7 @@
                     },
                     {
                         "type": "text",
-                        "text": "Ability Cards (Card Market)"
+                        "text": "Permanent Card Market"
                     },
                     {
                         "type": "itemgrid",

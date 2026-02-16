@@ -35,6 +35,25 @@
             }
         ]
     },
+    "tabbed_items_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Stages + Bosses",
+                "content": {
+                    "type": "layout",
+                    "key": "shared_boss_grid_horizontal"
+                }
+            },
+            {
+                "title": "Ability Cards",
+                "content": {
+                    "type": "layout",
+                    "key": "shared_item_grid_horizontal"
+                }
+            }
+        ]
+    },
     "tabbed_maps_vertical": {
         "type": "tabbed",
         "tabs": [
@@ -48,7 +67,7 @@
                 }
             },
             {
-                "title": "1 + 2",
+                "title": "1 & 2",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -68,7 +87,7 @@
                 }
             },
             {
-                "title": "3 + 4",
+                "title": "3 & 4",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -88,7 +107,7 @@
                 }
             },
             {
-                "title": "5 + 6",
+                "title": "5 & 6",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -105,6 +124,32 @@
                             ]
                         }
                     ]
+                }
+            }
+        ]
+    },
+    "tabbed_items_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Stages & Bosses",
+                "content": {
+                    "type": "layout",
+                    "key": "shared_boss_grid_vertical"
+                }
+            },
+            {
+                "title": "Card Market",
+                "content": {
+                    "type": "layout",
+                    "key": "card_shop_grid_vertical"
+                }
+            },
+            {
+                "title": "Card Dex",
+                "content": {
+                    "type": "layout",
+                    "key": "card_dex_grid_vertical"
                 }
             }
         ]

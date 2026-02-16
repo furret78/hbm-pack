@@ -62,5 +62,13 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "5th_market"
+    },
+    {
+        "name": "2nd Market Unlock",
+        "type": "toggle",
+        "img": "images/items/stage/2nd_market.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "2nd_market"
     }
 ]

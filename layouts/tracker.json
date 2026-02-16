@@ -17,7 +17,7 @@
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "shared_item_grid_vertical"
+                                "key": "tabbed_items_vertical"
                             }
                         }
                     ]
@@ -60,7 +60,7 @@
                                 "type": "layout",
                                 "h_alignment": "center",
                                 "v_alignment": "center",
-                                "key": "shared_item_grid_horizontal"
+                                "key": "tabbed_items_horizontal"
                             }
                         }
                     ]
